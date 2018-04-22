@@ -161,7 +161,7 @@ def get_word_info(word):
         print('get explanation failed:  ',word)
 
 if __name__ == '__main__':
-    with open('economist_419.txt','r')as fmd:
+    with open('cet4_finally.txt','r')as fmd:
         for line in fmd:
             words = line.split(',')
             for word in words:
@@ -170,10 +170,10 @@ if __name__ == '__main__':
                     try:
                         get_word_info(word)
                         print('spidering ',word)
-                        time.sleep(random.random()+1)
+                        time.sleep(random.random()+0.5)
                     except Exception as err:
                             print(word,err)
             time.sleep(10)
     print(failed)
-    with open('economist_419.json','w') as fx:
+    with open('cet4_420.json','w') as fx:
         json.dump(resultDict,fx)

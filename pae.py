@@ -34,26 +34,24 @@ def get_word_explanation(html_selector,word):
 
 def get_parse(html_selector,word):
     parses = {}
-    hanyi_xpath='/html/body/div[1]/div[2]/div[1]/div[2]/div[2]/div[2]/div[1]/div[1]/div[5]'
+    hanyi_xpath='/html/body/div[1]/div[2]/div[1]/div[2]/div[2]/div[2]/div[1]/div[1]/div[5]/p'
     try:
         get_hanyi=html_selector.xpath(hanyi_xpath)
+        no = 0
         for item in get_hanyi:
-            pp = item.xpath('p/text()')
-            no = 1
-            for ptext in pp:
-              if ';' in ptext:
-                  faa = 'p[{}]/span/a/text()'.format(no)
-                  aa=item.xpath(faa)
-                  translation = ptext.strip()
-                  translation = translation.replace("\n", "")
-                  translation = translation.replace(' ','')
-                  ajoin = '_'.join(aa)
-                  parses[ajoin]=translation
-                  no += 1
+            enp = 'span[1]/a[1]/text()'
+            aa=item.xpath(enp)
+            cnp = './text()'
+            translation = item.xpath(cnp)
+            translation = (''.join(translation)).strip()
+            translation = translation.replace("\n", "")
+            translation = translation.replace(' ','')
+            ajoin = '_'.join(aa)
+            parses[ajoin]=translation
     except Exception as err:
         print(err,'get parses error: ',word)
-
     return parses
+
 def get_prono(html_selector,word):
     dic = {}
     goodPro='/html/body/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/h2[1]/div[1]/span'
@@ -78,7 +76,7 @@ def remove_blank_line(arg):
         result = list(map(lambda i:i.replace(" ", ""),result1))
     else:
         result = 'aaaaaaaaaa'
-    return result
+    return resulta
 
 def get_similar_transform(html_selector,word):
     dic = {}
@@ -139,9 +137,14 @@ def get_eg(html_selector,word):
     return dic
 
 resultDict = {} 
+cet46base = {}
+cet46_model_phrase = {}
 failed = []
 def get_word_info(word):
     wordDict = {}
+    base = {}
+    mp = {}
+
     pagehtml=get_page(word)
     selector = etree.HTML(pagehtml.decode('utf-8'))
     expl = get_word_explanation(selector,word)
@@ -156,12 +159,22 @@ def get_word_info(word):
         wordDict['st'] = simTransform
         wordDict['eg2'] = eg2
         resultDict[word] = wordDict
+
+        base['ex'] = expl
+        base['pron'] = pron
+        base['st'] = simTransform
+
+        mp['wp'] = webparse
+        mp['eg2'] = eg2
+         
+        cet46base[word] = base
+        cet46_model_phrase[word] = mp
     else:
         failed.append(word)
         print('get explanation failed:  ',word)
 
 if __name__ == '__main__':
-    with open('economist_419.txt','r')as fmd:
+    with open('oooo.txt','r')as fmd:
         for line in fmd:
             words = line.split(',')
             for word in words:
@@ -170,10 +183,17 @@ if __name__ == '__main__':
                     try:
                         get_word_info(word)
                         print('spidering ',word)
-                        time.sleep(random.random()+1)
+                        time.sleep(random.random()+1.3)
                     except Exception as err:
                             print(word,err)
-            time.sleep(10)
+            time.sleep(4)
     print(failed)
-    with open('economist_419.json','w') as fx:
+
+    with open('ooa.json','w') as fx:
         json.dump(resultDict,fx)
+
+    with open('oobase.json','w') as fy:
+        json.dump(cet46base,fy)
+
+    with open('oomodel.json','w') as fz:
+        json.dump(cet46_model_phrase,fz)
