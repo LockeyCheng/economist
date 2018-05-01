@@ -6,9 +6,23 @@ from functools import reduce
 import json
 import random
 import requests
+import sys
+import os
+from sys import argv
 
 replace_blank = re.compile('\n')
 times = 0
+
+ebasic = {}
+emodel = {}
+resultDict = {}
+failed = []
+failedbi = []
+failedbei = []
+
+with open('economist.json','r') as fe:
+    completeDict = json.load(fe)
+
 def get_page(myword):
     html = None
     try:
@@ -80,7 +94,7 @@ def remove_blank_line(arg):
         result = list(map(lambda i:i.replace(" ", ""),result1))
     else:
         result = 'aaaaaaaaaa'
-    return resulta
+    return result
 
 def get_similar_transform(html_selector,word):
     dic = {}
@@ -140,25 +154,36 @@ def get_eg(html_selector,word):
         dic.append([pega,pcna])
     return dic
 
-resultDict = {} 
-failed = []
-failedbi = []
 def get_word_info(word):
+    global resultDict
+    global completeDict
+    global ebasic
+    global emode
+
     wordDict = {}
     pagehtml=get_page(word)
     selector = etree.HTML(pagehtml.decode('utf-8'))
     expl = get_word_explanation(selector,word)
     pron = get_prono(selector,word)
     if expl != []:
+        emodeli = {}
         wordDict['ex'] = expl
         wordDict['pron'] = pron
         webparse = get_parse(selector,word)
         eg2 = get_eg(selector,word)
         simTransform = get_similar_transform(selector,word)
-        wordDict['wp'] = webparse
         wordDict['st'] = simTransform
+        ebasic[word] = wordDict
+
+        wordDict['wp'] = webparse
         wordDict['eg2'] = eg2
+
+        emodeli['wp'] = webparse
+        emodeli['eg2'] = eg2
+
+        emodel[word] = emodeli
         resultDict[word] = wordDict
+        completeDict[word] = wordDict
     else:
         print('get explanation failed:  ',word)
         bing_get_word(word)
@@ -223,8 +248,11 @@ def bing_get_yingbiao(html_selector,word):
     else:
         pass#print('bing no pronounciation: ',word)
         return [0,0]
-failedbei = []
 def getWordExplanation(word):
+    global resultDict
+    global completeDict
+    global ebasic
+
     try:
         getUrl = 'https://api.shanbay.com/bdc/search/?word={}'.format(word)
         res = requests.get(getUrl)
@@ -248,6 +276,8 @@ def getWordExplanation(word):
                 egs.append(eg_cn)
         filterData['eg2'] = egs
         resultDict[word] = filterData
+        completeDict[word] = filterData
+        ebasic[word] = filterData
     except Exception as err:
         print(word,err)
         failedbei.append(word)
@@ -255,6 +285,9 @@ def getWordExplanation(word):
         print(word)
 
 def bing_get_word(word):
+    global resultDict
+    global completeDict
+    global ebasic
     wordDict = {}
     #获得页面
     pagehtml=bing_get_page(word)
@@ -273,16 +306,35 @@ def bing_get_word(word):
     if citiao != None:
         print('bing get citiao',word)
         resultDict[word] = wordDict
+        completeDict[word] = wordDict
+        ebasic[word] = wordDict
     else:
         failed.append(word)
         print('bing faild ',word)
 
-if __name__ == '__main__':
-    with open('todaymd.txt','r')as fmd:
+def spiTxts(inputFile,outputFile):
+    global resultDict
+    global completeDict
+    global emodel
+    global ebasic
+    lineno = 0
+    with open(inputFile,'r')as fmd:
         for line in fmd:
+            if lineno == 0:
+                resultDict['keywords'] = line
+                lineno += 1
+                continue
             words = line.split(',')
             for word in words:
+                    if len(word) <= 3:
+                        continue
+
                     if not word or word == '\n':
+                        continue
+
+                    if word in completeDict:
+                        resultDict[word] = completeDict[word]
+                        print(word,' in dictionary!')
                         continue
                     try:
                         get_word_info(word)
@@ -295,7 +347,50 @@ if __name__ == '__main__':
     print(failedbi)
     for wo in failed:
         getWordExplanation(wo)
-    with open('todaymd.json','w') as fx:
+    print('oooooooooooooooover',inputFile)
+    with open(outputFile,'w') as fx:
         json.dump(resultDict,fx)
 
+    with open('economist.json','w')as fi:
+        json.dump(completeDict,fi)
+
+    with open('economist_model.json','w')as fj:
+        json.dump(emodel,fj)
+
+    with open('economist_basic.json','w')as fk:
+        json.dump(ebasic,fk)
+    ebasic = {}
+    emodel = {}
+    resultDict = {} 
+    time.sleep(5)
     print(failedbei)
+
+
+if __name__ == '__main__':
+    script_name,dateStr = argv
+    if not dateStr:
+        dateStr = time.strftime('%Y-%m-%d',time.localtime(time.time()))
+    toYear,toMonth,toDay = list(map(int,dateStr.split('-')))
+    txtPath = './mds/' + dateStr +'/words/'
+    jsonPath = './mds/' + dateStr +'/jsons/'
+    test = False
+    readTxt = []
+    if test == True:
+        spiTxts('todaymd.txt','todaymd.json')
+        sys.exit()
+    if os.path.exists(txtPath):
+        for item in os.listdir(txtPath):
+            readTxt.append([txtPath+item,item])
+
+    if len(readTxt) <= 0:
+        print('NO PAPER TO FILTER!')
+        sys.exit()
+
+    if not os.path.exists(jsonPath):
+        os.makedirs(jsonPath)
+
+    for txt in readTxt:
+        spiTxt = txt[0]
+        outJson = jsonPath + txt[1][0:-3]+'json'
+        print('spiiiiiiiiiiiing',txt[1])
+        spiTxts(spiTxt,outJson)

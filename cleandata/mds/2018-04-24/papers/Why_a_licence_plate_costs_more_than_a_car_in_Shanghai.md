@@ -1,0 +1,21 @@
+Why a licence plate costs more than a car in Shanghai?
+
+Chinese cities find extreme ways of tackling congestion
+
+LIU LEI has been waiting to buy a car for more than seven years. Sadly, Mr Liu, an engineer from Beijing, has had no luck in the capital’s licence-plate lottery. Introduced in 2011, this system for allocating number plates aims to tackle the city’s problems of rage-inducing congestion and asphyxiating pollution. Under the scheme, the city imposes annual quotas on the issuing of new licence plates. Buying a car requires proof that one is in hand. Obtaining a plate involves entering a bimonthly draw. The odds of winning fell from 6% in February 2011 to an all-time low of 0.2% this February (see chart). In the latest one 2.8m people contended for 6,460 plates.
+
+In Shanghai, the financial capital, there are also strict quotas. Unlike their counterparts in Beijing, however, city officials put the plates up for auction online. At the most recent monthly sale, around 217,000 bidders battled for 9,855 licence plates. The average winning bid was 88,176 yuan ($14,022), more than it costs to buy many domestically made cars. Last year Shanghai raised 12bn yuan in licence-plate sales, about 2% of its total revenue.
+
+Yet it is a hybrid model used in the southern city of Guangzhou that has become the favoured approach among policymakers in China’s biggest cities. Under this system, some plates are distributed by lottery and the rest sold at auction. Since Guangzhou adopted this approach in 2012, three other large cities—Shenzhen, Hangzhou and Tianjin—have adopted it.
+
+None of the three methods is ideal. Start with Beijing’s. Some people place a much higher value on owning a car than others. The lottery system takes no account of that. This fuels a black market. Websites abound with illegal offers by lottery winners to rent out their plates. The average yearly fee for one is about 12,000 yuan.
+
+Beijing’s system also breeds corruption. Song Jianguo, then head of the city’s traffic-management bureau, was jailed for life in 2015 for demanding backhanders in exchange for rigging the lottery. A bribe of at least 200,000 yuan was reportedly needed to guarantee victory. Mr Song pocketed a tidy 24m yuan before getting caught. Even today, 70% of Beijingers believe the lottery involves dodgy goings-on.
+
+Shanghai’s auctions help avoid the creation of a black market. Yet they are unfair on the less well-off. Average winning bids have risen by a third in less than three years. Residents moan that owning a car has become the preserve of the super-rich. The city says it reinvests proceeds from its auctions in public transport. But in class-conscious Shanghai, owning a car is as much a status symbol as a means of transport. Obtaining a plate from elsewhere does not help much. Shanghai, like some other big cities, bans cars with non-local plates from using inner-city roads for much of the business day.
+
+Guangzhou thinks it has hit upon the right compromise. By combining the lottery and auction systems it aims to make everyone happy. Those with deeper pockets can bid at auction, and poorer folk still have a shot at winning the lottery. But a recent study by Jinhua Zhao and Shenhao Wang of the Massachusetts Institute of Technology shows that the benefit of such a system is less than meets the eye.
+
+The coexistence of an auction reduces the number of lottery participants, but only slightly. Lottery entrants in Guangzhou still have a tiny chance of success; the winning odds were just 0.8% in the most recent lottery draw in March. Meanwhile, auction prices are not necessarily lower in cities with mixed systems. In December the average winning bid for a licence plate in Shenzhen, for example, set a national record of 95,100 yuan.
+
+There is still hope for people like Mr Liu, however. To fight pollution, officials in nearly all big cities are allocating separate quotas of licence plates for buyers of electric or hybrid cars. Such vehicles are also heavily subsidised. In fact, Mr Liu’s wife has just applied for an electric-vehicle plate. These are offered on a first-come first-served basis. The odds are much better. Only four people are vying for each one.
