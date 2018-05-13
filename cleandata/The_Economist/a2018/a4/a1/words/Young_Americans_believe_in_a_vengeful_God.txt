@@ -1,0 +1,3 @@
+worship,deity,gallup,persecution,profess,divine,vengeful,devout,alas,pew,masse,reveal,crop
+
+profess,masse,vengeful,crop,devout,worship,persecution,alas,pew,gallup,deity,divine,reveal

@@ -1,0 +1,29 @@
+When did Donald Trump make it “crystal clear” the travel ban was not a Muslim ban? 
+
+The dispute over the president’s motives continues after last month’s hearing at the Supreme Court
+
+ORDINARILY, at the end of a Supreme Court oral argument, the chief justice announces that “the case is submitted”, the gavel bangs, and nothing more is heard until the ruling is released weeks later. Not so with 
+
+ the battle over the legality of Donald Trump’s travel ban that was heard on April 25th. A puzzling claim in the closing seconds of the Trump administration’s defence for barring 150m people, mainly Muslims, from America, has inspired a rare letter of correction from the solicitor-general, further damning statements from the White House and a counter-letter to the justices on behalf of the challengers.
+
+The small flurry of post-hearing activity focuses on a central concern of the case: Mr Trump’s motivation in declaring his series of restrictions on travel to America. The challengers claim the ban should be seen in light of Mr Trump’s campaign-trail calls for a “complete and total shutdown” of Muslim travel into America and his anti-Muslim tweets and comments since taking office. The president’s defenders, meanwhile, insist that Mr Trump’s motives are pure. The third version of his travel ban, implemented in October, was based only on his advisers’ recommendations regarding “countries that failed to provide the minimum baseline of information needed to vet their nationals”, not on presidential animus. 
+
+Noel Francisco (pictured), the solicitor-general, closed his rebuttal at the hearing in April by pointing to a purported presidential statement “on September 25th” when Mr Trump “made crystal clear...that he had no intention of imposing the Muslim ban”. Your correspondent and fellow reporters in the press gallery—as well as law professors 
+
+ of the University of California at Irvine and 
+
+ of Georgetown—wondered about this. The president announced his most recent travel ban on September 24th—after the first two versions met with ample judicial resistance—but no statement on that day or the next amounted to a pellucid confirmation that his ban had nothing to do with anti-Muslim bias. 
+
+It seems Mr Francisco had misspoken. On May 1st, he sent a short 
+
+ to Scott Harris, clerk of the Supreme Court: “At oral argument in this matter last week, I referred during my rebuttal to a statement by the president ‘on September 25’....I intended to refer to the president's statement on January 25, 2017, that is cited in the government's reply brief at page 28, note 8”. Mr Francisco asked Mr Harris to share this new information with the justices. So what does the footnote refer to? An exchange in an 
+
+ with David Muir of ABC on the eve of Mr Trump’s first travel ban: 
+
+Is this a crystal-clear denial that the travel restrictions were intended as Muslim ban? It’s true Mr Trump says the words, “no it’s not the Muslim ban”. But the rest of Mr Trump’s comments betray his true feelings and motivation: preventing people “with evil intentions” from entering America who come from “countries that have tremendous terror”. Not to put too fine a point on it, he says, flatly, “in many cases...they’re ISIS”. The message is rather clear, and the president reiterated it many times during 2017: Muslims (he told Mr Muir the ban will “exclud[e] certain countries”) are dangerous people, and America must keep them out. Compare this with the sanitised argument last month from Mr Francisco that the targeted countries are simply those that fail to share enough information on their travellers with American authorities. Mr Trump’s worries about terror-plagued nations sending bloodthirsty murderers to slaughter Americans have shifted, for the legal record, to countries that don’t update their databases often enough. 
+
+Another 
+
+ to the justices filed by Amir Ali explains why the comments of January 25th do not constitute crystal-clear evidence that Mr Trump’s motives were innocent. When on April 30th a reporter gave Mr Trump an opportunity to “apologise for some of your rhetoric during the campaign” to satisfy the travel-ban challengers, who said a disavowal of anti-Muslim animus would put an end to the constitutional objection, the president doubled down. “I don’t think it would”, he said. “And there’s no reason to apologise. Our immigration laws in this country are a total disaster...There’s nothing to apologise for.” A few days earlier, on the afternoon of the Supreme Court hearing, Sarah Huckabee Sanders ducked another reporter’s query. “Does the White House disavow that campaign proposal, or does it stand by it?” Rather than answer the question directly, Ms Sanders repeated the administration’s talking points regarding the third travel ban and concluded, again taking some liberties with the word “clearly”, “I think that alone, in action, answers your question clearly”.
+
+It is no mystery why Ms Sanders and Mr Trump refuse to disavow or apologise for the comments Mr Trump made about Muslims as a candidate for president, and as president: he doesn’t want to admit to having been xenophobic, and he stands by his position that Muslims around the world pose a national-security threat to America. The letters concerning Mr Francisco’s erroneous statement aren’t likely to change any justices’ minds—and a conservative majority may decide that the legality of the travel rules has nothing at all to do with Mr Trump’s attitudes. But the post-hearing rumpus shows that if the Supreme Court upholds the president’s proclamation when it hands down its judgment in June, it will do so without any assurances that the policy is far removed from a most incendiary campaign promise.

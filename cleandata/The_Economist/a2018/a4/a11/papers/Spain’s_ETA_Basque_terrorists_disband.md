@@ -1,0 +1,21 @@
+Spain’s ETA Basque terrorists disband
+
+The “battle for the narrative” continues
+
+LAGUN, a bookshop in San Sebastián, opened 50 years ago in March, just weeks before ETA, a Basque terrorist group, carried out its first killing, of a policeman. Lagun’s owners were socialists and were fined for closing their shop during a strike against General Franco, Spain’s dictator of 1939-1975. But it was ETA that made their venture almost impossible. The shop, in the city’s old quarter, suffered years of politically inspired vandalism culminating in the public burning of the stock by ETA sympathisers. After the husband of one of the owners was gravely wounded in a terrorist attack, the shop moved to a safer site in the city centre. ETA’s hostility was for the same reason as Franco’s, says Ignacio Latierro, its surviving owner. “We weren’t prepared to do what they wanted.”
+
+Over the past decade, Mr Latierro has seen the fading of ETA. The group’s disbandment, marked by a ceremony on May 4th across the border in France and attended by a motley collection of foreign observers, was a formality. It declared an indefinite ceasefire in 2011 and handed over some weapons caches last year. Its disbandment came with an apology for its killing of civilians, but not of police.
+
+ETA leaves many wounds in Basque society. The disappearance of western Europe’s last home-grown terrorist group opens a new battle, for the narrative of what really happened in one of Spain’s richest regions. Founded to fight against the Franco regime and for Basque independence, ETA lost its 
+
+ when Spain became a democracy in the late 1970s and its three Basque provinces gained sweeping self-rule. By then ETA had imbibed a toxic cocktail of Marxism-Leninism and mystical ultranationalism. Some 95% of its 850 murders took place after the death of Franco. Many of its victims were local councillors, business people or police in the small towns and tight valleys in the hinterland of San Sebastián. It was a nighmarish and claustrophobic world in which victims found that their persecutors were the children of neighbours.
+
+Two things were behind ETA’s defeat: pressure from the Spanish, Basque and French police; and global, and eventually local, revulsion against terrorism. Doubts emerged among its own supporters. After Spain passed a law banning parties that supported terrorism, some of the group’s leaders created a new party, EH Bildu, which abjured violence.
+
+This won 21% of the vote at a regional election in 2016, coming second behind the moderate Basque National Party (PNV). It sees ETA’s terrorism as a politically inspired “armed struggle” between Basques and Spaniards. “The conflict still exists, though in different parameters,” says Koro Etxeberria, the deputy mayor of Hernani, a Bildu stronghold. “We demand the right to decide [on independence]”. Bildu’s first concern is the 300 ETA prisoners, 80% of them dispersed to facilities across Spain. The PNV, which runs the Basque government, supports moving them to local jails. Spain’s government, under pressure from victims’ groups, is opposed, for now at least.
+
+In the 1970s and 1980s, some 66 people were killed by the police or death squads, one linked to the Interior Ministry. Some suspects were tortured. A former interior minister was jailed over these abuses. “Everyone has to do self-criticism,” says Agus Hernan of Foro Social, a group promoting dialogue, reconciliation and “inclusive memory”. “We can’t have the idea of winners and losers.”
+
+That is anathema to many others. José Antonio Pérez, a historian at the University of the Basque Country, rejects the idea that there were two sides. Unlike in Northern Ireland, “there was never a political party or social group that supported police crimes,” he says. “Reconciliation is an empty word,” retorts Consuelo Ordoñez, the leader of a victims’ group whose brother was murdered by ETA and who was herself driven into internal exile. “We’ve fought peacefully, we’ve never done anything to them.”
+
+Most Basques are somewhere in the middle, claims Andoni Ortuzar, the PNV’s general secretary: “they see the history of ETA as a failure and something that should never happen again, but they also think that many other things happened here.” For others it is much more straightforward. It is a victory for democracy and a defeat for terrorism. 

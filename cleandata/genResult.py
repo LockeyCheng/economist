@@ -14,7 +14,7 @@ records = {}
 paperTitle = 'Lockey23'
 keywords = None
 
-
+dayArr = [31,29,31,30,31,30,31,31,30,31,30,31]
 def genPaper(spidJson,origMd,genJson,nextPaper):
     global records
     global paperTitle
@@ -27,8 +27,103 @@ def genPaper(spidJson,origMd,genJson,nextPaper):
     print(lastPaper)
     with open(spidJson,'r')as fj:
        dic = json.load(fj)
-    keywords = dic['keywords']
+    keys = list(dic.keys())
+    keys = [i for i in keys if len(i)>2]
 
+    keywords = dic['keywords']
+    dic.pop('keywords')
+
+    with open(origMd,'r')as fm:
+        lineno = 0
+        for line in fm:
+            if lineno == 0:
+                paperTitle = line
+                lineno += 1
+                continue
+            newLine = line
+            for key in keys:
+                span = '<span class="fa fa-info-circle">' + key + '</span>'
+                if re.search(key, newLine):
+                    newLine = re.sub(key, span, newLine, flags=re.IGNORECASE)
+                    continue
+                word = False
+                if key.endswith('ing'):
+                    word = key[0:-3]
+
+                if key.endswith('ers'):
+                    word = key[0:-1]
+
+                if key.endswith('ies') or key.endswith('ied') or key.endswith('ily'):
+                    word = key[0:-3]+'y'
+
+                if key.endswith('ded') or key.endswith('ted'):
+                    word = key[0:-2]
+
+                if key.endswith('ment') or key.endswith('ness'):
+                    word = key[0:-4]
+
+
+                if word and len(word) >2:    
+                    span = '<span class="fa fa-info-circle">' + word + '</span>'
+                    if re.search(word, newLine):
+                        newLine = re.sub(word, span, newLine, flags=re.IGNORECASE)
+                        continue
+
+                if key.endswith('ly'):
+                    word = key[0:-2]
+                    span = '<span class="fa fa-info-circle">' + word + '</span>'
+                    if re.search(word, newLine) and len(word) >2:
+                        newLine = re.sub(word, span, newLine, flags=re.IGNORECASE)
+                        continue
+
+                if key.endswith('ed') or key.endswith('es') or key.endswith('ts'):
+                    word = key[0:-1]
+                    span = '<span class="fa fa-info-circle">' + word + '</span>'
+                    if re.search(word, newLine) and len(word) >2:
+                        newLine = re.sub(word, span, newLine, flags=re.IGNORECASE)
+                        continue
+
+                if key.endswith('s'):
+                    word = key[0:-1]
+                    span = '<span class="fa fa-info-circle">' + word + '</span>'
+                    if re.search(word, newLine) and len(word) >2:
+                        newLine = re.sub(word, span, newLine, flags=re.IGNORECASE)
+                        continue
+
+                if key.endswith('tion'):
+                    word = key[0:-4]
+                    if re.search(word, newLine) and len(word) >2:
+                        span = '<span class="fa fa-info-circle">' + word + '</span>'
+                        newLine = re.sub(word, span, newLine, flags=re.IGNORECASE)
+                        continue
+                    word += 't' 
+                    if re.search(word, newLine) and len(word) >2:
+                        span = '<span class="fa fa-info-circle">' + word + '</span>'
+                        newLine = re.sub(word, span, newLine, flags=re.IGNORECASE)
+                        continue
+            
+            result.append(newLine)
+
+        resultStr = ' '.join(result)
+        article={'date':'{} By Lockey.'.format(dateStr),'content':resultStr,'last':lastPaper,'next':nextPaper,'assistent':dic,'title':paperTitle,'keywords':keywords}
+        with open(genJson,'w') as fj:
+            json.dump(article,fj)
+
+
+def genPaperOld(spidJson,origMd,genJson,nextPaper):
+    global records
+    global paperTitle
+    global keywords
+    result = []
+    try:
+        lastPaper = records['lastPaper']
+    except Exception as err:
+        lastPaper = ''
+    print(lastPaper)
+    with open(spidJson,'r')as fj:
+       dic = json.load(fj)
+    keywords = dic['keywords']
+    dic.pop('keywords')
     with open(origMd,'r')as fm:
         lineno = 0
         for line in fm:
@@ -84,7 +179,7 @@ def genPaper(spidJson,origMd,genJson,nextPaper):
                         i = i[0:-1]
                   
                     for item in dic:
-                        if len(reali) >3 and (re.search(item[0:len(i)],i) or re.search(i[0:len(item)],item)) and reali not in exclude:
+                        if len(i) >3 and (re.search(item[0:len(i)],i) or re.search(i[0:len(item)],item)) and reali not in exclude and i not in exlude:
                             i = '<span class="fa fa-info-circle">'+reali+'</span>'+suffix
                             break
                     if len(i) < 20:
@@ -97,7 +192,7 @@ def genPaper(spidJson,origMd,genJson,nextPaper):
                         elif i.endswith('es') or i.endswith('ed'):
                             i = i[0:-1]
                         for item in dic:
-                            if len(reali) >3 and (re.search(item[0:len(i)],i) or re.search(i[0:len(item)],item)) and reali not in exclude:
+                            if len(i) >3 and (re.search(item[0:len(i)],i) or re.search(i[0:len(item)],item)) and reali not in exclude and i not in exclude:
                                 i = '<span class="fa fa-info-circle">'+reali+'</span>' + suffix
                                 break
                         if len(i) < 18:
@@ -118,16 +213,32 @@ def genPaper(spidJson,origMd,genJson,nextPaper):
 import qrcode
 
 if __name__ == '__main__':
-        script_name,dateStr = argv
-        if not dateStr:
+        try:
+            script_name,paperType,dateStr = argv
+        except Exception as err:
+            print(err)
+            paperType = 'te'
             dateStr = time.strftime('%Y-%m-%d',time.localtime(time.time()))
-        mdPath = './mds/' + dateStr +'/papers/'
-        spijsonPath = './mds/' + dateStr +'/jsons/'
-        genjsonPath = './mds/' + dateStr +'/results/'
+        if paperType == 'te':
+            basedir = './The_Economist/'
+        if paperType == 'mail':
+            basedir = './Mail_Online/'
+
+        toYear,toMonth,toDay = list(map(int,dateStr.split('-')))
+        ayear = 'a' + str(toYear)
+        amonth = 'a' + str(toMonth)
+        aday = 'a' + str(toDay)
+        dateDir = ayear + '/' + amonth +'/' + aday
+
+        mdPath = basedir + dateDir +'/papers/'
+        spijsonPath = basedir + dateDir +'/jsons/'
+        genjsonPath = basedir + dateDir +'/results/'
+
         intY,intM,intD = dateStr.split('-') 
         toYear,toMonth,toDay = list(map(int,dateStr.split('-')))
+        paperRecords = basedir + 'paperRecords.json'
 
-        with open('paperRecords.json','r')as fo:
+        with open(paperRecords,'r')as fo:
             records = json.load(fo)
 
         paperArr = []
@@ -154,21 +265,35 @@ if __name__ == '__main__':
         for pp in paperArr:
             todayPush = len(records[ayear][amonth][aday])
             title = '{}_{}_{}_{}.json'.format(toYear,toMonth,toDay,todayPush+1)
-            nextPaper = '{}_{}_{}_{}.json'.format(toYear,toMonth,toDay,todayPush+2)
-            print('curretTitle: ',title)
-            print('currentPaper: ',pp[0])
-            genPaper(pp[1],pp[0],genjsonPath+title,nextPaper)            
+            if todayPush == len(paperArr)-1:
+                eyear = toYear
+                emonth = toMonth
+                eday = toDay + 1
+                if eday > dayArr[toMonth-1]:
+                    emonth = toMonth + 1
+                    eday = 1
+
+                if emonth >12:
+                    eyear = toYear + 1
+                    emonth = 1
+                    eday = 1
+                print(eyear,emonth,eday,dayArr[toMonth-1])
+                nextPaper = '{}_{}_{}_{}.json'.format(eyear,emonth,eday,1)
+            else:
+                nextPaper = '{}_{}_{}_{}.json'.format(toYear,toMonth,toDay,todayPush+2)
+            genPaper(pp[1],pp[0],genjsonPath+title,nextPaper)
+            #genPaperOld(pp[1],pp[0],genjsonPath+title,nextPaper)            
             records['lastPaper'] = title
             paperId = str(intY)+str(intM)+str(intD)+str(todayPush+1)
-            link = 'https://lockeycheng.github.io/economist/index.html?paper={}'.format(paperId)
+            link = 'https://lockeycheng.github.io/iooi/index.html?paper={}'.format(paperId)
             print(link)
             img = qrcode.make(link)
             linkeTitle = '{}_{}_{}_{}'.format(toYear,toMonth,toDay,todayPush+1)
-            imgFile = './economistQrcode/'+linkeTitle+'.png'
+            imgFile = basedir + 'QRimages/'+linkeTitle+'.png'
             with open(imgFile,'wb') as fo:
                 img.save(fo)
             thisArr = [title,paperTitle,keywords]
             records[ayear][amonth][aday].append(thisArr)
 
-        with open('paperRecords.json','w')as fa:
+        with open(paperRecords,'w')as fa:
             json.dump(records,fa)

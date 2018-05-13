@@ -1,0 +1,29 @@
+Gay and women’s rights are remarkably a part of Lebanon’s elections
+
+A new generation of Lebanese votes for the first time on May 6th
+
+Decriminalising homosexuality, abolishing child marriage, improving women’s rights and introducing secular laws. These are just some of the issues that are cropping up as a new Lebanese generation votes for the first time on May 6th. The last election was in 2009—when the iPhone was two years old and Barack Obama was six months into office.
+
+The current parliament voted three times to extend its mandate. Many Lebanese feel that their government has been corrupt and ineffective. Now, independent candidates are competing against the established political parties that have presided over the country for decades. Although some independents have past ties to the major parties, many have campaigned against the government for years. A total of 595 candidates are competing for 128 seats; some 66 candidates class themselves as independent.
+
+These candidates, with the backing of civil-society groups, are advocating for national reforms. Some are calling for the abolition of a law forbidding “sexual intercourse contrary to the order of nature”, which is often used to persecute gay men. They also want more secular laws, including civil marriage. Others say that Lebanese women should be allowed to pass on their nationality to their children, a privilege currently reserved for men, and want to establish a minimum age of marriage at 18.
+
+This is the first time that Lebanese citizens aged between 21 and 30 will vote
+
+Civil-society groups have been active in Lebanon for some time, but the establishment of a national coalition of independent candidates—who have set aside their differences to form electoral lists in nine of the country’s 15 districts—marks the first time that disparate groups have banded together on this scale. They became unified in the wake of protests that erupted in Beirut in 2015, when the government failed for a long time to clear away the city’s rubbish. Mountains of waste piled up in the streets, rotting in the summer heat. The rubbish crisis emboldened activists to run for parliament: “Change is not just about complaining, it’s also about participating in making the change” says Joumana Haddad, a feminist author and journalist who is running for election in Beiruton.
+
+This is the first time that Lebanese citizens currently aged between 21 and 30 will have been able to vote. Many of them are more liberal than their parents. But the question is whether they believe in the democratic process. “The general trend among young people is not to care about politics,” says Walid Fakhereddine, director of Take Action, a non-partisan group working to engage first-time voters. To convince young people to vote, Take Action is mounting a social media campaign, handing out comic books about democracy and staging mock elections at universities and outside popular bars in Beirut.
+
+“Change is not just about complaining, it’s also about participating in making the change.”
+
+Despite these grassroots efforts, pundits doubt that the independent candidates will win many seats. Lebanon’s new electoral system combines proportional representation with religious quotas. It makes it hard for newcomers running secular campaigns to compete with incumbent candidates, who already have a strong support base from their own religious sect. In return for votes, the politicians give jobs and handouts to their co-religionists. Patronage, rather than policy, often determines people’s choices. 
+
+Major parties are not threatened by the civil-society movement, believes Lokman Slim, a political commentator. They think it has “no electoral weight”, he says. But there are signs that suggest otherwise. Major parties are attempting to discredit independent candidates, claiming absurdly that they are funded by the CIA, Mossad or the Qatari government. An image circulating on WhatsApp claims that they are proxies for Hizbullah, a Shia militia that is very powerful in Lebanon, planted to take votes away from its opponents.
+
+Several parties have adopted campaign slogans that play on the language used by anti-government protesters in 2015, promising to fight corruption and improve basic services. “They’re speaking our language. They’re campaigning around the same values,” says Zeina el-Helou, a former secretary-general of the Lebanese Association for Democratic Elections. “Much more than anyone would think, they’re afraid of these groups.” 
+
+Bassam Khawaja of Human Rights Watch says that none of the parties currently in power was willing to commit to a list of ten recommendations for improving human rights in Lebanon, including decriminalising homosexuality, banning child marriage, granting citizenship rights to the children of Lebanese mothers and improving the rights of refugees and migrant workers. By contrast, 24 independent candidates made public commitments to reform on all ten issues.
+
+Even one or two parliamentarians who support human rights could make a difference, Mr Khawaja says. Recently, there have been several cases in which judges have refused to convict men accused of homosexuality because the law is so vague—it does not spell out what “sexual intercourse contrary to the order of nature” means. And last year, a law allowing rapists to escape prosecution by marrying their victims was scrapped. That milestone was achieved largely thanks to a single MP who championed draft legislation written by civil-society groups.
+
+Sunday’s election should help to gauge the extent of support for the civil-society movement in Lebanon. Yet regardless of the outcome, the real work will begin after the polling is over. The movement has brought together disparate groups whose interests are closely aligned but not yet unified. To achieve their goals, they will need to find a way to work together in the long term–perhaps with a foot in the door of parliament.

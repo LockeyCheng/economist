@@ -1,0 +1,5 @@
+Access to banking services is spreading throughout the developing world
+
+People are increasingly relying on mobile apps, rather than physical banks
+
+IN 2017 the number of people without access to banking services fell to 1.7bn, down from 2.5bn in 2011, thanks largely to the rise of mobile-payment apps. Physical banks and ATMs can be expensive to setup, especially in rural areas, but the rise of mobile banking has meant that for the first time, hundreds of millions of people living in the developing world now have access to finance. According to the Findex, an index compiled by the World Bank, only 69% of adults around the world have bank or mobile-money accounts. But 78% of wage-earners without bank accounts have mobile phones. So mobile-payment services should have plenty of room for further growth.
