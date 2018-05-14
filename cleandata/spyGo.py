@@ -326,7 +326,7 @@ def spiTxts(inputFile,outputFile):
                 continue
             words = line.split(',')
             for word in words:
-                    if len(word) <= 3:
+                    if len(word) <= 2:
                         continue
 
                     if not word or word == '\n':
@@ -342,12 +342,17 @@ def spiTxts(inputFile,outputFile):
                              get_word_info(word)
                              time.sleep(2)
                              if word not in completeDict:
-                                 get_word_info(word[0:-1])
+                                 word = word[0:-1]
+                                 if d.check(word):
+                                     get_word_info(word)
                         elif word.endswith('ly'):
                              get_word_info(word)
                              time.sleep(2)
                              if word not in completeDict:
-                                 get_word_info(word[0:-2])
+                                 word = word[0:-21]
+                                 if d.check(word):
+                                     get_word_info(word)
+
                         else:
                              get_word_info(word)
                         print('youdao spidering ',word)

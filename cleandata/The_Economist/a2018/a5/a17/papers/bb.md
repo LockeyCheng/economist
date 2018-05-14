@@ -1,0 +1,28 @@
+Tension surges across the Middle East as America turns tougher on Iran
+
+
+Donald Trump’s decision to pull out of the nuclear deal with Iran is rippling across the region
+
+LMOST everybody claims to have foreseen Donald Trump’s decision, but when the thunderbolt came it was even more cacophonous than most people expected. Excoriating the nuclear bargain with Iran struck by his predecessor and five other leaders as a “horrible, one-sided deal”, the president finally declared on May 8th that he was pulling out. Henceforth, he promised, America would use its muscle to extract far bigger concessions from the Islamic Republic.
+
+These would include an end to “terrorist activities” in the region and to the development of ballistic missiles. Faced with such a show of strength, Mr Trump predicted, Iran’s leaders “are going to want to make a new and lasting deal”.
+
+There was little sign of any such desire in Tehran, where hawkish figures gloated that Mr Trump had confirmed their doubts about bargaining with the West, while relative moderates, such as President Hassan Rouhani, said there was only a small window of opportunity to save the agreement. Signed by Barack Obama in 2015, the deal severely curbed Iran’s nuclear-fuel programme in return for sanctions relief worth billions of dollars. UN inspectors and a broad range of other observers, including Tamir Pardo, a former Israeli intelligence chief, agree that Iran had more or less kept its part of the accord.
+
+The leaders of the three European countries that signed the deal—Britain, France and Germany—reacted immediately to Mr Trump’s thundering speech with a declaration that they remained committed to its terms, despite the president’s decision to ignore their advice and walk away. The other parties, Russia and China, came together to issue their own proclamation of “unwavering support” for the accord.
+
+A Trumpian retort
+
+However Ayatollah Ali Khamenei, Iran’s supreme leader, snarled at Mr Trump, via Twitter, that he would be “worm food” before the Islamic Republic bowed to his demands. He said his country would quit the agreement unless the European signatories could offer solid guarantees that trade relations would be unaffected by the American withdrawal (see article). Mr Rouhani, meanwhile, said there was a “short time” to negotiate ways of salvaging the agreement with the five remaining parties. And, just in case this failed, he ordered Iran’s atomic agency to be ready to ratchet up its enrichment programme. That would amount in Western eyes to resuming the quest for a nuclear bomb, and raise the spectre of war. Mr Trump said this would incur “very severe” consequences.
+
+General Muhammad Ali Jafari, the head of Iran’s Revolutionary Guard, which reports directly to Mr Khamenei, never placed much hope in the nuclear deal. “We welcome Trump’s decision on pulling out of the deal,” he said sarcastically, predicting that the Europeans would soon follow America’s lead.
+
+Binyamin Netanyahu, Israel’s prime minister, cut short a visit to Cyprus to hail Mr Trump’s “bold decision”, which he had strongly advocated, although many in his country’s defence and intelligence establishment feel that the deal was, on balance, beneficial. Minutes after the American president spoke there were fresh reminders of regional tension, which will certainly escalate, in the short term, as a result of Mr Trump’s move. Israel denounced “irregular Iranian activity” in the Golan Heights, called up conscripts and opened bomb shelters for civilians. On May 10th Israel said it hit dozens of Iranian positions in its most intensive attack on Syria in decades after 20 rockets were fired by Iranian forces in Syria towards Israeli territory.
+
+Mr Netanyahu accused Iran of preparing to deploy “very dangerous weapons” in Syria with the aim of destroying Israel. Soon afterwards he left for Moscow, where he was expected to urge his Russian hosts to restrain their Syrian and Iranian friends. Russia, however, is unlikely to be willing or able to exercise that sort of leverage, and some senior Israeli defence officials said they hoped Mr Netanyahu would also press Mr Trump to keep American troops in Syria. (The president has promised to withdraw his country’s small contingent.)
+
+Fallout from Mr Trump’s decision was felt across the Middle East, where hostility between Saudi Arabia and Iran, respective champions of Sunni and Shia Islam, crackles on many fronts. In Iraq, which will hold an election on May 12th, hard-line and pro-Iranian members of the country’s Shia majority were expected to raise their profile, making it tougher for Haider al-Abadi, the incumbent prime minister and likely victor, to maintain his balancing act between the Saudis and the Iranians (see article). Hopes suddenly seemed to fade that Iraq could at long last overcome sectarianism as the defining feature of its bitter internal contests.
+
+Although he stopped short of explicitly calling for regime change in Tehran, Mr Trump made a bid for Iranian hearts and minds by declaring that “the people of America stand with you” and by deploring the fact that 40 years had passed since a “dictatorship seized power and took a proud nation hostage.” He said Iran’s citizens were “rightful heirs to a rich culture” and the future should belong to them.
+
+But commentators in Tehran said the regime could all too easily use America’s hostility as an excuse to come down hard on dissent, which is rising as a result of the country’s economic doldrums and plummeting currency. In recent months, one observer noted, Iran’s rulers have been relatively tolerant of strikes and protests by workers; Mr Trump’s move could give them a perfect excuse to crack down.

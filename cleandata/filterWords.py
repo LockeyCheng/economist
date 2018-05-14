@@ -2,7 +2,6 @@
 from collections import Counter
 import re
 import os
-#获取目录中所有txt结尾的文件名列表，因为本题条件单纯，所以也可以使用os.listdir()方法
 import json
 import time
 import sys
@@ -10,15 +9,13 @@ from sys import argv
 import enchant
 d = enchant.Dict("en_US")
 
-
+toos = ['said','was','how','from','such','but','there','not','with','about','the','this', 'that', 'tomorrow', 'yesterday', 'next', 'last', 'one', 'over', 'under', 'above', 'below', 'beyond', 'besides', 'except', 'among', 'along', 'for', 'except', 'because', 'due', 'before', 'after', 'ago', 'later', 'towards', 'since', 'give', 'teach', 'buy', 'lend', 'find', 'and','hand', 'leave', 'sell', 'show', 'read', 'pay', 'make', 'offer', 'build', 'pass', 'bring', 'cook', 'are', 'were', 'did', 'has', 'have', 'had', 'will', 'shall', 'would', 'should', 'can', 'could', 'may', 'might', 'must', 'shall', 'should', 'will', 'would', 'need', 'ought', 'look', 'sound', 'taste', 'smell', 'feel', 'listen', 'seem', 'appear', 'become', 'get', 'besides', 'furthermore', 'moreover', 'yet', 'still', 'however', 'nevertheless', 'else', 'otherwise', 'thus', 'hence', 'therefore', 'accordingly', 'consequently', 'when', 'while', 'as', 'although', 'that', 'where', 'you', 'him', 'they', 'them', 'she', 'her', 'your', 'his', 'itsour', 'your', 'their', 'mine', 'hers', 'its', 'ours', 'yours', 'theirs']
 exclude = []
 with open('simpleWords.json','r')as fo:
     exclude = json.load(fo)
 time.sleep(1)
 
-def getOrigianlForm(word):
-    if not word.isalpha():
-        return False
+def notSimple(word):
     if word in exclude:
         return False
     if word.endswith('ment') or word.endswith('ness'):
@@ -131,39 +128,63 @@ def wc(filename,outPath):
             #content = re.sub('[-\"\|,.)(“”]', " ",line.lower())
             #lst = content.split(' ')
             lst = re.split('\W+',line)
-            lst1 = [i.lower() for i in lst if len(i)>2 and d.check(i) and getOrigianlForm(i)]
+            lst1 = [i.lower() for i in lst if len(i)>2 and i.isalpha()]
             resultDict.extend(lst1)
             
 
     wordlst = Counter(resultDict)
     dicLen = len(wordlst)
 
-    mb = wordlst.most_common(15)
-    mbai = [item[0] for item in mb]
-    print('--------------------------------------------------------------most 100')
-    print(','.join(mbai))
+    mb = wordlst.most_common(20)
+    mbai = [item[0] for item in mb if item[0] not in toos]
 
     allWordsPre = wordlst.most_common(dicLen)
     result = []
-    allwords = [item[0] for item in allWordsPre if len(item[0]) >2 and item[0] not in exclude]
+    allwords = [item[0] for item in allWordsPre if len(item[0]) >2 and notSimple(item[0]) and d.check(item[0])]
     for i in allwords:
+        orw = i
         if i.endswith('ting') or i.endswith('ping') or i.endswith('ning'):
             i = i[0:-3]
+            if not d.check(i):
+                i = i+'e'
+
         if i.endswith('ings'):
             i = i[0:-4]
+            if not d.check(i):
+                i = i+'e'
+
         if i.endswith('ing'):
-            i = i[0:-3]+'e'
+            i = i[0:-3]
+            if not d.check(i):
+                i = i+'e'
+
         if i.endswith('ers'):
             i = i[0:-1]
         if i.endswith('ies') or i.endswith('ied'):
             i = i[0:-3]+'y'
         if i.endswith('ded'):
             i = i[0:-2]
-        if i.endswith('es') or i.endswith('ts') or i.endswith('tions') or i.endswith('ments'):
-            i = i[0:-1]
+            if not d.check(i):
+                i = i+'e'
+        if i.endswith('ed'):
+            su = d.suggest(i)
+            le = len(i)
+            for wo in su:
+                if wo[0:le-2] == i[0:le-2] and len(wo) < le:
+                     i = wo
+                     break
+            
+        if i.endswith('s') or i.endswith('tions') or i.endswith('ments'):
+            su = d.suggest(i)
+            le = len(i)
+            for wo in su:
+                if wo[0:le-2] == i[0:le-2] and len(wo) < le:
+                     i = wo
+                     break
+
         if i in exclude:
             continue
-        if i.isalpha():
+        if d.check(i):
             result.append(i)
     baiStr = ','.join(mbai)+'\n\n'
     datas = baiStr+','.join(list(set(result)))
@@ -214,5 +235,5 @@ if __name__ == "__main__":
                 outWords = baseOut + paper[1][0:-2]+'txt'
                 print(countPaper,outWords)
                 wc(countPaper,outWords)
-
+        print('final all: ')
         print(','.join(allWords))

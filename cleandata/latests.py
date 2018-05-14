@@ -130,8 +130,6 @@ if __name__ == '__main__':
                 paperRecords[ayear][amonth][aday].append([item,article['head'][0]])
                 paperName = '_'.join(article['head'][0].split(' '))
                 saveMd = toDayDir + paperName+'.md'
-                if len(article['ps']) < 50:
-                    continue
                 result = article['head']+article['ps']
                 output = '\n\n'.join(result)
                 with open(saveMd,'w') as fw:
