@@ -1,0 +1,7 @@
+Artificial intelligence may change the way companies issue debt
+
+Automation is coming for investment bankers, too
+
+COMPANIES that want to borrow money through capital markets have conventionally had only one option: hiring an investment bank. In exchange for a hefty fee, these intermediaries shepherd their clients through the long process of selling debt, producing reams of documentation and rounding up willing buyers. Perhaps the most important service they provide is estimating the price that the market will bear for a given firm’s bonds. Historically, these calculations have been far from scientific: bankers typically sound out institutional investors to get a sense of their appetite for the bond, compare the would-be issuer’s financial profile to those of similar borrowers, and settle on a final number largely by feel and intuition.
+
+Overbond, a startup based in Toronto, is seeking to modernise this process using statistical forecasting methods. The company has developed an algorithm that estimates the price range a company is likely to command for its debt, a valuable tool for corporate treasurers. It also offers useful information to investors, by predicting when a firm is likely to issue its next new bond. Having started out in Canada, it is now expanding into America. In recent years automation has primarily taken away middle-skilled jobs. If companies like Overbond have their way, investment bankers may also see their ranks diminished.

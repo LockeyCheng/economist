@@ -1,0 +1,3 @@
+{"suggestedfocus": "7.58 Minutes", "wordsset": 237, "keywords": "oil,OPEC,price,production,prices,global,barrel,America,fall,United,States,Saudi,Arabia,crude,times,consumption", "toughwords": 32, "allwords": 369}
+
+mismanagement,implement,activate,deploy,upward,driller,steady,nadir,unruly,fuel,robust,bulk,appetite,recovery,shale,barrel,compliance,excess,restriction,consumption,guzzle,sanction,spurred,glut,petroleum,erase,jolt,strain,withdraw,fetches,represent

@@ -321,7 +321,8 @@ def spiTxts(inputFile,outputFile):
     with open(inputFile,'r')as fmd:
         for line in fmd:
             if lineno == 0:
-                resultDict['keywords'] = line
+                dic = json.loads(line)
+                resultDict['paperStatistics'] = dic
                 lineno += 1
                 continue
             words = line.split(',')

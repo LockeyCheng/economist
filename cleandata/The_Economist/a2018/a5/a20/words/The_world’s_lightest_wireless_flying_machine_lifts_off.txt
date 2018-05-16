@@ -1,0 +1,3 @@
+{"suggestedfocus": "8.33 Minutes", "wordsset": 227, "keywords": "power,RoboFly,robot,device,Fuller,team,wings,drone,laser,insect,University,colleagues,conventional,making,circuitry,motors", "toughwords": 46, "allwords": 350}
+
+buzz,stump,laser,tether,electrical,fuller,drone,ceramic,propeller,crack,automaton,insect,solar,circuitry,wireless,frequency,cable,capability,gizmo,beam,lighter,aloft,flapped,unceremoniously,gram,foil,unleash,viscosity,caveat,copper,rotor,sawyer,portable,robotic,wire,motor,dubbed,overcame,flap,piezoelectric,airborne,hurdle,sensor

@@ -29,9 +29,8 @@ def genPaper(spidJson,origMd,genJson,nextPaper):
        dic = json.load(fj)
     keys = list(dic.keys())
     keys = [i for i in keys if len(i)>2]
-
-    keywords = dic['keywords']
-    dic.pop('keywords')
+    paperStatistics = dic['paperStatistics']
+    dic.pop('paperStatistics')
 
     with open(origMd,'r')as fm:
         lineno = 0
@@ -105,7 +104,7 @@ def genPaper(spidJson,origMd,genJson,nextPaper):
             result.append(newLine)
 
         resultStr = ' '.join(result)
-        article={'date':'{} By Lockey.'.format(dateStr),'content':resultStr,'last':lastPaper,'next':nextPaper,'assistent':dic,'title':paperTitle,'keywords':keywords}
+        article={'date':'{} By Lockey.'.format(dateStr),'content':resultStr,'last':lastPaper,'next':nextPaper,'assistent':dic,'title':paperTitle,'paperStatistics':paperStatistics}
         with open(genJson,'w') as fj:
             json.dump(article,fj)
 
@@ -122,8 +121,7 @@ def genPaperOld(spidJson,origMd,genJson,nextPaper):
     print(lastPaper)
     with open(spidJson,'r')as fj:
        dic = json.load(fj)
-    keywords = dic['keywords']
-    dic.pop('keywords')
+       paperStatistics = dic['dic']
     with open(origMd,'r')as fm:
         lineno = 0
         for line in fm:
@@ -206,7 +204,7 @@ def genPaperOld(spidJson,origMd,genJson,nextPaper):
             result.append(oo)
         result = [i for i in result if i not in exclude]
         good = ' '.join(result)
-        article={'date':'{} By Lockey.'.format(dateStr),'content':good,'last':lastPaper,'next':nextPaper,'assistent':dic,'title':paperTitle,'keywords':keywords}
+        article={'date':'{} By Lockey.'.format(dateStr),'content':good,'last':lastPaper,'next':nextPaper,'assistent':dic,'title':paperTitle,'paperStatistics':paperStatistics}
         with open(genJson,'w') as fj:
             json.dump(article,fj)
 

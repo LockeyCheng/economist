@@ -9,7 +9,7 @@ from sys import argv
 import enchant
 d = enchant.Dict("en_US")
 
-toos = ['said','was','how','from','such','but','there','not','with','about','the','this', 'that', 'tomorrow', 'yesterday', 'next', 'last', 'one', 'over', 'under', 'above', 'below', 'beyond', 'besides', 'except', 'among', 'along', 'for', 'except', 'because', 'due', 'before', 'after', 'ago', 'later', 'towards', 'since', 'give', 'teach', 'buy', 'lend', 'find', 'and','hand', 'leave', 'sell', 'show', 'read', 'pay', 'make', 'offer', 'build', 'pass', 'bring', 'cook', 'are', 'were', 'did', 'has', 'have', 'had', 'will', 'shall', 'would', 'should', 'can', 'could', 'may', 'might', 'must', 'shall', 'should', 'will', 'would', 'need', 'ought', 'look', 'sound', 'taste', 'smell', 'feel', 'listen', 'seem', 'appear', 'become', 'get', 'besides', 'furthermore', 'moreover', 'yet', 'still', 'however', 'nevertheless', 'else', 'otherwise', 'thus', 'hence', 'therefore', 'accordingly', 'consequently', 'when', 'while', 'as', 'although', 'that', 'where', 'you', 'him', 'they', 'them', 'she', 'her', 'your', 'his', 'itsour', 'your', 'their', 'mine', 'hers', 'its', 'ours', 'yours', 'theirs']
+toos = ['though','great','woman','much','non','even','now','never','decision','rather','writing','best','became','group','too','used','men','giving','idea','white','say','taken','something','role','two','first','without','air','second','both','visit','three','own','style','also','other','all','themselves','year','type','women','between','student','who','only','people','think','going','what','cut','case','son','into','way','these','through','out','cannot','which','home','year','than','more','new','said','was','how','from','such','but','there','not','with','about','the','this', 'that', 'tomorrow', 'yesterday', 'next', 'last', 'one', 'over', 'under', 'above', 'below', 'beyond', 'besides', 'except', 'among', 'along', 'for', 'except', 'because', 'due', 'before', 'after', 'ago', 'later', 'towards', 'since', 'give', 'teach', 'buy', 'lend', 'find', 'and','hand', 'leave', 'sell', 'show', 'read', 'pay', 'make', 'offer', 'build', 'pass', 'bring', 'cook', 'are', 'were', 'did', 'has', 'have', 'had', 'will', 'shall', 'would', 'should', 'can', 'could', 'may', 'might', 'must', 'shall', 'should', 'will', 'would', 'need', 'ought', 'look', 'sound', 'taste', 'smell', 'feel', 'listen', 'seem', 'appear', 'become', 'get', 'besides', 'furthermore', 'moreover', 'yet', 'still', 'however', 'nevertheless', 'else', 'otherwise', 'thus', 'hence', 'therefore', 'accordingly', 'consequently', 'when', 'while', 'as', 'although', 'that', 'where', 'you', 'him', 'they', 'them', 'she', 'her', 'your', 'his', 'itsour', 'your', 'their', 'mine', 'hers', 'its', 'ours', 'yours', 'theirs']
 exclude = []
 with open('simpleWords.json','r')as fo:
     exclude = json.load(fo)
@@ -121,6 +121,7 @@ def notSimple(word):
 allWords = []
 def wc(filename,outPath):
     global allWords
+    global allkeys
     resultDict = []
     wordlst = None
     with open(filename, 'r') as fwc:
@@ -128,19 +129,20 @@ def wc(filename,outPath):
             #content = re.sub('[-\"\|,.)(“”]', " ",line.lower())
             #lst = content.split(' ')
             lst = re.split('\W+',line)
-            lst1 = [i.lower() for i in lst if len(i)>2 and i.isalpha()]
+            lst1 = [i for i in lst if len(i)>2 and i.isalpha()]
             resultDict.extend(lst1)
             
-
+    allLen = len(resultDict)
     wordlst = Counter(resultDict)
     dicLen = len(wordlst)
 
-    mb = wordlst.most_common(20)
-    mbai = [item[0] for item in mb if item[0] not in toos]
-
+    mb = wordlst.most_common(50)
+    mbai = [item[0] for item in mb if item[0].lower() not in toos and item[0].lower()[0:-1] not in toos and item[0].lower()[0:-2] not in toos]
+    mbai = mbai[0:16]
+    allkeys.extend(mbai)
     allWordsPre = wordlst.most_common(dicLen)
     result = []
-    allwords = [item[0] for item in allWordsPre if len(item[0]) >2 and notSimple(item[0]) and d.check(item[0])]
+    allwords = [item[0].lower() for item in allWordsPre if len(item[0]) >2 and notSimple(item[0].lower()) and d.check(item[0])]
     for i in allwords:
         orw = i
         if i.endswith('ting') or i.endswith('ping') or i.endswith('ning'):
@@ -170,11 +172,15 @@ def wc(filename,outPath):
             su = d.suggest(i)
             le = len(i)
             for wo in su:
+                if ' ' in wo:
+                   wo = wo.split(' ')[0]
+                if '-' in wo:
+                   wo = wo.split('-')[0]
                 if wo[0:le-2] == i[0:le-2] and len(wo) < le:
                      i = wo
                      break
             
-        if i.endswith('s') or i.endswith('tions') or i.endswith('ments'):
+        if i.endswith('s'):
             su = d.suggest(i)
             le = len(i)
             for wo in su:
@@ -186,14 +192,18 @@ def wc(filename,outPath):
             continue
         if d.check(i):
             result.append(i)
-    baiStr = ','.join(mbai)+'\n\n'
-    datas = baiStr+','.join(list(set(result)))
+
+
+    timeTake = str(dicLen/100 + (dicLen/allLen)*5.6 + (len(result)/dicLen)*12)[0:4] + ' Minutes'
+
+    wordD = {'suggestedfocus':timeTake,'wordsset':dicLen,'keywords':','.join(mbai),'toughwords':len(result),'allwords':allLen}
+    datas = json.dumps(wordD)+'\n\n'+','.join(list(set(result)))
     allWords.append(','.join(list(set(result))))
-    print('--------------------------------------------------------------all words string')
+    print('--------------------------------'+outPath+'--------------------------')
     print(datas)
     with open(outPath,'w') as fo:
         fo.write(datas)
-
+allkeys = []
 if __name__ == "__main__":
     try:
         script_name,paperType,dateStr = argv
@@ -237,3 +247,5 @@ if __name__ == "__main__":
                 wc(countPaper,outWords)
         print('final all: ')
         print(','.join(allWords))
+        print('all keys:')
+        print(','.join(allkeys))
