@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.1 Minutes", "wordsset": 328, "keywords": "CICIG,Guatemala,against,corruption,country,drug,president,prosecutors,war", "toughwords": 56, "allwords": 504}
+
+Alfonso,Guatemala,Guatemalan,Honduras,Impunity,Salvador,addle,appreciate,await,backlash,cartel,coalition,commissioner,convict,conviction,convince,corridor,corrupt,corruption,crusade,dismantle,echelon,embezzlement,extortion,facilitate,fraud,hostile,infiltrate,insurgency,investigate,judiciary,launder,mandate,negotiation,oust,outfit,oversight,peacekeeper,profile,prosecute,prosecution,prosecutor,rogue,smuggle,spark,sputter,squad,suspend,torn,transition,transmogrify,universally,wary,weary

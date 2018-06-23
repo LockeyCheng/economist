@@ -1,0 +1,3 @@
+{"suggestedfocus": "8.49 Minutes", "wordsset": 199, "keywords": "ball,coin,direction,flip,kick,shoot,success,team", "toughwords": 25, "allwords": 284}
+
+Goalkeeper,Huerta,Ignacio,Ironically,Penalty,convey,crap,differential,equilibrium,flip,goalkeeper,hefty,impressive,inefficiency,knockout,oppose,outsize,penalty,predictor,preference,proportion,scrapped,sequence,toss

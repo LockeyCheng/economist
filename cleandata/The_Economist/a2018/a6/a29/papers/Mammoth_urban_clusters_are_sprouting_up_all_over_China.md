@@ -1,0 +1,9 @@
+Mammoth urban clusters are sprouting up all over China
+
+By 2030, roughly one-fifth of the world’s city-dwellers will be Chinese
+
+https://cdn.static-economist.com/sites/default/files/20180630_WOM925.png
+
+CHINA’S urbanisation is a marvel. The population of its cities has quintupled over the past 40 years, and now totals 813m. By 2030 roughly one in five of the world’s city-dwellers will be Chinese. Bigger cities are associated with higher productivity and faster economic growth. As a result, the government has sought to foster the rise of mammoth urban clusters, anchored around giant hubs and containing dozens of smaller—but by no means small—nearby cities. The plan calls for 19 clusters in all, which would account for nine-tenths of the country’s economic activity. China would, in effect, condense into a country of super-regions. Three are already well on track: the Pearl River Delta, next to Hong Kong; the Yangtze River Delta, which surrounds Shanghai; and Jingjinji, centred on Beijing.
+
+Evidence about economic gains from clustering in China is promising, if limited. Counties enjoy a 6% boost in productivity from being tied into the Yangtze super-region, according to an article published last year in the Journal of the Asia Pacific Economy. But the researchers found few such gains in other regions. That might be because they looked at old data. A more recent study, published in April by the National Bureau of Economic Research in America, supported the idea of big knowledge spillovers in super-regions. When cities were connected by high-speed rail, the quantity and quality of academic papers by local researchers increased by nearly a third, according to the authors.

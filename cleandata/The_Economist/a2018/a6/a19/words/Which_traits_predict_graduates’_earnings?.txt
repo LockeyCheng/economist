@@ -1,0 +1,3 @@
+{"suggestedfocus": "7.82 Minutes", "wordsset": 215, "keywords": "academic,controlling,earnings,ethnicity,graduates,socioeconomic,traits,university", "toughwords": 24, "allwords": 355}
+
+Bangladeshi,Fiscal,adequately,aforementioned,ascribe,benign,cruder,descent,disadvantage,discrimination,ethnicity,graduation,holder,household,philosophy,predictor,premium,socioeconomic,static,statistically,takeaway,trait,variable

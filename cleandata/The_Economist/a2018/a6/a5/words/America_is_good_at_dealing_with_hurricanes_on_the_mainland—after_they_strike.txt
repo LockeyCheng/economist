@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.18 Minutes", "wordsset": 271, "keywords": "America,FEMA,Trump,climate,damage,hurricane,season,storms", "toughwords": 34, "allwords": 389}
+
+Atlantic,Atmospheric,Congressional,Emergency,Hurricane,Oceanic,allocate,appropriation,borne,buck,crises,delight,dole,frequency,hurricane,implement,inefficient,inflict,infrastructure,intense,policymaker,preparation,reckon,recovery,reference,shelter,strategic,struck,supplemental,typical,ultimately,wasteful,woefully

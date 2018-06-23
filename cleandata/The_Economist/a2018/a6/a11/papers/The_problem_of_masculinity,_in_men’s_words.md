@@ -1,0 +1,23 @@
+The problem of masculinity, in men’s words
+
+A verbatim play explores fatherhood and the models men are given to emulate
+
+https://cdn.static-economist.com/sites/default/files/20180609_BKP508.jpg
+
+“FATHERLAND”, a new play, arrives at the Lyric Hammersmith in London against a backdrop of awful deeds perpetrated by men. Allegations of sexual harassment and assault against Harvey Weinstein, a film producer, triggered the #MeToo movement; last week Mr Weinstein was indicted on charges of rape. In April, an “incel” (“involuntary celibate”) murdered ten people in Toronto. School shootings in America are 
+
+, with one shooter recently targeting an ex-girlfriend. On press night, even local traffic was affected by the problem of man. Roads were closed after a stabbing the night before, the latest in a spate of murders in London. Young men are usually the killers and the victims. 
+
+These horrors would once have been thought of as separate issues. Now many file them under toxic masculinity, the inevitable result of narrow conventions of manhood which limit male behaviour to dominance, violence and sexual aggression. There is a creeping sense that something is profoundly wrong with the institution of masculinity, skewing men’s perception of the lives they are expected to live. It is hurting women and children, and it is hurting men. Where is this toxicity coming from? How can it be stopped? 
+
+“Fatherland” does not set out to answer these questions, and nothing in it is as extreme as the examples that crowd the news. But insecurity and the weight of paternal influence—the transferred trauma, the quiet woundings, the things left unspoken—inform each experience the play describes. That note rings louder with each sounding. By the play’s end the audience hears it for what it is: an alarm.
+
+The play is a collaboration between Simon Stephens, a playwright, Karl Hyde, a musician (best known for founding Underworld, an electronic group) and Scott Graham, the artistic director of Frantic Assembly, a theatre company. They returned to their home towns of Kidderminster, Stockport and Corby to interview men, including their own fathers and each other. These accounts are presented as a collage of testimony, with an emphasis on honesty: the play is as interested in the answers as the interviews that fail, the questions avoided and the questions themselves. The all-male cast is always in motion, wheeling and swaggering from story to story, or bursting into original (and pleasingly odd) songs about “Match of the Day”, a football highlights programme, Steven Seagal or Kidderminster’s reputation as a transport hub. 
+
+It is an unusually personal production. Mr Hyde’s father (played by Neil McCaul) sings about the moment he held his son and the rest of the world fell away. Mr Graham (Declan Bennett) remembers waiting for his dad to come home from work on Saturday afternoons to take him to the football. Mr Stephens (Nyasha Hatendi) talks of his father’s alcoholism and early death. “I don’t think I would ever have written the plays I’ve written if that didn’t happen,” he says.
+
+All the memories in “Fatherland”, however powerful, are fragments. These fathers remain a mystery, remembered for a rare smile or a flash suit or a car that gave them pride. The men here are constantly rehearsing their masculinity, projecting the ghosts of their fathers, and struggling to truly reckon with their feelings. Without an involved paternal figure, many men are forced to make themselves up as they go; the play’s stylised attempts at male interaction and father-impersonation can be touching to watch.
+
+The blokeyness of the production would be overwhelming were it not for the deep fragility running through it. Poignant phrases rise above Mr Hyde’s pulsing techno score: “No, we don’t say the word ‘love’”; “We all hurt people sometimes”. These lyrics, also taken from the oral histories, have a Brechtian disregard for rhyme or scansion. Yet they work—their ungainliness feels appropriate for their subjects. “Fatherland” might be truest representation of masculinity staged in recent years. 
+
+The final chorus builds on the refrain “There’s a lot I’d like to know”, and this feeling of yearning lingers after the curtain falls. Can male expectations be calibrated, and the idea of what it means to be a man revised? Is there a way of stopping boys having their sensitivity shamed out of them? And what about preventing the sins of the father, when so many fathers are out of reach? The world is changing, and these are questions many would like the answer to. “Fatherland” offers no clear solutions, but it poses the problems—as men must now try to—with candour, tenderness and hope. 

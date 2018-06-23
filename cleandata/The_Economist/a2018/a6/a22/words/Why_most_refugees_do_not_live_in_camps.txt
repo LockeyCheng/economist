@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.06 Minutes", "wordsset": 285, "keywords": "Agency,Refugee,aid,camp,cities,governments,host,towns", "toughwords": 43, "allwords": 476}
+
+Bangladesh,Bangladeshi,Islamic,Kenya,Kurdish,Kurdistan,Resident,accommodate,apartment,autonomous,clinic,concentrate,concrete,confinement,cope,cordon,detain,distribute,dweller,estimate,forcibly,handout,indignity,informal,inoculate,integrate,miserable,monsoon,persecution,preferable,ration,reluctant,shelter,sprawl,sprung,squalor,startle,static,surge,swiftly,temporary,vulnerable

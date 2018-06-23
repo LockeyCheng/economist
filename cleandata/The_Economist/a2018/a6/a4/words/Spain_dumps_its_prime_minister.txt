@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.23 Minutes", "wordsset": 261, "keywords": "Rajoy,Socialists,Spain,S\u00e1nchez,confidence,corruption,economic,parliament", "toughwords": 45, "allwords": 426}
+
+Socialist,Spaniard,approve,bankruptcy,becalm,chamber,concession,conservative,corruption,credibility,demise,democratic,dissolution,dissolve,doom,emergence,endless,fickle,foe,fragment,hygiene,imply,kickback,naked,narrow,nationalist,opponent,opportunism,oppose,parliament,premium,prominent,recovery,remark,separatism,separatist,slump,stability,stolid,stroke,stubborn,treasurer,verdict

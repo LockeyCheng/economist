@@ -1,0 +1,39 @@
+Can Russia’s national football team emerge from its recent slump?
+
+Despite an emphatic 5-0 opening win, daft domestic policies are holding the country back
+
+https://cdn.static-economist.com/sites/default/files/20180623_BLP515.jpg
+
+ON JUNE 14th Russia kicked off its home World Cup with a thumping 5-0 win. Few of the 78,011 delighted fans at Moscow’s Luzhniki Stadium cared that the opponents, Saudi Arabia, had the lowest-ranked squad at the tournament, according to most forecasters. Nor did they worry about “expected goals”—a statistic that estimates how often a team would have scored and conceded on average, given the quality of its chances. Number-crunchers suggested that the most probable margin would have been about 2-0. Most commentators dwelt instead on a pair of outrageous curling strikes by Denis Cheryshev and Aleksandr Golovin. 
+
+The win gave the hosts a 92% chance of reaching the knockout rounds, 
+
+, a statistics website. The last time Russian players progressed that far, they were wearing the colours of the Soviet Union. Yet their current opportunity is largely a reflection on 
+
+. The hosts were automatically placed among the tournament’s eight top seeds, which prevented them from facing the likes of Germany or Brazil. They were then lucky enough to draw Egypt and Saudi Arabia. The two Arab countries are ranked 54th and 68th in the world by the Elo formula, a rating system commonly used in sports, which rewards teams according to the strength of their opponents, their margin of victory and the importance of the match.
+
+Yet Russia itself is ranked a lowly 40th. It gained two places by beating Saudi Arabia, its first victory in seven matches. The country has struggled to break into the top 40 for past two years—an embarrassment that its fans last endured in the early 1950s, when the Soviet Union first began playing regularly (see chart). For most of the 60 years since, Europe’s biggest country has been a considerable footballing force. The Soviet side enjoyed lengthy spells in the top ten, from 1957 to 1974 and from 1980 to 1990, including a couple of years in first place (according to Elo). It was unlucky to never reach the final of the World Cup, though it did make the final three times at the European Championship, winning once. 
+
+The Russian team has been less formidable, with its ranking generally hovering around the low teens. It reached seventh place shortly after reaching the semi-finals at the Euros in 2008, under the management of Guus Hiddink, who has enjoyed similarly impressive results with other underdog countries. Several of its best players were soon poached by Premier League clubs, including Andrey Arshavin by Arsenal, Yuri Zhirkov by Chelsea and Roman Pavyluchenko by Tottenham. The national team was ranked 15th by Elo just five years ago. 
+
+Since then, however, it has plummeted. Russia failed to win a game at either the World Cup in 2014 or the Euros in 2016. After a 3-0 defeat to Wales at the latter tournament, Leonid Slutsky, the coach, announced that his players had reached a simple conclusion: “We are shit.” What has caused the precipitous decline—and how easily can it be reversed?
+
+An obvious reason for Russia’s slump is a protectionist policy that backfired. In 2005 UEFA, football’s governing body in Europe, announced that clubs would have to include at least eight “home-grown” players in their squads of 25—a low bar, since foreigners that had signed as youngsters qualified. Some major European leagues introduced limits on the number of non-EU players within squads. Russia, however, has implemented a stricter quota: clubs must always have at least five players eligible for national selection on the pitch. 
+
+The rule was meant to encourage clubs to develop local talent instead of relying on mediocre foreign players. Yet an unintended consequence has been soaring domestic demand for the few Russian players good enough to compete in major European tournaments. The drastic increase in their salaries has made potential moves to tougher leagues less attractive. Igor Akinfeev, Alan Dzagoev and Aleksandr Kokorin, three of the brightest stars, have all turned down moves to glamorous English clubs, perhaps discouraged by the underwhelming impact of Messrs Arshavin, Pavlyuchenko and Zhirkov before them. Only two members of Russia’s World Cup squad play overseas. 
+
+21st Club, a football consultancy, notes that this reluctance to move is true for mediocre players too: just 0.5% of Russian professionals play in a stronger foreign division, the third-lowest proportion in Europe. Russia’s league is hardly a backwater, with the sixth-highest average Elo rating. But its best talents would benefit from expertise that they could glean elsewhere. When 
+
+ 
+
+, tapping into football’s global network proved crucial.
+
+This protectionism has been compounded by a conservative approach to nurturing youngsters, says Manuel Veth, editor of Futbolgrad.com, a Russian football website. The Soviet Union invested heavily in youth coaches and scouts. The under-20 national side won the inaugural junior World Cup in 1977, a feat that the seniors could only dream of, and reached three more semi-finals. The academy system crumbled after communism’s downfall, however. The Russian under-20s last qualified for the competition in 1995. The under-17s won the Euros in 2013, but have never won a knockout match at the World Cup. Mr Hiddink laments that the country failed to introduce a comprehensive scouting programme a decade ago.
+
+The problem is exacerbated by the clubs. They announce separate first- and second-team squads at the start of the each season, because the juniors compete in a separate league. Bizarrely, players are not allowed to switch between the two rosters. That stifles the first-team opportunities that youngsters get in other countries through injuries and loss of form. Coaches are also reluctant to select the few teenagers who do make the senior squad. 21st Club has found that just 1.5% of minutes in the Russian league are played by locals aged 20 or below, the second-lowest rate in Europe. Little wonder that the average age of Russia’s World Cup is nearly 29, the sixth-oldest at the competition.
+
+Those statistics will give Russian fans little cause to cheer, even if the current bunch do enjoy the country’s first run into the later rounds for 30 years. They should also be concerned by the precarious position of many clubs. Of the 36 in the top two divisions, 31 rely on funding from local governments or state-run firms, which have been squeezed during a recent recession and a slow recovery. Dynamo Moscow, one of the country’s most decorated teams, almost went bankrupt in 2016. Other sources of revenue are scant. Less than half of seats were filled in Russian stadiums in first-division matches between 2010 and 2017, compared with over 90% in England and Germany. Russian clubs earn an average of roughly €7m ($8m) per year from tickets and broadcasting, putting them behind competitors in Turkey, Portugal, the Netherlands and Scotland.
+
+Yet despite this doom and gloom, Russia should still be capable of regaining a place among the world’s top 20 teams. 
+
+ about how to blend a team’s historical performances with ratings for its individual players, but Russia’s are particularly far apart. Before the tournament, 21st Club ranked it 36th in terms of recent results, but 19th for the quality of its squad. Getting rid of the home-player quota—and perhaps replacing it with a requirement that coaches promote more juniors to train with the seniors—might produce an even stronger pool of talent. 5-0 wins against the likes of Saudi Arabia ought to be the norm, rather than the exception.

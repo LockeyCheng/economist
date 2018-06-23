@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.1 Minutes", "wordsset": 372, "keywords": "Jones,Paris,carbon,climate,companies,energy,global,insurers,investors,portfolios", "toughwords": 52, "allwords": 573}
+
+Initiative,Moody,Oakland,Stability,Sterner,Swiz,asses,bubble,calamity,cancel,combustion,commissioner,commitment,compatible,disclosure,dismiss,electricity,emission,encroach,examination,expose,hedge,horizon,imperil,institutional,insurer,intensive,lag,naught,notches,oblige,overvaluation,portfolio,premium,projection,prompt,ratification,ravage,reckon,renewable,resolutely,resolution,revive,strand,transition,transparent,unconcern,underwriter,unveil,utility,vow

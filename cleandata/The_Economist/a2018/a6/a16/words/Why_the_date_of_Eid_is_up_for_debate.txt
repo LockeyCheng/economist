@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.0 Minutes", "wordsset": 286, "keywords": "Eid,Islam,Muslim,countries,moon,mosques,religious", "toughwords": 54, "allwords": 434}
+
+Fatwa,Islamic,allegiance,ambiguous,anecdotal,anticipate,arduous,astronomical,avail,bizarre,calculation,celebration,cleric,coincide,concrete,congregation,controversy,crescent,culmination,eagerly,feast,fistfight,fragment,ideology,intense,interpretation,jostle,literal,lunar,marred,meteorological,methodology,modernist,mosque,multinational,naked,normality,occurrence,reinforce,reliance,revel,scholar,spike,spiritually,static,staunch,straightforward,subcontinent,traditionalism,traditionalist,tribalism,universal,visible

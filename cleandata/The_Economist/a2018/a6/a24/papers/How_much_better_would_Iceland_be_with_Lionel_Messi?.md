@@ -1,0 +1,23 @@
+How much better would Iceland be with Lionel Messi?
+
+Transferring Neymar to Costa Rica would make a bigger difference
+
+https://cdn.static-economist.com/sites/default/files/20180623_WOC929.png
+
+“FOOTBALL is a team game. No one plays alone. Success depends on your whole team being a single unit.” Those words could have been uttered by any coach trying to inspire a team of underdogs. In fact they were written by Pelé, a Brazilian striker widely regarded as his country’s greatest ever player.
+
+Anyone who has been watching the World Cup will agree with him. A well-drilled Mexican side eviscerated Germany on the counter-attack. Plucky Iceland and Switzerland have managed draws against Argentina and Brazil. Australia and Tunisia came within minutes of doing so against France and England. Though the smaller teams boasted no world-class players, their star-studded opponents were largely ineffectual. Lionel Messi received particular stick for missing a penalty against Iceland.
+
+Yet Icelanders, for all their pride in their resilient defence, would love to have Mr Messi on their side. Argentines, for all their grumbling about their captain’s failures in big games, would groan even more if he were injured. In the past, few statisticians tried to isolate the contributions of individual players. Pelé scored a remarkable 77 international goals in 91 games. But nobody knew how many he would have netted without the brilliant support of Garrincha and Jairzinho—or if he had played in another country’s colours.
+
+Modern number-crunchers have found a way to answer such questions. They typically measure individual contributions in team sports by tracking results with and without a player on the pitch. This method works well in baseball and basketball. Baseball is mostly a series of one-on-one confrontations between pitchers and batters, whereas basketball has frequent personnel changes within games. Replicating this in football is trickier, since clubs play fewer fixtures than in American sports and substitutions are rarer. Nonetheless, injuries, squad rotation and cup competitions provide plenty of different line-ups over a season.
+
+21st Club, a football consultancy, has built such a rating system. It suggests that the best strikers are 
+
+ more highly than players at other positions are. A top-notch centre-forward improves the defence as well as the attack, since he is less likely to give the ball away and will chase after the opposition midfielders. If Mr Messi or Cristiano Ronaldo, his longtime rival, were transferred to a relegation-threatened club in a major European league to replace a striker of the average quality found on such teams, 21st Club’s model estimates that the club’s record would improve by around 15 points per season—enough to haul it to mid-table safety.
+
+21st Club has applied its hypothetical transfers to the World Cup, by modelling the effect of adding world-class attackers like Mr Messi to weak teams like Iceland’s. The results depend largely on the quality of the replacement. Based on its pre-tournament forecasts, the consultancy estimated that injuries to Mr Messi or Neymar, Brazil’s star striker, would have reduced their countries’ chances of getting to the quarter-finals by roughly ten percentage points. Their closest substitutes, Paulo Dybala and Douglas Costa, are both reliable deputies, but not quite in the same class.
+
+However, magically assigning players as good as Neymar and Mr Messi to Costa Rica and Iceland—the weakest teams that Brazil and Argentina will face in their groups, respectively—would have yielded very different results. Marco Ureña, Costa Rica’s striker, is hardly a world-beater, having scored just 16 goals since 2011 in various unfashionable leagues. Exchanging him with a Neymar-esque finisher before the tournament would have boosted Costa Rica’s chances of reaching the quarter-finals seven-fold, to 23%.
+
+By contrast Alfred Finnbogason, Iceland’s best striker, is no slouch. He scored 12 goals in 19 appearances during the most recent season of Germany’s Bundesliga. An Icelandic Mr Messi would have only increased the country’s meagre quarter-final hopes, which had already been been reduced by a tough group, from 4% to 12%. Simply swapping the real Mr Messi from Argentina’s squad to Iceland’s before the match between the two sides would have reduced the South Americans’ probability of victory from 73% to 55%. In the end, however, the underdog did not need one of the world’s greatest strikers to cause a famous upset—after Mr Finnbogason found the net, and Mr Messi failed.

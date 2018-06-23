@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.57 Minutes", "wordsset": 261, "keywords": "Alexa,Christians,Church,England,Facebook,God,agnostics,app,church,digital", "toughwords": 44, "allwords": 388}
+
+Adrian,Archbishop,Canterbury,Commandment,Curios,Epistle,Oklahoma,agnostic,albeit,anonymous,appointment,belated,congregation,denomination,discourage,entitle,equipped,evangelical,exhort,internet,junior,mega,metaphysical,nowadays,overseen,parishes,pew,ponderous,pray,prayer,preach,programmed,quadruple,quiz,recite,spike,staffer,theologian,theological,thorny,triple,vicar,worship

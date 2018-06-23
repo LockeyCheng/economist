@@ -1,0 +1,31 @@
+How America’s refugee policy is damaging to the world and to itself
+
+Although they arrive with nothing, refugees contribute immensely to the American economy, says Donald Kerwin
+
+https://cdn.static-economist.com/sites/default/files/20180623_USP501.jpg
+
+IN 1981 President Ronald Reagan vowed to “continue America’s tradition as a land that welcomes peoples from other countries” and to “continue to share in the responsibility of welcoming and resettling those who flee oppression.”  Now would be a good time to step up. The new global trends report from the United Nations High Commissioner for Refugees (UNHCR) shows an increase in the record number of forcibly displaced persons in 2017, including 25.4m refugees. Yet in the middle of this crisis Donald Trump’s administration has opted to close the nation’s doors to refugees and to abdicate American leadership.
+
+Nine months after coming into office, Mr Trump set America’s refugee admissions ceiling at only 45,000. Yet since then, the country has resettled just 14,887 refugees, putting it on track to admit the lowest number of refugees in the programme’s 38-year history.  In addition, the Trump administration has eliminated the Central American Minors programme, which allowed refugee children from Northern Triangle states (El Salvador, Guatemala and Honduras) to enter the United States to join their parents, who are in the country legally. It also terminated temporary protected status for 200,000 El Salvadorans, 57,000 Hondurans, 50,000 Haitians, and smaller numbers of Nicaraguans, Sudanese and Nepalese. In addition, it ended Deferred Enforced Departure (deferral of removal) for 4,000 Liberians who fled to the United States more than 20 years ago.
+
+The administration has also taken several steps to kick asylum-seekers out of the US and to prevent and deter others from coming.  Beyond supporting migrant interdiction programs in Mexico and Central America, US border officials regularly deny access to the US asylum process, in violation of US law, to migrants who express a fear of returning home or who request asylum.  
+
+In recent weeks, the US Department of Justice (DOJ) has instituted a “zero tolerance” policy for illegal entry: it now seeks to prosecute 100% of these cases, including those of asylum-seekers who enter between ports-of-entry.  It is now also government policy to separate children from their parents at the border. Exacerbating matters, the federal Office of Refugee Resettlement has begun to share information with Immigration and Customs Enforcement (ICE) on potential sponsors with whom the children in its custody might be placed. Because ICE runs immigration checks on sponsors, placement of the children with safe family members (including parents) will now be less likely.
+
+Last month, the administration broached with Mexico the idea of entering a safe-third country agreement, which would bar migrants who have passed through Mexico from seeking asylum in the United States. It now proposes to take this step unilaterally, without a treaty or agreement. However, regular reports of murder, kidnapping, rape and extortion of migrants in Mexico undermine the claim that Mexico is a safe country for asylum-seekers.
+
+Jeff Sessions, the attorney general, has also issued a ruling that will make it nearly impossible for those who have no legal recourse in their home countries, and who are fleeing domestic abuse or gang violence, to secure asylum in the United States or even to make an asylum claim and avoid expedited removal. DOJ has also revised its guidelines on child-friendly court proceedings, citing the need to combat fraud, as if eight-year-olds might hoodwink immigration judges and ICE attorneys.
+
+Traditionally, America has resettled more refugees than any other state and it still contributes a big share of UNHCR’s budget. The Trump administration’s policies suggest a reversal of this. In the first eight months of this fiscal year a measly 46 Syrian refugees and 11 South Sudanese refugees were resettled in the United States. By contrast, Turkey, Lebanon, Jordan, Iraq and Egypt—all poor countries—host more than 5.6m Syrian refugees, as well as large refugee populations from other nations.
+
+Although they arrive with nothing, refugees also contribute immensely to the American economy, families and communities. The Center for Migration Studies of New York recently compared 1.1m refugees who arrived in America between 1987 and 2016, with comparable non-refugees, the foreign-born, and the total American population. We found that:
+
+Refugees’ labour force participation (68%) and employment rates (64%) exceeded those of the total American population (63% and 60%, respectively).
+
+Refugees’ median personal income ($20,000) equalled that of non-refugees and exceeded the income of the foreign-born overall ($18,700).
+
+Refugees were more likely to be skilled workers (38%) than non-refugees (33%) or the foreign-born (35%).
+
+In addition, refugees arriving from 1987 to 1996 do far better than later refugee arrivals by virtually every metric of integration and accomplishment. It is clear: refugees contribute more to their new nation over time. They also compare favourably to the total US population, which consists mostly of citizens, exceeding them in median personal income ($28,000 to $23,000), homeownership (41% versus 37%), access to a computer and the internet (82% to 75%), and health insurance (93% to 91%).
+
+The United States played a leading role in responding to the huge refugee crises following World War II, the Vietnam conflict and the Cuban revolution.  As every other administration in recent history has recognised, saving the lives of the world’s most vulnerable people reflects American values and shows the world what we stand for. By contrast, the Trump administration’s efforts to dismantle U.S. refugee protection programmes will stoke anti-refugee sentiment and exclusionary forms of nationalism in many countries and encourage other states to follow its example. Such policies will not only damage America, but also the world.

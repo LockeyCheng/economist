@@ -1,0 +1,17 @@
+Spain dumps its prime minister
+
+The demise of Mariano Rajoy
+
+HE LED his country from near-bankruptcy to economic recovery, and faced down the Catalan separatists. But Mariano Rajoy, a stubborn and stolid conservative, also governed for the past seven and a half years against a background of endless corruption scandals, though he has not been accused personally and they mainly involve past regional leaders of his People’s Party (PP). Suddenly the corruption issue has done for him: on June 1st Spain’s parliament approved by 180 votes to 169 a motion of no-confidence brought by Pedro Sánchez, the leader of the opposition Socialists who will now form a government.
+
+What doomed Mr Rajoy, who has led a minority government since 2016, was the verdict a week earlier in a long-running court case against a former treasurer of the PP and other party officials. The court found that the party had benefited from kickbacks, and cast doubt on the credibility of the prime minister’s evidence given to it, as a witness, last summer. 
+
+Mr Sánchez’s no-confidence motion was an act of “democratic hygiene” he said. It was a bold stroke: for a prime minister to fall, the constitution requires that a majority of the lower house should back an alternative candidate.
+
+Most Spaniards want a fresh election, according to opinion polls. But with his party becalmed at around just 20% in the polls, Mr Sánchez wants his Socialists, with just 84 of the 350 seats in parliament, to govern alone for an unspecified period. This put the result of the no-confidence vote in doubt. But after a day’s debate on May 31st, it became clear that a narrow majority of the chamber would support Mr Sánchez. As a concession to the Basque nationalists, he has promised to stick to this year’s budget, which is generous to them, and which the Socialists had opposed only days ago.
+
+Mr Rajoy accused his foe of naked opportunism, and of trying to govern against the wishes of Spaniards who had soundly rejected Mr Sánchez at elections in 2015 and again in 2016. He also said his opponent was pursuing a “Frankenstein programme” that would imply concessions to Catalan separatists (Mr Sánchez has merely offered them talks). According to a prominent Socialist, Mr Sánchez will probably wait at least until next May, when local and European elections are due, to dissolve the parliament. But his allies might prove fickle, and force an earlier dissolution.
+
+Rather than hand over the government to Mr Sánchez, Mr Rajoy could have resigned at the last minute. Aides said that would have been to admit his party’s guilt in the corruption case. In brief farewell remarks to parliament, he said it had been “an honour to leave Spain better than I found it”.
+
+Although its stock-exchange index has fallen and the risk premium that investors charge for holding its bonds has doubled in a week, Spain is not Italy: its economy is enjoying its fourth year of strong growth, and three-quarters of the Congress supports the constitution, the European Union and economic stability. But with its parliament now fragmented by the emergence of new parties during the economic slump, and with an enormous constitutional problem over separatism in Catalonia, it has yet to find renewed political stability.

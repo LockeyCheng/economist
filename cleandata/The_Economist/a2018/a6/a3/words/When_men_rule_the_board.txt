@@ -1,0 +1,3 @@
+{"suggestedfocus": "8.66 Minutes", "wordsset": 255, "keywords": "appoint,board,companies,directors,diversity,excuses,executive,failure,female,gender", "toughwords": 33, "allwords": 403}
+
+Diversity,Threshold,Valentine,Wharton,acquaintance,attain,classic,cynical,decoration,dismissal,dissent,diversity,dub,eponymous,executive,funeral,hassle,heroine,inclination,inclusive,jeopardize,lame,organization,phenomenon,rational,rationale,remark,reveal,shortage,snapped,surpass,viewpoint

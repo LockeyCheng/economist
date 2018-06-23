@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.77 Minutes", "wordsset": 360, "keywords": "administration,asylum,detention,families,family,immigration,judge,representation", "toughwords": 59, "allwords": 640}
+
+Asylum,Ingrid,Nebraska,Omaha,UCLA,apprehend,associate,asylum,attorney,bail,capricious,closure,confine,counsel,credible,denial,deplorable,detain,detainee,detention,discretion,eligible,evaluation,expedite,expelled,expose,facility,grim,harshly,imprison,inadequate,inefficiently,infrastructure,initial,initially,inmate,jurisdiction,mandate,officer,overturn,overwhelmingly,persecution,proceed,prosecutor,punitive,reasonable,removal,represent,representation,resident,sanitary,substandard,temporary,ultimately,undocumented,unreasonably,valiant,wholly

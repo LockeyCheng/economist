@@ -1,0 +1,29 @@
+The Trump administration joins a lawsuit to shred Obamacare
+
+The unusual move could hand Democrats an electoral advantage in November
+
+https://cdn.static-economist.com/sites/default/files/20180609_USP507.jpg
+
+TO REPUBLICANS, the Affordable Care Act (ACA), also known as Obamacare, is the zombie that endures countless hits to rise from its knees and haunt America’s health-care industry. The signature legislative achievement of Barack Obama’s presidency, which brought health coverage to 20m Americans, faced dozens of House repeal votes during Mr Obama’s two terms in office and survived a pair of Supreme Court challenges (in 2012 and 2015). It even, thanks to the vote of Senator John McCain, wriggled out of what appeared to be a Republican death grip when Donald Trump implored legislators to kill it in July 2017.
+
+The Republican Party managed to hack off one of the ACA’s limbs last December when the law’s individual mandate (requiring most Americans to buy health insurance) was gutted in the tax overhaul. But unable to legislate away Obamacare’s more popular provisions—in particular, the rule against denying coverage or charging high rates to people with pre-existing medical conditions—the Trump administration is now enlisting the Department of Justice (DoJ) to join a battle in the courts.
+
+In an extraordinary move that even ACA critics are calling “cynical” and “absurd” (Jonathan Adler) and “just fucking terrible” (Will Chamberlain), the DoJ has filed a 
+
+ in 
+
+, a case in which 20 states say the heart of Obamacare will soon be unconstitutional. Ordinarily, the DoJ defends laws passed by Congress and signed by the president from attacks like this. But Mr Trump’s DoJ is no ordinary DoJ. It has made dramatic reversals in major cases involving voting rights, LGBT protections and union fees, to name a few. And again Jeff Sessions (pictured), the attorney-general, has overseen a sudden switch. The DoJ takes the challengers’ side, arguing that in January 2019, when the penalty for not carrying health insurance drops from $695 to $0, the individual mandate will no longer be constitutional and protections for people with pre-existing conditions should evaporate.
+
+Some are blaming this blatant politicisation of the DoJ’s work on Mr Obama, whose administration decided in 2011 that it could no longer defend the heterosexuals-only Defence of Marriage Act (DOMA) against constitutional challenges. But the circumstances are quite different. As Nicholas Bagley, a law professor at the University of Michigan, 
+
+ it, the Obama-era example was based on the idea that “it was no longer constitutionally tenable to deny equal rights to gay people”. What is the analogue in 
+
+? Not a deep constitutional principle, but a twisted, logic-challenged and apparently one-time-only interpretation of “severability”—the technical term for what happens to some parts of a law when other parts of it are deemed unconstitutional. The DoJ argues, without any plausible warrant, that if the individual mandate falls, so must the so-called “guaranteed issue” and “community rating” provisions—the bits of the ACA that prevent health-insurance companies from denying coverage or unduly jacking up rates for people with serious (and expensive) medical conditions. These provisions of Obamacare rise or fall together, the DoJ brief says, and Congress could not possibly have intended for the individual mandate to go off into the night while the other rules stayed in place. As law professors Leah Litman and Ian Samuel colourfully 
+
+, that is ludicrous: the tax package Congress passed in December in fact sent the individual mandate packing while leaving the other parts of the ACA untouched. So it is quite possible that members of Congress imagined that state of affairs:
+
+So much for the legal arguments. There seems to be little doubt that the DoJ’s are terrible; not a single career lawyer there would put his name to the brief. Shortly before the government filed it, three lawyers from the DoJ abruptly withdrew from it. 
+
+What are the stakes of this legal stunt, besides giving America fresh cause to worry about the stability of the rule of law? The lawsuit may not die immediately: it is not impossible that the carefully selected federal judge in Texas who gets first crack at it would side with the 20 states and the Trump administration to kneecap the ACA. But by the time the case reaches the Fifth Circuit Court of Appeals, or, failing that, the Supreme Court, the lawsuit stands little chance of finally dismembering the ACA once and for all. 
+
+The latest attempt to slay the Obamacare beast may, however, backfire on the Trump administration. Polls show that health care is voters’ top concern as they think toward House and Senate races in November. A recent poll found that 22% of voters rank health care over all other issues, with the economy and jobs in second place at 19%. Among Democrats, health care is the priority of 32% of likely voters; well ahead of the second-place issue (guns). Intervening to drive more stakes through the ACA’s heart is unlikely to be a winning strategy for the Republican Party. Perhaps recognising these electoral risks, the administration is asking the courts to wait until January to declare the individual mandate and other purportedly inseverable provisions unconstitutional. But the brief is out there now, and Democrats have the summer and autumn to tell voters how the Trump administration is just getting started in its efforts to dismantle Americans' health-care protections. This may be the nicest thing Jeff Sessions has done for Democrats in a long time. 

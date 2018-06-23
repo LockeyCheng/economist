@@ -1,0 +1,3 @@
+{"suggestedfocus": "8.33 Minutes", "wordsset": 315, "keywords": "GitHub,Microsoft,cloud,code,developer,platform,source,technology", "toughwords": 40, "allwords": 633}
+
+Compute,Empower,Executive,Friedman,Guthrie,Hood,Nat,Officer,accelerate,acquire,acquisition,capability,collaborate,collaboration,corporation,cultivate,dedicate,deploy,deployment,ecosystem,empower,envision,ethos,feedback,fundamental,infrastructure,organization,personalize,plug,precision,presentation,prod,recognize,repository,retain,steward,veteran,vibrant

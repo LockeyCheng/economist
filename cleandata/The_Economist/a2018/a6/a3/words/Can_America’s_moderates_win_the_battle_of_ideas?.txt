@@ -1,0 +1,3 @@
+{"suggestedfocus": "6.83 Minutes", "wordsset": 52, "keywords": "America,David,Minton,Zanny,anniversary,battle,conversation,moderates,polarisation,prescriptions", "toughwords": 3, "allwords": 63}
+
+bureau,moderate,prescription

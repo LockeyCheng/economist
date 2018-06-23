@@ -1,0 +1,3 @@
+{"suggestedfocus": "8.06 Minutes", "wordsset": 155, "keywords": "British,Scotland,UBI,basic,claims,income,labour,politicians,universal,welfare", "toughwords": 17, "allwords": 210}
+
+Proponent,UNIVERSAL,abolish,administer,artificial,ideological,initiative,libertarian,merit,navigate,poverty,practical,scholar,simplify,spectrum,theoretical,universal

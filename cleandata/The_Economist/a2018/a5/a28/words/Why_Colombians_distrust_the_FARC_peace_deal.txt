@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.72 Minutes", "wordsset": 289, "keywords": "Colombians,Duque,JEP,congress,crimes,government,peace,president,presidential,voters", "toughwords": 59, "allwords": 505}
+
+Colombian,Gustavo,Juan,Manuel,Santos,approval,approve,coalition,coca,cocaine,confess,congressional,contradictory,convert,dictate,disapprove,disarm,dissident,distrust,domestic,enshrine,expropriation,fiercest,fulfill,guerrilla,hemisphere,humanity,implementation,incline,incompatible,interminable,leftist,mentor,modify,negotiate,negotiator,oppose,paramilitary,participation,pledge,procedure,ratify,referendum,regulate,reintegration,setup,sloppy,supportive,tactic,thrash,trafficker,transitional,vacate,vehemently,withdraw,wrap

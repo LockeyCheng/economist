@@ -1,0 +1,3 @@
+{"suggestedfocus": "8.86 Minutes", "wordsset": 67, "keywords": "clash,liberal,posed,profile,safe,spaces,trigger,warnings", "toughwords": 8, "allwords": 69}
+
+campuses,clash,correspondent,liberal,profile,rile,static,trigger

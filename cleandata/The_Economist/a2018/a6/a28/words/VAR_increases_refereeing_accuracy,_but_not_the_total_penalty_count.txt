@@ -1,0 +1,3 @@
+{"suggestedfocus": "8.81 Minutes", "wordsset": 270, "keywords": "Cup,VAR,countries,domestic,penalties,penalty,referee,video", "toughwords": 40, "allwords": 458}
+
+Brazilian,Portugal,VAR,accuracy,bicker,bis,bunker,clumsy,domestic,excessive,flopped,foul,intensify,intervene,offside,onlooker,overturn,partisan,penalty,pundit,referee,remarkable,replay,silent,spike,stoppage,subjectivity,surge,tackle,tendency,tripped,tugged,turf,tussle,vague,whistle

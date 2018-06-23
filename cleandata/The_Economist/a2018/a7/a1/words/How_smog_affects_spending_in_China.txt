@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.05 Minutes", "wordsset": 236, "keywords": "China,Chinese,coal,consumers,country,health,pollution,toxic", "toughwords": 32, "allwords": 334}
+
+Bureau,Cornell,associate,concentration,cubic,cushion,debit,deem,estimate,eyeglasses,household,indoor,magnitude,manufacture,particulate,permanent,pharmacy,premier,reckon,resident,shopper,shutter,surge,temporary,toxic,transaction,ubiquitous,vehicle,visible,wristwatches,yield

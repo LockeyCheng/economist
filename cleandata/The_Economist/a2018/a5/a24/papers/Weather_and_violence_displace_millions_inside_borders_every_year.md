@@ -1,0 +1,9 @@
+Weather and violence displace millions inside borders every year
+
+Conflicts left nearly 12m people without a home in 2017
+
+IN 2015 the refugee crisis in the eastern Mediterranean made headlines when a picture of a dead three-year-old Syrian boy, face down on a beach on the southern tip of Europe, brought home the tragic consequences of conflicts raging in Africa and the Middle East. Alan Kurdi’s desperate escape ended within five minutes of leaving Bodrum in Turkey, when the overloaded inflatable boat that carried him capsized. The journeys of those fleeing their homes to make new lives elsewhere capture headlines and animate politics. But millions more are forced out of their homes only to remain inside the borders of their countries. The number of such internally displaced people is shocking and has risen in recent years.
+
+In 2017 over 30m people were displaced after natural disasters or outbreaks of violence, according to the Internal Displacement Monitoring Centre and the Norwegian Refugee Council, an NGO. This is equivalent to 80,000 people each day abandoning their homes. As in previous years natural disasters were the biggest cause of upheaval. In the past decade a quarter of a billion people have been displaced, mostly because of storms, flooding or famine. By contrast 70m have been uprooted as a result of violent conflicts. 
+
+But the data do not capture the full picture. The numbers for Yemen dropped significantly in 2017, only because of an inability to count them in a war zone. Yet Yemen is described as the world’s largest humanitarian crisis by UNHCR with 21m people, nearly 80% of its population, affected. The relief agencies that try to help people return home face multiple difficulties. Identifying who to help is the first of them.

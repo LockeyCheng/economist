@@ -1,0 +1,23 @@
+Step inside a gay bar for a “RuPaul’s Drag Race” viewing party
+
+The popular reality television show is drawing patrons into gay venues
+
+THREE performers take it in turns to writhe and high-kick dangerously towards the low ceiling. Most drinkers continue to chat among themselves. It is early for such an energetic show—just 7:30pm on a Thursday—and in any case the drag queens’ messy mix of bikinis, leotards and wild wigs is not the main attraction. The patrons in this rowdy gay bar in Manhattan’s West Village are really just waiting for the television screens to be tuned to the right channel. 
+
+Everyone is here to watch “RuPaul’s Drag Race”, a reality-television show. The contestants are drag queens who strive for a crown by creating bewitching makeup designs, concocting shocking costumes, plotting dance routines that satirise pop stars and shooting shards of wit at their queer peers. This all happens under the judgement of RuPaul, one of America’s most famous drag queens. After ten years on air, “Drag Race” has accumulated a mass of rituals, principal among them a weekly congregation in bars for public viewing parties. Robin, a regular, says: “I know what to look for: atmosphere, screaming and subtitles.”
+
+While fans in living rooms across America see a two-dimensional rendering of the show, fans who turn out to a bar are treated to extra sparkle. Live drag queens narrate the show, adding salty quips of their own. When one contestant on the show flops a jazz dance routine similar to Emma Stone’s in “La-La-Land”, one commenting queen says: “That was 50 shades of 
+
+.” (Your correspondent might have called it bla-bla-bland.) Patrons squeal with delight at the gags and stuff dollar bills under the queens’ gaudy straps as they sashay around during the commercial breaks.
+
+“Drag Race” is a surprise success in American television. Last year’s season finale posted a 200% rise in viewing figures from the previous year. Viewers tune in for the colour and the drama. In contrast, the recent reboot of “Will & Grace” highlighted how bland television depictions of queer life can be. The sitcom fails to depict the subversive nature of people who charge through life messing with expectations of gender and sexuality, best exemplified in drag queens. “Drag Race” realises that the art-form of drag is rebellious, that it brings marginalised people together, and requires a confidence that is both fragile and out-sized. “If you can’t love yourself, how the hell you gonna love somebody else?” asks Ru in one of his many catchphrases. The queens form a sisterhood through the show, but the format also forces them against each other. (Some criticise “Drag Race” for overlooking the strain of the competition in favour of jokes or shocks.)
+
+Now those same venues 
+
+, raising doubts about the future of drag despite its popularity on screen. Rents are rising. Customers are drying up, with many preferring to stay “non-scene” while saving up for a beige and mortgaged gay marriage. And those looking for sex or romance can now meet on dating apps instead of gay bars. The demand for dedicated spaces may well be fading. 
+
+That is partly because Americans 
+
+. For Democrats at least, drag queens are so acceptable that Nancy Pelosi showed up in a recent episode of “Drag Race”. But some traditions established in the sacred separate spaces for queer life endure; viewing parties are just one modern iteration. “When we dress up in drag and live our best queer lives, it’s political,” says Miss Jade, who performs at Macri Park bar in Brooklyn every Thursday with Alotta McGriddles, another drag queen, after episodes of “Drag Race”. The platform is also still used to support the community. At one recent “Drag Race” viewing party, Macri Park held a charity raffle for HousingWorks, which ensures people living with HIV/AIDS in New York City have a home and health care.
+
+Bars deserve praise for capitalising on “Drag Race” to bring in the punters on a week-night, but the show does more than sell beer. It helps to keep gay bars stitched into the political fabric, especially in the rich world where some people consider the fight for gay rights to be over. Combine this political role with product placement of makeup brands and a telegenic focus on personal transformation, and you see there really can be nothing more American than “Drag Race”. This is how drag queens have won their place in American herstory. 

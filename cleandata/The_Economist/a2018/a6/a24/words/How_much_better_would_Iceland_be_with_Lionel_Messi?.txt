@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.3 Minutes", "wordsset": 376, "keywords": "Iceland,Messi,Neymar,Rica,country,players,striker,team", "toughwords": 60, "allwords": 596}
+
+Argentina,Brazilian,Douglas,Icelandic,Lionel,Marco,Plucky,Replicate,Tunisia,assign,batter,beater,brilliant,closest,coach,confrontation,consultancy,deputy,drill,estimate,eviscerate,finisher,fixture,groan,grumble,haul,hypothetical,ineffectual,isolate,longtime,notch,opponent,penalty,personnel,pitch,pitcher,rarer,relegation,reliable,remarkable,resilient,respectively,rotation,slouch,squad,static,statistician,substitute,substitution,tournament,transferred,trickier,typically,underdog,unfashionable,utter,wheres,yield

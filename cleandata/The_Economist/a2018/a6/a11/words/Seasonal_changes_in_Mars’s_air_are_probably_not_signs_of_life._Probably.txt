@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.44 Minutes", "wordsset": 295, "keywords": "Curiosity,Mars,Martian,NASA,atmosphere,methane,ppb,rover", "toughwords": 48, "allwords": 480}
+
+Curiosity,Instrument,Intriguingly,Methane,NASA,Orbiter,Propulsion,Seasonal,aboard,belches,biological,breakdown,calibrate,concentration,culprit,detect,dioxide,discovery,dust,facility,geological,geologically,geology,hemisphere,hypothesis,ingredient,instrument,measurement,methane,microbe,minuscule,molecule,orbit,planetary,recheck,remarkable,rover,seasonal,seep,smidgen,sniff,spice,spike,static,trapped,unprecedented

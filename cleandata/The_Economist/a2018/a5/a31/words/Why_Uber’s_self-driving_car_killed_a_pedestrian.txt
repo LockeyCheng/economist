@@ -1,0 +1,3 @@
+{"suggestedfocus": "8.80 Minutes", "wordsset": 326, "keywords": "AVs,Uber,accident,driving,module,perception,road,safety,system,vehicle", "toughwords": 43, "allwords": 604}
+
+Sebastian,Transportation,autonomous,collision,confuse,debris,delegation,detect,disable,distinguish,emergency,equipped,experimental,futuristic,imminent,imperfect,lane,modify,module,onus,pedestrian,perception,prediction,preliminary,procedure,pulse,radar,rear,reassure,relevant,resume,revisit,sensor,struck,subsequently,supervise,suspend,ultimately,unexpected,variant,velocity

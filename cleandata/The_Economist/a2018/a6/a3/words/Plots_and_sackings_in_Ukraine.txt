@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.2 Minutes", "wordsset": 341, "keywords": "Babchenko,Danyliuk,Kremlin,Ukraine,country,government,journalist,plot,security,services", "toughwords": 57, "allwords": 517}
+
+Bureau,Corruption,Ukrainian,aggression,airwaves,ally,apparent,assassinate,bizarre,bureau,controversial,corridor,corrupt,credibility,demonstrate,detain,disinformation,donor,elaborate,elite,enforcement,entrench,episode,fend,fiscal,grip,insolvency,investigative,irk,location,notorious,oligarch,operationally,profile,prosecutor,purport,recoil,reformer,reincarnate,resort,resurrection,rumble,sabotage,sack,seemingly,seize,smear,smirk,st,stealth,subversion,tactic,trustworthiness,twist,undercover,visible

@@ -1,0 +1,25 @@
+Donald Trump and Kim Jong Un sign the blandest of agreements
+
+All the details are left to underlings to sort out
+
+https://cdn.static-economist.com/sites/default/files/images/2018/06/articles/main/20180616_blp519.jpg
+
+“WE HAD a really fantastic meeting. A lot of progress. Really, very positive, I think better than anybody could have expected, top of the line, really good.” So said Donald Trump after his first meeting with Kim Jong Un, North Korea’s blood-drenched dictator, in Singapore on June 12th. Alas, a short while later North-Korea watchers realised that, as so often with Mr Trump, the rhetoric didn’t quite match the reality. The most substantial thing to come out of the summit may well have been the dark chocolate tart served at the “working lunch” which Mr Trump and Mr Kim held with their delegations after meeting face to face.
+
+The two men signed a declaration at the end of their pow-wow resolving “to build a lasting and stable peace regime on the Korean Peninsula”. Mr Trump declared that he would provide “security guarantees” to North Korea; in return Mr Kim gave his “firm and unwavering commitment” to complete denuclearisation of the Korean peninsula. The two leaders also said they would hold further meetings at various levels “at the earliest possible date” to flesh out the declaration.
+
+If anything the document is even woollier than the statement signed by Mr Kim and Moon Jae-in, South Korea’s president, after their first meeting on April 27th, during which the two Korean leaders committed themselves to achieving peace on the Korean peninsula. There is nothing in the latest screed that is specific enough to be enforceable. The hard work of turning rhetoric into substance will be left to others.
+
+The president said Mike Pompeo, the secretary of state, will meet North Korean officials next week to get this process into motion. But either leader can easily derail the détente should he lose interest in it. Negotiations with North Korea over its nuclear programme have always broken down in the past. There is no guarantee, in short, of any progress at all.
+
+Mr Kim will be thrilled. He has now implicitly been recognised as an equal by a sitting American president, something both his father and grandfather wanted but never achieved. As he and Mr Trump shook hands, North Korean flags were flying next to America’s behind them. Mr Trump said it was an “honour” to be sitting down with the North Korean despot. Mr Kim’s observation as they walked down the corridor for their first one-on-one meeting, that many people would think they were in a fantasy “from a science-fiction movie”, rang true.
+
+Mr Kim clearly believes this will help legitimise his rule at home. On the morning of the summit 
+
+, the North’s official newspaper, carried an enormous spread about an evening jaunt that Mr Kim took around Singapore the night before. Crowds of people had thronged around the entrance of the posh mall outside the Marina Bay Sands hotel to catch a glimpse of the North’s dictator. Even though this was only his third trip beyond the Korean peninsula since taking over from his father in 2011 (the other two being visits to China in March and May of this year), Mr Kim seemed perfectly at ease. He smiled and posed for selfies against the glittering Singapore skyline (residents had been told to leave their lights on to maximise the effect). The accompanying article said that Mr Kim would take home much “knowledge and experience” of Singapore’s development from his tour.
+
+Moon Jae-in, South Korea’s president, did not get to travel to Singapore to parade with Mr Trump and Mr Kim, as he had apparently hoped. Still, he will be happy that his efforts to bring the pair together paid off: his office released a crop of pictures of him beaming as he watched footage of Mr Trump and Mr Kim shaking hands. China, too, will be delighted that America has been drawn into a protracted negotiation with North Korea—something that reduces the chance of war without diminishing China’s clout in the region.
+
+For 
+
+, however, the summit was a missed opportunity. It was something the North Koreans wanted badly, but Mr Trump seems to have got little in exchange. At a press conference after the signing ceremony, he went further than the document had, announcing that he would halt all joint military exercises with South Korea while talks were ongoing (something Mr Kim wanted badly). This was a huge concession, though Mr Trump apparently did not see it that way. It might save America money, he suggested: flying bombers to South Korea from the American airbase on Guam was “very expensive”, he said. One day, he went on, he would like to bring American troops home from the peninsula. He even borrowed the North’s language when he said that military drills were “provocative” at a time when diplomatic efforts were under way. Whatever leverage Mr Trump had over Mr Kim a few weeks ago, he has less now.

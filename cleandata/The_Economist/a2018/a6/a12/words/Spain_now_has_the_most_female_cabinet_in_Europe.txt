@@ -1,0 +1,3 @@
+{"suggestedfocus": "8.70 Minutes", "wordsset": 184, "keywords": "Europe,France,Rajoy,Spain,S\u00e1nchez,cabinet,female,government", "toughwords": 31, "allwords": 280}
+
+Giuseppe,Hungary,Justin,LIBERALS,Parliamentary,Socialist,Trudeau,cabinet,conservative,corruption,counterpart,delight,embroil,imbalance,lagged,leap,ministerial,nationalist,oust,overtaken,overtook,paltry,parliamentarian,populist,portfolio,quipped,rectify,representation,static,turmoil

@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.05 Minutes", "wordsset": 239, "keywords": "Catholics,China,Chinese,Communist,Party,Vatican,church,churches,clergy,party", "toughwords": 44, "allwords": 404}
+
+diocese,repressive,delegation,sanction,consent,negotiation,Protestant,Catholic,atheist,pope,persecution,priest,pragmatic,Pope,herd,worship,shuffle,Francs,approve,abhor,bridle,supervise,clergy,accommodation,mechanism,embassy,diplomacy,intolerable,narrow,negotiate,schismatic,cleric,criticism,priority,flock,Participant,Rome,Vatican,excommunicate,unregistered,Taiwan,forgive,devout

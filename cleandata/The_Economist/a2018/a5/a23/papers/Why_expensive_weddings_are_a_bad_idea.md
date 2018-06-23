@@ -1,0 +1,11 @@
+Why expensive weddings are a bad idea
+
+Big-spending couples are more likely to be stressed—and to break up
+
+GETTING hitched is not cheap. Various estimates put the cost of a typical British wedding at anywhere between £18,000 and £25,000 ($24,200 and $33,700), roughly eight to eleven months of disposable income for the median household. That would pay for less than half the luxury toilets at today’s royal wedding between Prince Harry, the sixth in line to the throne, and Meghan Markle, an American actress, according to guesses made by Bridebook.co.uk, a wedding-planning website. 
+
+The festivities at Windsor Castle, which the royal family will fund, may cost as much as £2m. Taxpayers will foot the bill for the biggest expense: security. The Metropolitan Police spent £6.35m when the Duke of Cambridge, Harry’s older brother, tied the knot in 2011, though additional counter-terrorism surveillance may have raised the final cost much higher. Bridebook reckons that the total fee this time could be £30m.
+
+Yet a flashy wedding might simply be a recipe for a flustered couple. A global survey in 2017 of 16,000 brides and grooms by Splendid Insights, a market-research firm, found that those who spent more than $500,000 on their big day were much more preoccupied with showing off to their guests than those on a tight budget. They were nearly five times more likely to say that “reflecting a certain level of success” was “very important” than those who spent less than $10,000. They were also more reliant on financial assistance to do so. Fewer than half of respondents in the top-spending bracket had contributed to the costs of their wedding, compared to five-sixths of those at the bottom.
+
+Nor is a luxurious nuptial a guarantee of everlasting bliss. A study published in 2015 by two economists at Emory University found that among couples of the same income, education and race, those who had married on a higher budget were more likely to get divorced. They were also more stressed about paying off their wedding debts, despite any extra help they might have received from family. Such money worries will not trouble the happy royal couple. But it might discourage others from dreaming about a wedding in a castle.

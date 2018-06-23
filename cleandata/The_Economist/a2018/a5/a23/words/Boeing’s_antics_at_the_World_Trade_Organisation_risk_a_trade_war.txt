@@ -1,0 +1,3 @@
+{"suggestedfocus": "6.65 Minutes", "wordsset": 93, "keywords": "Boeing,European,GULLIVER,Organisation,Trade,globalised,industry,protectionism,trade,war", "toughwords": 11, "allwords": 121}
+
+consequence,subsidy,protectionism,antic,GULLIVER,Bombardier,retaliation,allege,Gulliver,partial,territory

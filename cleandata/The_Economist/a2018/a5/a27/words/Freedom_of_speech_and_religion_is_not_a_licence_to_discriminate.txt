@@ -1,0 +1,3 @@
+{"suggestedfocus": "8.14 Minutes", "wordsset": 246, "keywords": "America,Cakeshop,Court,Masterpiece,Supreme,bakery,discrimination,religion,wedding,whether", "toughwords": 30, "allwords": 421}
+
+ACLU,Bakery,Charlie,Craig,Discrimination,Heterosexual,Ireland,Masterpiece,Mullins,artistic,bakery,disability,discriminate,discrimination,emancipate,endorse,essence,expressive,humiliate,inscription,lawfully,marketplace,orientation,proclaim,profoundly,prohibit,reception,storefront,upheld,violation

@@ -1,0 +1,3 @@
+{"suggestedfocus": "7.53 Minutes", "wordsset": 256, "keywords": "BJP,Congress,state,Karnataka,government,party,Gowda,Kumaraswamy,parties,minister,Modi,national,chief,election,political,Indian", "toughwords": 35, "allwords": 430}
+
+viable,governor,allegiance,swiftly,ballot,trad,caste,hung,assembly,poise,standoff,courtship,coalition,pinnacle,donor,ally,assign,practical,assume,duly,struck,rupee,junior,paddy,emerge,parliament,plurality,colonial,legislator,improbable,frantic,juggernaut,clout

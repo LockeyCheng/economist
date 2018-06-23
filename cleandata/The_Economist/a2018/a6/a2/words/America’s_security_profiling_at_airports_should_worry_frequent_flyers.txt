@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.12 Minutes", "wordsset": 290, "keywords": "America,Koch,TSA,agency,airport,business,flyers,government,secret,security", "toughwords": 49, "allwords": 519}
+
+Executive,Greeley,Hugh,Koch,Transportation,accomplish,advocacy,advocate,altercation,ambiguity,approximately,assault,attorney,blacklist,checkpoint,completion,compound,confound,confrontational,consequence,criteria,directive,emerge,executive,injure,innocent,innocuous,insubordinate,loiter,memo,murky,offender,oversee,pat,populate,problematic,problematically,procedure,profile,provoke,quote,rude,secretive,subjective,suspect,suspiciously,uniformity,violent

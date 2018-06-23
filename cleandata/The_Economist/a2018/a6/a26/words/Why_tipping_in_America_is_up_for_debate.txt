@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.67 Minutes", "wordsset": 275, "keywords": "America,dishwashers,minimum,restaurant,staff,tipped,tipping,wage", "toughwords": 47, "allwords": 416}
+
+Cornell,Lynn,Montana,TIPPING,Yelp,afoot,altogether,appall,bartender,capricious,casual,category,controversial,deprive,deter,diner,discrepancy,discretionary,dishwasher,disparity,dutiful,eliminate,encompass,endure,erase,feudal,gratuity,hallmark,harassment,inappropriate,inequity,offset,originate,patron,perceive,pricier,proposal,reinstate,resident,server,shortchange,static,tab,tipped,tolerate,windfall

@@ -1,0 +1,23 @@
+How welfare reform has hurt America’s poorest children
+
+Increased spending has mostly benefited families above the poverty line, according to a new report
+
+LAST month, President Donald Trump issued an executive order directing federal agencies to find ways to add new work requirements to welfare programmes and strengthen those that exist. He said that a bipartisan welfare reform made in 1996 had made progress in ending “long-term government dependence” but that welfare designed to help families often still had the opposite effect, trapping many, “especially children, in poverty.” Tying welfare more closely to work would, the president said, “increase self-sufficiency, well-being and economic mobility.”
+
+For some, perhaps. But it will also prevent welfare programmes from targeting many of the families who need them most. Indeed, this approach helps explain America’s comparatively poor performance in lifting children out of poverty.
+
+A new 
+
+ shows how effective America’s welfare programmes are at ameliorating the effects of poverty on children. Its authors, Hilary W. Hoynes, and Diane Whitmore Schanzenbach, both economists, show that children with access to the Supplemental Nutrition Assistance Programme, which issues credits to purchase food, become healthier and more economically successful as adults. Both this and the Nutritional Programme for Women, Infants, and Children, reduce the incidence of low-birth weight babies. Tax credits, meanwhile, raised an estimated 4.8m children out of poverty in 2015. The credits increased family employment and income rates as well as high school graduation and college attendance amongst children. Access to health care under Medicaid reduces infant mortality and low birth weight, and increases high school and college completion of covered children.  It also increases maternal employment.
+
+But America’s child safety net programmes are small. Total federal spending on welfare programmes for children is only 2.1% of GDP, compared to federal spending worth more than 9% of GDP for the elderly.  The OECD, which tracks public support for families—including child payments and tax allowances, parental leave benefits and childcare support—suggests that America spends a smaller percentage of GDP on such support than 32 out of 35 countries for which it has data. Only Mexico and Turkey spend less.
+
+America’s safety net is particularly frayed for children in the poorest families. That problem deepened after the reform of 1996, the Personal Responsibility and Work Opportunity Reconciliation Act, which considerably tightened eligibility requirements for welfare payments. After the reform, spending on children was concentrated on health and tax credits. Tax credits tied to work increased from 12% to 37% of support for families with children between 1990 and 2015. Their expansion largely came at the cost of unconditional welfare programmes targeted by the act–particularly those providing cash. Cash welfare programmes not tied to employment saw their share of spending decline from about 34% of transfers in 1990 to 3% in 2015. 
+
+OECD data suggests America provides the lowest level of cash payments to families with children out of all 35 countries in its database–0.09% of GDP compared to an OECD country average of 1.25%.  That has left children in poor families without earnings almost exclusively reliant on two programmes and the food provided at school. 
+
+It also means that despite a rising budget for safety net programmes overall, spending per child on families without earnings has declined over the past two decades. Because well over half of the benefit of the earned income and child tax credits goes to families already above the poverty line, along with most of the benefits of Medicaid expansion, the effect of the 1996 reforms has been less help for the poorest. Spending on families with incomes below the poverty line has fallen from 87% of the total in 1990 to 56% in 2015. The share of spending that supports families without any earnings fell from almost 70% percent in 1990 to 20% in 2015. 
+
+And the result of that is a large population of children living in poverty.  The OECD suggests that the proportion of children in America living in households with post-tax and transfer incomes less than half of the median household income is 20.2%. That compares to an OECD average of 13.6% and 11.0% in the UK.
+
+The 1996 reform was passed by a Republican Congress and signed into law by Bill Clinton.  He had campaigned on a promise to “end welfare as we have come to know it.” The act largely achieved that goal; in so doing it denied support to millions of children who could benefit from assistance. This administration looks set to make the problem worse.

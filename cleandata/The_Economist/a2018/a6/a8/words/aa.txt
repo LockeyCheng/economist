@@ -1,0 +1,3 @@
+{"suggestedfocus": "7.33 Minutes", "wordsset": 290, "keywords": "Git,GitHub,Microsoft,Nat,development,platform,software,source", "toughwords": 22, "allwords": 580}
+
+Azure,Collaboration,Electron,Friedman,Nat,accomplish,acquire,acquisition,collaborate,collaboration,dichotomy,dime,discovery,facet,finalize,innovative,niche,obsess,organization,proven,stack,thrill

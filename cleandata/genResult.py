@@ -3,6 +3,8 @@ import time
 import re
 import os
 import sys
+from shutil import copyfile
+
 from sys import argv
 exclude = {}
 with open('simpleWords.json','r')as fo:
@@ -15,8 +17,9 @@ paperTitle = 'Lockey23'
 keywords = None
 
 dayArr = [31,29,31,30,31,30,31,31,30,31,30,31]
-def genPaper(spidJson,origMd,genJson,nextPaper):
+def genPaper(spidJson,origMd,genJson,nextPaper,fileName):
     global records
+    global latestPapers
     global paperTitle
     global keywords
     result = []
@@ -30,6 +33,7 @@ def genPaper(spidJson,origMd,genJson,nextPaper):
     keys = list(dic.keys())
     keys = [i for i in keys if len(i)>2]
     paperStatistics = dic['paperStatistics']
+    keywords = paperStatistics['keywords']
     dic.pop('paperStatistics')
 
     with open(origMd,'r')as fm:
@@ -37,7 +41,16 @@ def genPaper(spidJson,origMd,genJson,nextPaper):
         for line in fm:
             if lineno == 0:
                 paperTitle = line
+                paperStatistics['title'] = line
                 lineno += 1
+                continue
+            if lineno == 2:
+                paperStatistics['desc'] = line
+            lineno += 1
+            if line.startswith('https://'):
+                paperStatistics['img'] = line
+                newLine = "![{}]({})".format(paperTitle[0:-1],line[0:-1])
+                result.append(newLine)
                 continue
             newLine = line
             for key in keys:
@@ -104,109 +117,15 @@ def genPaper(spidJson,origMd,genJson,nextPaper):
             result.append(newLine)
 
         resultStr = ' '.join(result)
-        article={'date':'{} By Lockey.'.format(dateStr),'content':resultStr,'last':lastPaper,'next':nextPaper,'assistent':dic,'title':paperTitle,'paperStatistics':paperStatistics}
+#time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time()))
+        genDate = time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time()))#dateStr+' 00:06:36'
+        paperStatistics['date'] = genDate
+        paperStatistics['link'] = fileName
+        latestPapers['papers'].append(paperStatistics)
+        article={'date':genDate,'content':resultStr,'last':lastPaper,'next':nextPaper,'assistent':dic,'title':paperTitle,'paperStatistics':paperStatistics}
         with open(genJson,'w') as fj:
             json.dump(article,fj)
 
-
-def genPaperOld(spidJson,origMd,genJson,nextPaper):
-    global records
-    global paperTitle
-    global keywords
-    result = []
-    try:
-        lastPaper = records['lastPaper']
-    except Exception as err:
-        lastPaper = ''
-    print(lastPaper)
-    with open(spidJson,'r')as fj:
-       dic = json.load(fj)
-       paperStatistics = dic['dic']
-    with open(origMd,'r')as fm:
-        lineno = 0
-        for line in fm:
-            if lineno == 0:
-                paperTitle = line
-                lineno += 1
-            words = line.split(' ')
-            wordstr = []
-            for i in words:
-                suffix = ''
-                if "'" in i:
-                    suffix = "'"+i.split("'")[1]
-                    i = i.split("'")[0]
-
-                if "-" in i:
-                    suffix = "-"+i.split("-")[1]
-                    i = i.split("-")[0]
-
-                if "." in i:
-                    suffix = "."
-                    i = i.split(".")[0]
-
-                if "/" in i:
-                    suffix = "/"+i.split("/")[1]
-                    i = i.split("/")[0]
-                if '?' in i:
-                    suffix = "?"
-                    i = i.split("?")[0]
-                if "," in i:
-                    suffix = ","
-                    i = i.split(",")[0]
-                if "“" in i:
-                    suffix = ""
-                    i = i[1:]
-                if "”" in i:
-                    suffix = "”"
-                    i = i[0:-1]
-
-                try:
-                    reali = i
-                    if i.endswith('ing'):
-                        i = i[0:-3]
-                    if i.endswith('ies') or i.endswith('ied'):
-                        i = i[0:-3] + 'y'
-                    if i.endswith('est'):
-                        i = i[0:-2]
-                    if i.endswith('ily'):
-                        i = i[0:-3]+'y'
-
-                    if i.endswith('ers'):
-                        i = i[0:-1]
-                    if i.endswith('es') or i.endswith('ed') or i.endswith('td'):
-                        i = i[0:-1]
-                  
-                    for item in dic:
-                        if len(i) >3 and (re.search(item[0:len(i)],i) or re.search(i[0:len(item)],item)) and reali not in exclude and i not in exlude:
-                            i = '<span class="fa fa-info-circle">'+reali+'</span>'+suffix
-                            break
-                    if len(i) < 20:
-                        i = reali + suffix
-                except Exception as err1:
-                    try:
-                        reali = i
-                        if i.endswith('ing'):
-                            i = i[0:-3] + 'e'
-                        elif i.endswith('es') or i.endswith('ed'):
-                            i = i[0:-1]
-                        for item in dic:
-                            if len(i) >3 and (re.search(item[0:len(i)],i) or re.search(i[0:len(item)],item)) and reali not in exclude and i not in exclude:
-                                i = '<span class="fa fa-info-circle">'+reali+'</span>' + suffix
-                                break
-                        if len(i) < 18:
-                            i = reali + suffix
-
-                    except Exception as err2:
-                        pass#print(err2,i)
-                finally:
-                    wordstr.append(i)
-            oo = ' '.join(wordstr)
-            result.append(oo)
-        result = [i for i in result if i not in exclude]
-        good = ' '.join(result)
-        article={'date':'{} By Lockey.'.format(dateStr),'content':good,'last':lastPaper,'next':nextPaper,'assistent':dic,'title':paperTitle,'paperStatistics':paperStatistics}
-        with open(genJson,'w') as fj:
-            json.dump(article,fj)
 
 import qrcode
 
@@ -221,7 +140,7 @@ if __name__ == '__main__':
             basedir = './The_Economist/'
         if paperType == 'mail':
             basedir = './Mail_Online/'
-
+        latestPapers = {'papers':[],'more':None}
         toYear,toMonth,toDay = list(map(int,dateStr.split('-')))
         ayear = 'a' + str(toYear)
         amonth = 'a' + str(toMonth)
@@ -231,6 +150,7 @@ if __name__ == '__main__':
         mdPath = basedir + dateDir +'/papers/'
         spijsonPath = basedir + dateDir +'/jsons/'
         genjsonPath = basedir + dateDir +'/results/'
+        outcomePath = './outcome'
 
         intY,intM,intD = dateStr.split('-') 
         toYear,toMonth,toDay = list(map(int,dateStr.split('-')))
@@ -279,19 +199,35 @@ if __name__ == '__main__':
                 nextPaper = '{}_{}_{}_{}.json'.format(eyear,emonth,eday,1)
             else:
                 nextPaper = '{}_{}_{}_{}.json'.format(toYear,toMonth,toDay,todayPush+2)
-            genPaper(pp[1],pp[0],genjsonPath+title,nextPaper)
-            #genPaperOld(pp[1],pp[0],genjsonPath+title,nextPaper)            
+            genPaper(pp[1],pp[0],genjsonPath+title,nextPaper,title)
             records['lastPaper'] = title
             paperId = str(intY)+str(intM)+str(intD)+str(todayPush+1)
             link = 'https://lockeycheng.github.io/iooi/index.html?paper={}'.format(paperId)
             print(link)
             img = qrcode.make(link)
-            linkeTitle = '{}_{}_{}_{}'.format(toYear,toMonth,toDay,todayPush+1)
-            imgFile = basedir + 'QRimages/'+linkeTitle+'.png'
+            linkTitle = '{}_{}_{}_{}'.format(toYear,toMonth,toDay,todayPush+1)
+            imgFile = os.path.join(outcomePath,linkTitle+'.png')
             with open(imgFile,'wb') as fo:
                 img.save(fo)
             thisArr = [title,paperTitle,keywords]
             records[ayear][amonth][aday].append(thisArr)
-
+        more = 'a'+''.join(dateStr.split('-'))
+        latestPaperFile = basedir+'latestPapers.json'
+        
+        try:
+           morefile = more+'.json'
+           latestPapers['more'] = morefile
+           os.rename(latestPaperFile,basedir+morefile)
+           with open(latestPaperFile,'w')as fa:
+            json.dump(latestPapers,fa)
+        except Exception as err:
+           print(err)
+           
         with open(paperRecords,'w')as fa:
             json.dump(records,fa)
+        
+        copyfile(paperRecords, os.path.join(outcomePath,'paperRecords.json'))
+        for res in os.listdir(genjsonPath):
+            f1 = os.path.join(genjsonPath,res)
+            f2 = os.path.join(outcomePath,res)
+            copyfile(f1, f2)

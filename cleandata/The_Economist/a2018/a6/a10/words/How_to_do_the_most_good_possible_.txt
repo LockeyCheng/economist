@@ -1,0 +1,3 @@
+{"suggestedfocus": "8.87 Minutes", "wordsset": 295, "keywords": "GiveWell,altruism,amount,charity,country,drowning,effective,movement", "toughwords": 35, "allwords": 470}
+
+Foundation,achievement,altruism,altruist,antimalarial,compelled,derivative,distribute,donate,donor,drown,efficiency,empathy,equivalent,evaluation,gaze,hesitate,household,imply,incongruous,pessimistic,philosopher,profession,reckon,scientifically,seemingly,static,surgery,tangible,typical,vicinity,vocation,wire

@@ -1,0 +1,23 @@
+“Shoplifters”, a touching tale of outsiders, wins at Cannes
+
+The film by Hirokazu Kore-Eda was a surprising, but worthy, choice for the Palme d'Or
+
+TRUE TO its title, the top prize at this year’s Cannes Film Festival was stolen by “Shoplifters” while everyone was looking the other way. Not that Hirokazu Kore-Eda’s drama didn’t deserve to win. Mr Kore-Eda is one of world cinema’s most humane and skilful storytellers, and “Shoplifters” is another of his low-key, acutely observed, ultimately devastating studies of contemporary Japanese life.
+
+All the same, it was a surprise when it took the Palme d’Or, partly because other films at Cannes had been reviewed even more enthusiastically, and partly because there was so much talk among festival-goers about the pressing need to give the award to a female director. So far in Cannes’s seven-decade history, this has happened only once, when Jane Campion’s “The Piano” won in 1993. But this year, following the fall of one of the festival’s most high-profile regulars, Harvey Weinstein, the event’s ingrained sexism was scrutinised and criticised more intently than ever. Just before the prizewinners were announced on Saturday night, the smart money was on either Alice Rohrwacher’s Italian magic-realist fable, “Lazzaro Felice”, or on Nadine Labaki’s “Capharnaum”, a Lebanese drama about two children struggling to survive in the slums of Beirut. Either would have been a worthy winner. Still, when the jury, led by Cate Blanchett, went for “Shoplifters” instead, no one complained. 
+
+The film’s opening sequence has a cheerful late-middle-aged man, Osamu (Lily Franky), strolling around a supermarket with a young boy, Shota (Jyo Kairi). Keeping an eye out for store detectives, and communicating with complicated hand signals, they nip past the checkout with a backpack of stolen goods, although their their ill-gotten gains appear to be less important to them than their father-son bonding. But are they father and son? The relationship between this Fagin and his Artful Dodger isn’t defined at first—they could easily be grandfather and grandson—and when they return to their tiny, cluttered inner-city bungalow, the family connections are just as obscure. 
+
+Osamu’s wife—it seems—is Noboyu (Sakura Ando), who works in a launderette, and pockets any trinkets which her customers have left in their clothes. Their daughter may or may not be Aki (Mayu Matsuoka), who makes a living by wearing skimpy outfits in a peep-show booth. And there is Hatsue (Kirin Kiki), a grandmother who contributes to the household funds via various dodgy schemes of her own. On one level, they are a traditional nuclear family, albeit a nuclear family which scrapes by with minor cons and pilferings. But, for much of the film’s running time, it is hard to say how and if the characters are related. Noboyu articulates one of Mr Kore-Eda’s key themes: “Sometimes it’s better to choose your own family.”
+
+The latest member of this ragtag clan is a little girl, Juri (Miyu Sasaki), whom Osamu and Shota spot one cold night on their way home from a shoplifting spree. Her parents are too busy fighting to look after her, so Osamu offers her a meal. Noboyu then notices bruises and scars on her arms, and so she lets the girl stay the night in their shack. Soon, with a new name and a new haircut, she has been absorbed into the family unit.
+
+Even Osamu knows that this is morally questionable. After all, he has kidnapped a child, legally speaking, and is training her to shoplift. (“Only children who can’t study at home go to school,” is his slick excuse for neglecting the rest of her education.) But he and the rest of the family are also caring for the girl in a way that neither her parents nor society ever has. To quote Noboyu again: “Someone threw her away and we found her.”
+
+It’s easy to imagine how the family would be portrayed in a newspaper report: a tribe of spongers and scammers made up of exploitative adults and vulnerable children. But Mr Kore-Eda enchants us with scenes of stealthy, affectionate comedy, and with the sheer gentleness of the actors’ nuanced performances. Slowly but surely, we come to understand and respect this outlaw bunch, just as we might warm to the families in “
+
+” and “
+
+”. Cast out by the system, they have created their own idyllic if cramped Neverland of lost boys and girls.
+
+When the inevitable crisis finally hits, it is heartbreaking. Sudden twists and revelations raise further questions about Osamu’s morality, but by then Mr Kore-Eda’s bittersweet, politically-charged tale has won us over just as surely as it won over Ms Blanchett and her fellow jurors. We know that whatever else the characters are, they are more than just shoplifters.

@@ -1,0 +1,3 @@
+{"suggestedfocus": "8.08 Minutes", "wordsset": 243, "keywords": "Brexit,Britain,customs,disruption,practice,trade,union,voted", "toughwords": 30, "allwords": 422}
+
+Brussels,Mr,Theresa,associate,backstop,burdensome,clash,compromise,consequence,departure,disruption,diverge,eventual,imply,inevitable,infrastructure,mixture,negotiation,objective,offset,practical,referendum,regulatory,simplify,strike,tariff,thereby,transition,ultimate,vassal

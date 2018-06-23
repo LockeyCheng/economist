@@ -1,0 +1,19 @@
+The Burmese army invades the big screen
+
+“Our Beloved”, a film about soldiers in Myanmar, is an attempt to make propaganda more sophisticated
+
+https://cdn.static-economist.com/sites/default/files/20180630_BKP509_3.jpg
+
+AFTER FIVE decades of military rule, the Burmese have grown accustomed to propaganda. Every year on Armed Forces Day state television broadcasts features trumpeting the army’s achievements. “Our Beloved”, a film about ordinary Burmese soldiers, is different. It was not put together by the psychological warfare and public-relations department of the Ministry of Defence, but by two private production companies. It is an attempt at sophisticated patriotic storytelling. It fails, but in telling ways.
+
+The film follows a battalion of soldiers sent on a mission to free innocent civilians from an ethnic warlord. Why he has abducted them remains a mystery: viewers are simply told that he is involved in the drug trade. The warlord and the insurgent group he leads are clearly an avatar for the dozens of militias that have been fighting the central government for decades, demanding more autonomy for downtrodden minorities. “Our Beloved” complements this message with war-film clichés—comradeship between privates and fatherly officers, lamentation for fallen comrades. Most of the dialogue revolves around the difficulties of reconciling family life and duty. 
+
+It comes as no surprise that the film was vetted by the army before release. The point of it, U Win Saung, the director, told the press, is to document the experiences of ordinary soldiers. But for critics that rings hollow. The on-screen soldiers bear little resemblance to those described in human-rights reports as shelling civilians, and committing arson and torture. The film portrays rebels as savage rapists, while overlooking the fact that the Burmese military is suspected by the UN of using rape as a weapon of war. Even those who came to cheer the movie have failed to defend it. A Burmese military doctor says that it espouses a rosy view of what it is like to be a low-ranking officer in the army. 
+
+For all that, “Our Beloved” is interesting. It is symptomatic of a new kinship between the country’s supposedly independent film-makers and the armed forces. Since 2015 the Myanmar Motion Picture Academy Awards has taken to giving gongs to patriotic films. Ordinary Burmese are potentially a receptive audience: many despise the top brass, but have sympathy for regular soldiers. Many have at least one relative in the armed forces. 
+
+In the absence of polling, the army’s popularity is hard to measure, but it seems to have increased in the wake of repression of the Rohingyas, a Muslim minority considered by the Buddhist majority to be illegal interlopers from Bangladesh. In the face of international criticism—UN officials say the military’s operations bear the “hallmarks of genocide”—thousands took to the streets to show their support for the army.
+
+“Our Beloved” attempts to surf that patriotic wave. “No one should touch our beloved land or we will confront you, we’re not scared” sings a young man on the film’s soundtrack; a clip of the song attracted 1.5m views on Facebook. But the army fails to transform these “likes” into action. In 2015 the military fig-leaf party was trounced at the ballot box by Aung San Suu Kyi, the leader of the National League for Democracy, who is idolised by the Burmese. Similarly, the box-office takings of “Our Beloved” have been poor. It was screened for only two weeks in Yangon, the country’s commercial capital, and on a rainy Saturday afternoon in a busy downtown cinema it sold fewer than 30 tickets.
+
+A cashier had an explanation: it clashed with “The Incredibles 2”, an animated film featuring a family of superheroes. It was sold out that day and has outlived “Our Beloved”. No matter how sophisticated the military propaganda machine becomes, the generals are no match for heroes, either real or animated. 

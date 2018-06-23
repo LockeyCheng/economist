@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.42 Minutes", "wordsset": 268, "keywords": "Catalan,Mariano,Rajoy,Socialists,Spain,S\u00e1nchez,economic,govern,government,parliament", "toughwords": 47, "allwords": 430}
+
+Socialist,Spaniard,bankruptcy,becalm,brutal,chamber,concession,conservative,consult,corruption,credibility,demise,democratic,dissolution,dissolve,doom,emergence,endless,fickle,foe,fragment,hygiene,imminent,imply,kickback,naked,narrow,nationalist,opponent,opportunism,oppose,parliament,parliamentary,premium,prominent,propose,recovery,separatism,separatist,slump,stability,stolid,stubborn,treasurer,verdict

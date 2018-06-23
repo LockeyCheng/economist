@@ -1,0 +1,3 @@
+{"suggestedfocus": "7.79 Minutes", "wordsset": 249, "keywords": "appealing,buses,cities,driving,outmoded,service,trains,transport", "toughwords": 20, "allwords": 401}
+
+Nashville,Opponent,apparently,assert,clogged,diminish,dipped,downward,opponent,overwhelmingly,puzzle,quieter,roadwork,scare,slump,spiral,squeeze,structurally,ubiquitous,worsen

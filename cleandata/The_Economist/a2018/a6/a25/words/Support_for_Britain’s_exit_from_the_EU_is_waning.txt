@@ -1,0 +1,3 @@
+{"suggestedfocus": "8.35 Minutes", "wordsset": 198, "keywords": "Brexit,Britain,Britons,June,YouGov,referendum,vote,voters", "toughwords": 27, "allwords": 302}
+
+Contrary,Parliament,Prospect,assume,constant,demographic,demography,diminish,eligible,enthusiasm,estimate,interval,mire,notably,pollster,proper,pundit,punter,referendum,respondent,sample,sentiment,static,sticky,substantively,transitional

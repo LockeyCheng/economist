@@ -1,0 +1,33 @@
+What is affirmative action?
+
+As Harvard gets sued for discrimination, an idea popular in many countries comes under fire
+
+https://cdn.static-economist.com/sites/default/files/20180616_BLP540.jpg
+
+HARVARD UNIVERSITY is being sued for allegedly discriminating unlawfully against Asian applicants. America’s best-known university takes race into account when deciding whom to admit. It says this is one of many factors, and justified by the need to ensure a diverse student body. Plaintiffs contend that it has an unwritten quota to stop Asians from taking as many places as their stellar test scores would predict.
+
+Racial discrimination is illegal in America, except when it isn’t. “Affirmative action” policies, which discriminate in favour of members of disadvantaged groups, are widespread in America and many other countries. Critics, including many supporters of the Harvard suit, argue that they should be illegal. Confusion abounds--America’s Supreme Court has offered contradictory guidance as to when affirmative action is and is not allowed.
+
+The very phrase is vague. One of its early uses was in 1965, when President Lyndon Johnson of the United States signed an executive order requiring government employers to take “affirmative action” to “hire without regard to race, religion and national origin”. Since then, the phrase has come to mean more or less the opposite: giving preference to people because they belong to a particular race, religion, caste or sex.
+
+In many countries, the state gives a leg-up to members of certain groups because they have suffered discrimination in the past or continue to endure it today. America offers preferences to black people, whose ancestors were enslaved. India has quotas for 
+
+, formerly known as “untouchables”, who are at the bottom of the Hindu caste system. Some countries have affirmative action for members of groups that are on average poorer than their neighbours, even if those neighbours have not historically done them wrong. For example, Malaysia has positive discrimination for native Malays, who are poorer and do worse in school than their Chinese and Indian compatriots.
+
+The details vary from place to place. In some countries, affirmative action applies only to areas under direct state control, such as public-works contracts or admission to public universities. In others, private firms are also required to take account of the race of their staff, contractors and even owners.
+
+Advocates of positive discrimination often argue that such policies are necessary to correct historical injustice. Some quote another line of President Johnson: “You do not take a man who for years has been hobbled by chains, liberate him, bring him to the starting line of a race, saying you are free to compete with all the others, and still justly believe you have been completely fair.” Another argument is that discrimination against some groups is so pervasive that it can only be corrected with reverse discrimination.
+
+Critics of affirmative action argue that two wrongs do not make a right; that treating different racial groups differently will entrench racial antagonism and that societies should aim to be colour-blind.
+
+Many of the groups favoured by affirmative action have grown more prosperous or done better educationally since these policies were introduced. But establishing how much credit affirmative action can take is hard. The world has grown dramatically richer in recent decades and far more of its people have gone to university. Ethnic Malays are three times richer in Singapore, where they do not get preferences, than in next-door Malaysia, where they do.
+
+Thomas Sowell, the author of “Affirmative Action around the World”, observes that although affirmative action policies are typically introduced as temporary measures aimed at narrow groups, they often expand in scope as new groups demand privileges, and become permanent. In 1949 India’s constitution said quotas should be phased out in ten years. Today over 60% of the population is eligible. More than 95% of South Africans are covered by preferences of some kind. 
+
+Although the groups covered by affirmative action tend to be poorer than their neighbours, the individuals who benefit are often not. One American federal-contracting programme favours businesses owned by “socially and economically disadvantaged” people. Such people can be many times richer than the average American family and still be deemed “disadvantaged” if their skin is the right colour. One beneficiary of South Africa’s programme of “Black Economic Empowerment” is worth an estimated $500m; he is also now the president of South Africa.
+
+In several countries, the most heated debates around positive discrimination concern education. Some American states, such as California, Michigan and Florida, ban the consideration of race in public university admissions. But others are doubling down. Universities that take race into account are typically reluctant to disclose how much weight they ascribe to it. Critics speculate that this is because they give it far more weight than most Americans would consider fair. One study found that at some colleges, black applicants who scored 450 points (out of 1,600) worse than Asians on entrance tests were equally likely to win a place. The plaintiffs in the Harvard suit hope that it will force the university to reveal exactly how it evaluates applications. 
+
+Some say it is reasonable to award university places to African American students with lower test scores, given that as recently as 1954 it was legal in America for states to run separate schools for blacks and whites. But critics argue that it is counter-productive. A study by Richard Sander and Stuart Taylor found that lowering the bar for black students lets them enter law schools for which they are ill-prepared, causing many to drop out. Strikingly, they estimate that positive discrimination results in fewer blacks successfully qualifying as lawyers than would have been the case under colour-blind policies.  
+
+Some people argue that policies designed to uplift the disadvantaged should cater only for those who are actually poor, rather than using race as a proxy for disadvantage. Barack Obama, though he has generally supported affirmative action, said it would be wrong for his daughters to get “more favourable treatment than a poor white kid who has struggled more”. Some universities have adopted race-neutral policies such as trying harder to recruit poor students or admitting anyone who comes in the top 10% of his or her high-school class. Many could free up more spaces for deserving poor students by removing preferences for the children of alumni—but few do.

@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.89 Minutes", "wordsset": 444, "keywords": "ECCO,Lobb,bespoke,customer,data,laser,midsole,shoe,shoemakers,stores", "toughwords": 52, "allwords": 793}
+
+cobbler,artisan,sole,insole,handmade,modify,closest,apparel,gauge,laser,transferred,stylish,boutique,straightforward,tailor,rustle,expertise,scanner,stride,compose,Shoemaker,acquire,footwear,hygrometer,treadmill,feedback,preserve,stitch,silicone,specialist,lace,algorithm,brogue,tardiness,functional,assign,inscription,shoemaker,walker,sensor,monogram,thermometer,canal,eyelet,carve,premium,dimple,craftsman,component,bespoke

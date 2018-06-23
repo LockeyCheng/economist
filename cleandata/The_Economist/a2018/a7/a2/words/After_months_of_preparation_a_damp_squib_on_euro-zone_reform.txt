@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.72 Minutes", "wordsset": 353, "keywords": "European,French,Macron,budget,crisis,euro,reform,summit", "toughwords": 50, "allwords": 572}
+
+Mechanism,Mr,Parliament,Stability,backstop,bail,chancellor,coalition,cobble,creditor,damp,dauntingly,deploy,deposit,depositor,dessert,detectable,domestic,dominate,firepower,frisson,fruitless,illustration,impatience,initiative,irritation,macroeconomic,maxim,meaty,mechanism,occasion,passionately,preparation,proper,proposal,proposition,reference,represent,resilience,resolution,restructure,setback,squib,stale,stitch,stumble,substantial,summit,supervisory,symbolism

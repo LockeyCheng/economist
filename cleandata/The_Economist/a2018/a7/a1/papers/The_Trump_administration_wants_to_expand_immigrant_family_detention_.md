@@ -1,0 +1,27 @@
+The Trump administration wants to expand immigrant family detention 
+
+A new study suggests that would be a bad idea
+
+https://cdn.static-economist.com/sites/default/files/20180630_USP506.jpg
+
+IN RECENT days, the Trump administration has ended its policy of separating undocumented migrant children from their parents. Faced with inadequate capacity at family detention centres it has also put a temporary halt on its policy of imprisoning every undocumented family that it apprehends. But the administration is clear that its preferred solution is to expand the use of family detention. The evidence of the last 15 years suggests that this would be a mistake. Asylum seekers who are part of a family overwhelmingly comply with the immigration system even if they are released on parole —despite the fact that they face language difficulties, lack of representation, and over-reaching immigration officers. The family detention infrastructure is already unnecessarily and inefficiently large.
+
+America operates the world’s 
+
+ immigrant detention system, holding 30,000 people at a time. And it locks up a lot of families. In 2016, family detention centres had the capacity to hold over 3,500 children with their parents, already a significant expansion from just under 100 beds as recently as 2013.
+
+The conditions in those centres are grim, as new 
+
+ shows. In the first country-wide evaluation of immigration court cases of families subjected to detention, Ingrid Eagly, a law professor at UCLA and her colleagues collected data on five different family detention facilities operating between 2001 and 2016. Two were shut down after subjecting families to unreasonably cold rooms, substandard food, and inadequate medical care. In 2015, a federal judge found that a third detention centre exposed mothers and their children to “widespread and deplorable conditions” and “wholly failed” to provide safe and sanitary environments.
+
+Many families confined in those facilities are there unnecessarily. The researchers looked at 15 years of federal immigration court records involving inmates of the family detention system, covering 18,378 cases and found that, “agency officials subject families to detention despite the fact that these families are ultimately found to present a low security risk and to be legally eligible for release.” Judges can review asylum officers’ determination that an immigrant does not face a credible fear of persecution or harm if expelled. They also (more rarely) review “reasonable fear” decisions –a higher standard that involves family members previously removed from America. The researchers found that 58% of appealed denials of reasonable or credible fear were reversed by immigration judges in 2016. 
+
+And other judicial decisions suggest that immigration officials treat asylum seekers too harshly. After a finding of reasonable or credible fear, asylum officers have the discretion to release families on parole. Family members can ask a judge to overturn parole rejection or demands for large bail bonds. Of family detainees placed in removal proceedings 59% had at least one parole hearing and, of those, 57% were treated more favourably by the judge than the asylum officer had initially mandated. In most cases this involved the judge releasing the family member on payment of a (relatively small) bond instead of keeping them locked up. Overall, courts ultimately side with asylum seekers over immigration officials in almost half of cases where family members have legal representation. 
+
+Families’ chances of a fair hearing, meanwhile, are depend hugely upon whether they have a lawyer or not. Too few do. Despite pro bono efforts the authors describe as “valiant,” less than a third of family members were represented by an attorney in initial family detention proceedings and only half who remained detained found counsel at any point. This matters: representation is associated with a higher likelihood of release from detention. And the likelihood of being represented depends on where the case is heard: in Charlotte, North Carolina, 49% of family members found counsel, compared to 91% in Omaha, Nebraska. The researchers also found that judges in different jurisdictions treated family detention cases differently. The willingness of local prosecutors to grant a case closure based on prosecutorial discretion also varies widely.
+
+Despite this capricious and punitive asylum system, paroled asylum-seeking family members do mostly come back to court for hearings. Across all proceedings, 86% of released family members turn up. Where there is an asylum application, and the family has counsel, this rises to 97%. 
+
+That suggests broader access to legal representation through funding for court-appointed counsel would help reduce the risk of asylum seekers becoming undocumented residents. The researchers also suggest authorities place families directly into proceedings with an immigration judge rather than first subjecting them to an administrative process such as expedited removal. Neither strategy appears likely to be adopted by the current administration. Instead, an expanded detention regime seems likely to leave more families needlessly imprisoned without representation or a fair shot at justice. 
+
+ 

@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.00 Minutes", "wordsset": 242, "keywords": "activities,creative,cultural,encouraging,film,fulfillment,quality,survey", "toughwords": 37, "allwords": 372}
+
+acquire,artsy,assign,bereave,considerably,constant,correlate,enthusiastically,erotic,establishment,fulfillment,indicator,instrument,invigorate,literary,objective,parable,participation,perception,photography,predictor,protagonist,regretful,respondent,reveal,rut,sample,satisfaction,saucy,sentiment,static,statistical,statistician,stimulate,stuck,variable,virtue

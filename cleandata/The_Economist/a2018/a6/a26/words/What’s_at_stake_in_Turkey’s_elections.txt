@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.40 Minutes", "wordsset": 289, "keywords": "Erdogan,HDP,country,opposition,parliament,president,vote,voters", "toughwords": 52, "allwords": 500}
+
+Assume,Democratic,Kurdish,Mr,Turk,allegation,amendment,assembly,assure,campaigner,charismatic,conservative,discipline,dismantle,dubbed,emergency,endorse,executive,forge,gridlock,hatch,hopelessly,imprison,inconceivable,inherit,marred,meek,nationalist,parliament,parliamentary,patronage,peel,practically,presidential,provoke,referendum,resound,retain,runoff,sidestep,static,tentacle,terror,threshold,transformation,turbulence,uninterrupted,unite,vague

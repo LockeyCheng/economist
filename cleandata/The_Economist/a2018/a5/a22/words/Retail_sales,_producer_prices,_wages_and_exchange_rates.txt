@@ -1,0 +1,2 @@
+{"suggestedfocus": "5.68 Minutes", "wordsset": 8, "keywords": "Retail,sales,producer,wages,rates", "toughwords": 0, "allwords": 8}
+

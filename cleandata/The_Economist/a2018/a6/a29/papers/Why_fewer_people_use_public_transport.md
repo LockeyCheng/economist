@@ -1,0 +1,15 @@
+Why fewer people use public transport
+
+For some, it is an outmoded way to travel
+
+https://cdn.static-economist.com/sites/default/files/20180630_BLP504.jpg
+
+IN MUCH of the rich world, urban public transport is becoming quieter. New York’s subway carried 2% fewer people on weekdays over the last 12 months than it did the year before, and the city’s buses were 6% less busy. London’s “Tube” dipped unexpectedly, too. This is a puzzle. After all, most large cities are growing in population. Employment is often rising even more quickly. Urbanites have jobs to go to—and, because they have jobs, money to spend in shops and restaurants. But they are not taking trains or buses as much as they used to. 
+
+Cities have noticed the trend, and they have plenty of excuses for it. Some point out that service levels on public transport have worsened. Delays are up in some cities, either because too little is being spent on public transport or because (in New York, for example) it is being spent on beautiful stations rather than on signals that work. Others say that buses are being slowed by roadworks, making them less appealing. A few cities, such as Paris, have suffered terrorist attacks, which could have scared people off public transport. In still others, ticket prices have risen. 
+
+These excuses are probably not enough to explain a widespread decline. Even in cities where public transport is much better than it was (Los Angeles, for example) passenger numbers have slumped. It seems more likely that public transport is being squeezed structurally, from two directions. First, people’s need to travel is diminishing as a result of smartphones, video-conferencing, online shopping and so on. Second, urbanites now have more and better options for getting around. Uber is already ubiquitous; easy-to-rent dockless bicycles are spreading; battery-powered scooters will be next. When driverless taxis appear in cities, as they eventually should, public transport will come to seem even less appealing. For now, driving is easier than it was because car loans have become so cheap. 
+
+Public transport is in some ways the opposite of driving. When more people drive, the roads become clogged, delays go up, and driving becomes less appealing. When more people use buses or trains, by contrast, the service usually improves because public-transport agencies run more buses and trains. Until recently many wealthy cities were in that happy loop. Now the pattern has reversed. If the decline in passengers continues, cities could be pulled into a downward spiral of fewer passengers and worse service. Some of the shine has already come off public transport. In May, voters in Nashville overwhelmingly rejected a plan to raise taxes to pay for a larger public-transport system. Opponents of the scheme had not just argued (as opponents usually do) that new taxes are bad. They had also asserted that public transport is outmoded. The future, apparently, is driverless cars.
+
+ (June 21st 2018)

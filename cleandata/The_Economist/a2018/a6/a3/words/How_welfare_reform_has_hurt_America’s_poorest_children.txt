@@ -1,0 +1,3 @@
+{"suggestedfocus": "8.42 Minutes", "wordsset": 325, "keywords": "America,GDP,OECD,child,children,credits,families,poverty,reform,welfare", "toughwords": 35, "allwords": 603}
+
+Assistance,Medicaid,Nutrition,Nutritional,Reconciliation,Supplemental,ameliorate,assistance,bipartisan,childcare,comparatively,completion,concentrate,considerably,dependence,economically,eligibility,exclusively,executive,fray,graduation,household,incidence,maternal,median,mobility,mortality,parental,percent,poverty,proportion,reliant,sufficiency,unconditional

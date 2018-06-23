@@ -1,0 +1,3 @@
+{"suggestedfocus": "8.96 Minutes", "wordsset": 316, "keywords": "California,Democrats,Republican,ballot,enthusiasm,general,primary", "toughwords": 41, "allwords": 540}
+
+County,DEMOCRATIC,Democratic,Warren,acute,atop,ballot,caucus,chamber,coast,congressional,conservative,consolidate,disaffect,dullard,endorse,enthusiasm,gamesmanship,governor,inherently,intervene,jungle,liability,liberal,lockout,midterm,moderate,moderation,nasty,plague,progressive,prominent,reclaim,reelection,senator,siphon,statewide,turnout,viable,voter,weird

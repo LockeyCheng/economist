@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.35 Minutes", "wordsset": 269, "keywords": "Christian,Christianity,Europe,Pew,churchgoers,compared,countries,faith,religious", "toughwords": 49, "allwords": 452}
+
+Christianity,Muslim,abortion,accommodation,affiliation,approve,churchgoer,compatriot,conservative,continent,devout,discern,distinct,distinctly,emerge,entitlement,ethical,exaggerate,extinction,flock,flourish,folk,gamble,historic,imply,incompatible,loosely,lukewarm,median,metaphysical,moral,nationalist,overstate,philosophical,piety,plausible,plurality,respondent,secularism,secularist,spiritually,supplant,tinge,tolerant,touchstone,unattached,universal

@@ -1,0 +1,11 @@
+The G7 photograph has the dynamism of Caravaggio at his best
+
+With its unusual composition and facial expressions, it is not surprising that Jesco Denzel’s picture has enthralled
+
+https://cdn.static-economist.com/sites/default/files/20180616_BKP503.jpg
+
+IT HAS become an instant classic, a picture of political drama that captures the power struggle of an age in a single image. Once upon a time there were the unnamed sculptors who carved the “Colossi of Memnon”, proclaiming the pomp of the pharaoh in statues 18 metres high. Then came Titian, portraying the Emperor Charles V on horseback, distilling the essence of imperial splendour in oils. Later Jacques-Louis David commemorated the passions of the French revolution in his “Oath of the Tennis Court” (before selling his republican soul by glorifying the coronation of Napoleon). To this pantheon of political image-makers can be added Jesco Denzel, the German government photographer who memorialised the stare-off between Chancellor Angela Merkel and President Donald Trump at the G7 summit.
+
+As soon as the picture was circulated online (by officials of both governments), so did possible captions. “Just tell us what Vladimir has on you. Maybe we can help”, suggested Guy Verhofstadt, a former Belgian prime minister. Meanwhile would-be art historians dredged up comparisons and influences Mr Denzel may not have considered. Some, citing the photograph’s thrusting diagonals, see the influence of Baroque masters such as Rubens and Caravaggio, painters who rejected the symmetry of the Renaissance in favour of off-kilter compositions filled with dynamic tension.
+
+Perhaps the most striking feature of Mr Denzel’s photograph is the spectacle of a forceful woman confronting a powerful man, and seeming to emerge victorious. There are only a few artistic precedents for that inversion of traditional roles. Inevitably, perhaps, the most vivid came from the brush of a woman. Artemesia Gentileschi’s “Judith Slaying Holofernes” has all the slashing dynamism, and all the gore, of Caravaggio at his dramatic best. If the German chancellor in Mr Denzel’s photograph glares daggers rather than wielding them, the injuries she inflicted may have felt as real.

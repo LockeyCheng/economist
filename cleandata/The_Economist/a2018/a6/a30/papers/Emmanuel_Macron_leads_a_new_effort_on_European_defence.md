@@ -1,0 +1,17 @@
+Emmanuel Macron leads a new effort on European defence
+
+Salvaging something meaty out of European security’s alphabet soup
+
+https://cdn.static-economist.com/sites/default/files/images/2018/06/articles/main/20180630_eup503.jpg
+
+WHEN Emmanuel Macron, the French president, gave his first big policy speech on Europe at the Sorbonne last September, it was so packed with ideas that many have long since been forgotten. On June 25th, however, one of them—a “European intervention initiative” (EI2)—was signed into being by nine European Union countries at a meeting of defence ministers in Luxembourg. The idea is both to prepare a coalition of willing countries for joint European action in crises, and to tie post-Brexit Britain into the continent’s future military co-operation.
+
+Mr Macron’s idea was born out of French impatience with the EU’s efforts at defence co-operation, known inelegantly as Permanent Structured Cooperation (PESCO). Fully 25 countries signed up last December to this arrangement, which commits members to developing joint defence capabilities. Germany has been keen on this mechanism, which keeps efforts at joint European defence within existing EU structures. Its critics, though, regard PESCO as a low-ambition pact that ropes in too many countries, including those with little interest in sending troops abroad, to be operationally useful. Britain, western Europe’s only other muscular military power besides France, is not involved.
+
+The EI2, by contrast, is a more exclusive club. It is not a force, nor a new institution, and will have no headquarters. In the words of one insider: “It doesn’t look or sound French.” Its members include Britain and Denmark, neither of which belong to PESCO but have an interventionist tradition, and countries such as Estonia, which now contributes to the French “Barkhane” anti-insurgency force in the Sahel. Germany is also on board. This club of the willing could prove a more nimble way of improving joint response to emergencies.
+
+Its purpose, Mr Macron said last year, is to build a “common strategic culture”, as part of a broader effort to “ensure Europe’s autonomous operating capabilities, in complement to NATO". Officials say that, in practice, it is mostly about creating links between general staffs, and sharing training and planning exercises, in order to be readier to act together in crises. It has received the blessing of Jens Stoltenberg, NATO’s secretary-general.
+
+Mr Macron’s chief concern has been to share the burden of rapid-reaction interventions. The French want other Europeans to join their efforts when common interests are at stake. When France unilaterally dispatched troops to beat back a jihadist incursion in Mali in 2013, it did get help, but mostly logistical. EU decision-making structures, say the French, are too ponderous to be useful when it comes to responding to such emergencies.
+
+Not everybody has been keen. Angela Merkel, the German chancellor, had argued that EI2 should be part of PESCO, but signed up in the end after reassurances that Germany would not be obliged to take part in missions. A shared pragmatism seems to have prevailed. The EI2 will not transform Europe’s defence co-operation. Yet it could prove to be a practical way of enhancing the efficiency of Europe’s military rapid-reaction capability, at a time of growing concern about divisions in the Western alliance, and uncertainty about defence co-operation after Brexit.

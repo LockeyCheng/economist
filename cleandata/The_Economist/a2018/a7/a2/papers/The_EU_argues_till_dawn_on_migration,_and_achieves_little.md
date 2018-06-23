@@ -1,0 +1,27 @@
+The EU argues till dawn on migration, and achieves little
+
+Is it enough to save Angela Merkel’s skin?
+
+https://cdn.static-economist.com/sites/default/files/images/2018/06/articles/main/20180630_BLP524.jpg
+
+THERE is a pattern to European Union summits about subjects on which governments cannot agree. First, leaders stay up all night to signal their commitment. Second, they issue a statement sufficiently vague and contradictory to allow everyone to declare victory. Third, officials charged with implementing the agreement argue endlessly over how to interpret it. This sequence, 
+
+, Shahin Vallée, perfectly describes the EU summit on illegal migration on June 28th-29th. The leaders battled into the pre-dawn hours on June 29th, but the tortuous phrasing of their conclusions—one sentence contained 12 commas—betrayed their inability to find meaningful compromises on the issues that continue to bedevil them.
+
+As ever, the trickiest discussion was on how to share responsibility among governments for migrants who arrive in Europe. The leaders agreed, eventually, to establish so-called “controlled centres” inside the EU to process asylum claims. Italy, which receives the highest number of irregular migrants in Europe (mostly by sea), had been reluctant to accept this idea, originally proposed by France and Spain. Angela Merkel, Germany’s chancellor, said Italy had not committed itself to host such centres but it is hard to see where else they might go. France and Austria have already ruled out accepting them.
+
+To sugar the pill, the Italian government may have secured informal commitments from other governments to accept some genuine refugees from these centres. Given that less than one-third of irregular migrants to Europe are entitled to receive some form of protection, that promise may not amount to much. The larger problem is what to do with the rest. European countries struggle to deport illegal migrants, often because they refuse to identify their nationality or their countries will not take them back.
+
+This dispute also re-exposed the long-running sore between the EU’s western and eastern halves. After a Hungary-led Central European bloc again refused to accept compulsory refugee quotas, the summit agreed that no country would be forced to accept relocation of refugees from the controlled centres.
+
+But this row is far from over. Austria, which takes over the rotating presidency of the EU Council on July 1st, has been charged with trying to broker a deal on permanent reform of the EU’s asylum system. Its outspoken chancellor, Sebastian Kurz, is sceptical of relocation schemes and may propose alternatives. One EU official who fears Mr Kurz’s intentions calls this “the worst possible outcome”.
+
+The leaders found it easier to agree that more migrants should be kept away from Europe in the first place. They said they would find more money for long and short-term projects in Africa and Turkey. More controversially, they will “explore the concept” of “regional disembarkation platforms”. Based on a proposal issued by the UN’s refugee and migration agencies, the idea is to share responsibility among countries, including those on the North African littoral, for migrants saved at sea, accommodate them to reasonable standards, process their asylum claims and return home those who do not need protection.
+
+The proposal is fraught with legal and political difficulty. Apart from anything else it means European countries must find willing partners in North Africa, who will seek trade, development, visa and migratory concessions in return. The experience of such centres in Morocco and Tunisia has been mixed at best. Making the idea work calls for clever diplomacy of the sort the new Italian government, in particular, may struggle to muster. Matteo Salvini, its interior minister, has already publicly sparred with the Tunisians.
+
+It was not a good night for Giuseppe Conte, Italy’s new prime minister and Mr Salvini’s notional boss, who irritated everyone by holding up procedural matters until the migration discussion was over.
+
+Meanwhile Angela Merkel returns home with promises from a handful of countries, including Greece and Spain but not Italy, to take back asylum-seekers who reach Germany’s borders via their territories. It remains to be seen whether this will be enough to satisfy the chancellor’s restive Bavarian sister party and coalition partner, the Christian Social Union, which has threatened unilaterally to turn migrants away from Germany’s southern border, threatening a coalition crisis. Such “secondary movements” were not the focus of last night’s discussions.
+
+If the German debate has become less about migration numbers and more a naked political struggle, the same is largely true across Europe. Irregular crossings and asylum claims are at their lowest for years, but elections have thrown up difficult governments committed to mutually incompatible policies. That leads to great theatrics at all-night summits, but next to nothing on the real challenges: managing conflict and poverty in Europe’s neighbourhood, and improving the integration of immigrants at home. As Donald Tusk, who presided over last night’s summit, said: “It is far too early to talk about a success.”

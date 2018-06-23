@@ -1,0 +1,3 @@
+{"suggestedfocus": "7.69 Minutes", "wordsset": 163, "keywords": "Conflicts,Weather,Yemen,borders,capture,conflicts,crisis,disasters,natural,violence", "toughwords": 14, "allwords": 225}
+
+uproot,inability,equivalent,overload,capsize,humanitarian,desperate,outbreak,animate,inflatable,consequence,famine,upheaval,violent

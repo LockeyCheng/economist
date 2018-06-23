@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.02 Minutes", "wordsset": 278, "keywords": "Argentina,Sturzenegger,bank,central,currency,markets,peso,president", "toughwords": 46, "allwords": 487}
+
+Argentina,Federico,Luis,Mario,Mauricio,Shear,Treasury,assistance,avert,banker,confuse,consult,deficit,denominate,departure,disruptive,emerge,exacerbate,fiscal,henceforth,inflation,infrastructure,intervene,linger,nerve,override,peso,plunge,prompt,reassure,resignation,restore,solvency,static,subsidy,surplus,sustain,tender,treasury,turmoil,urgent,yield

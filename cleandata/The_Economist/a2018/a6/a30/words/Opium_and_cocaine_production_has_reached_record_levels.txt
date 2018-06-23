@@ -1,0 +1,3 @@
+{"suggestedfocus": "8.31 Minutes", "wordsset": 80, "keywords": "Global,cocaine,drug,record,seizures,tonnes,trend,upward", "toughwords": 14, "allwords": 108}
+
+Colombia,Opium,coca,cocaine,cultivation,illicit,instability,manufacture,opium,poverty,seizure,surge,tonne,upward

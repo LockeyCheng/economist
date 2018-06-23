@@ -1,0 +1,7 @@
+Billions of women are denied the same choice of employment as men
+
+They are barred from certain jobs in over 100 countries
+
+EVEN as rich countries seek to rid workplaces of subtle gender bias, in many developing ones discrimination remains overt. According to the World Bank, women are barred from certain jobs in 104 countries (see map). Some countries publish lists of jobs deemed too dangerous for women (Russia’s 456 include driving a train or steering a ship). Others stop women from working in entire sectors, at night or in “morally inappropriate” jobs (in Kazakhstan women cannot bleed or stun cattle, pigs or small ruminants). In four countries women cannot register a business. In 18 a husband can stop his wife working.
+
+The aim is often to protect the “weaker sex”. Some laws put women in the same category as children; they concern jobs seen as physically tough, such as mining, construction and manufacturing. Others relate to broader safety fears. In Mumbai, for example, female shopkeepers cannot work as late as male ones. Other laws are intended to protect capacity to bear children. Such sex-specific restrictions are called for, says the International Labour Organisation, particularly in the case of pregnant and breast-feeding women, for example when working with chemicals. (Such temporary and specific precautions are not counted in the World Bank’s study.) But, concludes the ILO, blanket protective prohibitions are “increasingly obsolete”. 

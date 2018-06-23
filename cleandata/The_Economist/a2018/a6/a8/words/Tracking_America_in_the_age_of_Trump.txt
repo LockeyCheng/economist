@@ -1,0 +1,3 @@
+{"suggestedfocus": "7.48 Minutes", "wordsset": 83, "keywords": "America,Eleven,Tracking,Trump,measures,policies,presidency,temperature", "toughwords": 9, "allwords": 109}
+
+Dissenter,assert,enact,partisanship,proclaim,reap,reckon,static,tab

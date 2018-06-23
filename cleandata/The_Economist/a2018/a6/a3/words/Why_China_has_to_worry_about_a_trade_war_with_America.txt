@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.92 Minutes", "wordsset": 337, "keywords": "America,Beijing,China,Chinese,Trump,announcement,commerce,trade,war", "toughwords": 53, "allwords": 530}
+
+approval,assessment,assumption,aviation,bilateral,bluff,boycott,ceasefire,complicate,credibility,cultivate,demise,disrupt,downplay,equivalent,escalate,fizzle,fledged,foolhardy,frustration,goodwill,hawk,hostility,leverage,levy,narrowly,nastier,negotiation,notably,oppose,pledge,prompt,redouble,restriction,resume,retaliate,rivalry,robotic,sanction,semiconductor,shorten,spillover,surplus,tactical,tat,thereafter,tighter,tit,tout,undermine,visible,vow,vulnerable

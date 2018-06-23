@@ -39,7 +39,10 @@ def getEP(url):
             for po in pt:
                pout.append(po)
         print(pout)
-        result = {'head':hout,'ps':pout}
+        img = '//img/@src' 
+        srcs = selector.xpath(img)
+        result = {'head':hout,'ps':pout,'imgsrc':srcs[0]}
+        print(result)
         return result
     except Exception as err:
         print(err,url)
@@ -117,8 +120,8 @@ if __name__ == '__main__':
         os.makedirs(toDayDir)
     for item in linkArr:
         print(item)
-        tmpLast.append(item)
         if item not in lastLst:
+            paperRecords['lastLst'].append(item)
             if paperType == 'te':
                 url = 'https://economist.com' + item
                 article = getEP(url)
@@ -127,17 +130,19 @@ if __name__ == '__main__':
                 article = getMP(url)
 
             try:
-                paperRecords[ayear][amonth][aday].append([item,article['head'][0]])
                 paperName = '_'.join(article['head'][0].split(' '))
                 saveMd = toDayDir + paperName+'.md'
-                result = article['head']+article['ps']
+                result = article['head']+[article['imgsrc']]+article['ps']
                 output = '\n\n'.join(result)
+                if len(output) < 100:
+                    continue
+                paperRecords[ayear][amonth][aday].append([item,article['head'][0]])
                 with open(saveMd,'w') as fw:
                     fw.write(output)
                 time.sleep(30)
             except Exception as err:
                 print(err)
 
-    paperRecords['lastLst'] = tmpLast
+    paperRecords['lastLst'] = paperRecords['lastLst'][-30:]
     with open(spiRecords,'w') as fwp:
         json.dump(paperRecords,fwp)

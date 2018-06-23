@@ -1,0 +1,13 @@
+In “Queer Eye”, wardrobes and world-views are made over
+
+The rebooted show—where five gay men try to charm the Deep South—is a Netflix hit
+
+https://cdn.static-economist.com/sites/default/files/20180623_BKP502.jpg
+
+“OH SHIT.” Karamo Brown, a black American, is driving with his colleagues in Winder, Georgia, when blue lights begin to flash in the rear-view window. The passengers make a few jokes—about who should have driven, the racial makeup of the party—but the unease is palpable. The officer asks Mr Brown to step out of the vehicle, drawing protests from the group. But the cop reveals that it is a stitch-up: he knows they are filming a television show, and the producers were in on the traffic stop. “You can’t do that to brown people!”, one of the hosts cries. 
+
+“Queer Eye” is a makeover show, but one which brings contemporary issues to the fore in almost every episode. Mr Brown (the show’s culture maven), Bobby Berk (interior design), Tan France (style), Jonathan van Ness (grooming) and Antoni Porowski (food and wine), a quintet of gay men known as the “Fab Five”, teach hapless individuals the virtues of taking better care of themselves. To bond with their subjects, the men share their own formative experiences. In the first season, released in February, they addressed Black Lives Matter, gay marriage, mental health, notions of masculinity and father figures. Season two, released on June 15th, features a transgender man, a Mexican migrant, a “hipster mayor” and a devoutly religious woman.
+
+Netflix has given the show itself a considerable makeover. Its original run, between 2003 and 2007 on cable television, was set largely in New York’s cosmopolitan bubble. But today's version takes place in Georgia, where the five hosts are exposed to a more challenging set of world-views. In one episode, they joke that a one-horse town’s population of gay people has increased by 500%. In another, they are faintly amused to find a “Make America Great Again” cap in their subject’s closet. The show’s new look has been popular: it has attracted legions of devoted fans, spawned countless internet memes and accrued a 98% approval rating on Rotten Tomatoes, a review-aggregator site.
+
+The format of “Queer Eye” is designed to be uplifting: the show’s tear-jerking nature is so well-known that the poster art for the new season features a box of tissues. What makes it compulsive viewing is not the patterned shirts or the avocado tips, but the men’s eagerness to empathise and engage with their mentees. Their aim is to find common ground, to learn and to have difficult conversations in a thoughtful manner. At a time when America seems irreparably divided, the straightforward kindness and humanity of “Queer Eye” is a joy.

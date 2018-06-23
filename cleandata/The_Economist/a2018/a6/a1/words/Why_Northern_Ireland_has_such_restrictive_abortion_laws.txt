@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.71 Minutes", "wordsset": 310, "keywords": "DUP,Ireland,Irish,Kingdom,Northern,Westminster,abortion,approach,law,liberal", "toughwords": 57, "allwords": 530}
+
+ABORTION,Abortion,Assembly,Belfast,Catholic,Democratic,Foster,Mr,Paisley,Presbyterian,Protestant,Theresa,Tory,Ulster,Unionist,Victorian,Westminster,abortion,aftermath,amendment,anxious,celebration,complication,decisive,denounce,devolve,disapprove,dominate,exceed,exodus,fierce,fundamentalist,historic,indicate,legislate,legislature,leverage,liberal,misery,oppose,phrase,pregnancy,pregnant,referendum,relevant,repeal,resolutely,restrictive,rift,subsequent,suspension,terminate,valuable,whisper

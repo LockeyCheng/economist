@@ -1,0 +1,3 @@
+{"suggestedfocus": "7.78 Minutes", "wordsset": 291, "keywords": "AHD,Budget,Capital,Manager,capital,funding,request,requester", "toughwords": 43, "allwords": 722}
+
+Approval,Associate,Delivery,Fiscal,Interior,Requester,administrator,allocate,allocation,appropriate,approval,approve,assign,automate,cancellation,commitment,denial,department,disapprove,email,execute,expenditure,formalize,functionality,incorporate,incremental,initiate,interior,notify,password,reallocate,requester,specialist,threshold,transaction,typically,validation

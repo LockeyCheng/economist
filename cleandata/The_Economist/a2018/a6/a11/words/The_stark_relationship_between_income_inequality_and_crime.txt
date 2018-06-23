@@ -1,0 +1,3 @@
+{"suggestedfocus": "8.05 Minutes", "wordsset": 204, "keywords": "Becker,crime,criminals,income,inequality,safe,theory,whether", "toughwords": 27, "allwords": 334}
+
+Daniel,Gallup,Gary,Hick,Venezuela,assault,assessment,coefficient,correlation,demonstrate,expenditure,extortion,flaunt,inequality,miscreant,occurrence,perception,posit,rational,respondent,seminal,stark,static,unequal,utility,violent,visible

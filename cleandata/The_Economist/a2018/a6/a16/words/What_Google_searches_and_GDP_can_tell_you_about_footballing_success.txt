@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.42 Minutes", "wordsset": 389, "keywords": "countries,country,football,game,model,opponent,players,sporting", "toughwords": 51, "allwords": 720}
+
+Argentina,Dortmund,Portugal,Uruguay,associate,benchmark,coaches,concede,consistently,constant,correlate,cricket,deficit,distort,dominate,enthusiasm,exceed,federation,fixture,fundamental,gauge,hapless,hockey,identical,imperfection,infrastructure,medal,median,mighty,minnow,obsession,opponent,overachiever,parity,participation,plucky,priority,rag,reign,rugby,squabble,static,statistical,supplement,thump,valuable,variable,wealthier,whittle

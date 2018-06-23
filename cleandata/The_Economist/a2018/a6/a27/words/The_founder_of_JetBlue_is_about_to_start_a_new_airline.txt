@@ -1,0 +1,3 @@
+{"suggestedfocus": "8.96 Minutes", "wordsset": 280, "keywords": "American,JetBlue,Moxy,Neeleman,airline,airports,carrier,country", "toughwords": 35, "allwords": 431}
+
+Bombardier,Burbank,Corporation,Delta,Fort,Gary,Lease,Providence,abound,arguably,aviation,buck,carrier,cater,congest,consumption,credibility,domestic,dominate,executive,frill,humanity,hurdle,intense,lessor,lightweight,niche,nudge,perk,presentation,profitable,slot,static,substantial,unchanged

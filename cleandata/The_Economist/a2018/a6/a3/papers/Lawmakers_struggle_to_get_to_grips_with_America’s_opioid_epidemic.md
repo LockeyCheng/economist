@@ -1,0 +1,13 @@
+Lawmakers struggle to get to grips with America’s opioid epidemic
+
+But some states appear to be doing something right
+
+THE speed at which opioids have ravaged the United States caught policymakers flat-footed. For 12 years deaths from overdoses of opioids—a group of drugs which includes prescription painkillers, heroin, methadone and synthetic varieties—crept up at a concerning but moderate average rate of 1,200 additional deaths per year. Starting in 2012, however, an epidemic took off. During the subsequent five years the rate of increase soared to nearly 5,000 extra deaths every year, causing the annual toll to rise from 23,000 to roughly double that amount.
+
+The underlying numbers give cause to be both 
+
+. On one hand, deaths caused by prescription opioids and heroin now appear to be falling. Yet on the other, those resulting from synthetic opioids such as fentanyl—a drug 50 times more potent than heroin—continue to rise rapidly. Assuming recent trends have continued, in February the toll from fentanyl is expected to have surpassed those from prescription painkillers and heroin combined. 
+
+Politicians are now scrambling to catch up. In October the federal government formally declared a national health emergency. Some 80 bipartisan opioid bills are awaiting action in Congress. The proposed laws cover a plethora of fixes, including pain research, prescription practices, treatment and education. The best ideas are expected to be signed into law before the legislative summer recess. 
+
+Meanwhile, America must try to provide help to the 2m or so people suffering from opioid-use disorders. Brandon Marshall, an epidemiologist at Brown University, recommends that lawmakers look to the states for the best examples of policies to roll out elsewhere. Provisional data from the Centres for Disease Control and Prevention show that in 12 of the 50 states, deaths from all drug overdoses—the vast majority of which are caused by opioids—were lower in the year to October 2017 than they were in the previous 12 months. Michigan, Mississippi and Wyoming all saw double-digit percentage declines, though those improvements were not necessarily the result of those states’ policies. However, the Department of Justice, led by the conservative Jeff Sessions, refuses to countenance the creation of safe injection sites, which have been shown to reduce addicts’ risk of overdosing in Canada. Instead, he has threatened to prosecute them under the federal “crack-house” statute.

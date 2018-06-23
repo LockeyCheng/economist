@@ -1,0 +1,13 @@
+The price of oil inches towards $80 a barrel
+
+This raises questions about the future of production cuts from the OPEC+ group
+
+JUST three years ago, oil prices were in free fall. Spurred by the rapid growth of fracking in the United States and Saudi Arabia’s decision to keep producing large volumes of crude, the price of a barrel of oil lost more than two-thirds of its value in 2014-15. After hitting bottom at about $30, the trend reversed. At $78, a barrel of Brent crude now fetches nearly three times as much as it did at its nadir in 2016.
+
+Both demand and supply have driven the steady recovery in prices. The generally robust global economy has increased appetites for energy. In 2017 global oil consumption rose by 1.6%, with the bulk of the additional fuel burned in Western economies and in China.
+
+And just as the world began to guzzle more oil, less of it was available. In early 2017 OPEC, a club of oil-exporting countries, as well as non-OPEC nations led by Russia, implemented a cut in production that has almost completely erased the global glut of petroleum. This so-called OPEC+ group originally intended the cuts to be short-lived, but extended them last November once prices were on the rise. OPEC’s sometimes-unruly members have even over-delivered on their promised cuts: as of last month, they were trimming their production by 63% more than they had promised, according to the World Bank. The biggest decline has come from Venezuela, where years of gross mismanagement of the state oil company has caused output to fall by more than half a million barrels per day (b/d) in the past year.
+
+The increase in political tensions in the Middle East has further jolted the price upwards during the past month. On May 8th Donald Trump announced that America would withdraw from its nuclear deal with Iran and impose new sanctions on the country. Iran currently exports around 2.5m b/d, representing about 3% of global consumption. The new restrictions could cut this figure by as much as 1m b/d if America succeeds in forcing international compliance with its new policy.
+
+After several years of propping up oil prices, producer countries must now debate whether to try to put a lid on them. That could strain the OPEC+ alliance. Saudi Arabia currently has more than 2m b/d of excess production capacity, which it could activate in short order, but at the risk of taking market share from other producers’ in the pact. Meanwhile shale drillers in the United States are already responding to the surging price: last week ten new oil rigs were deployed in America, bringing the country’s total to its highest level in over three years. But no producer wants the good times to end too soon. 

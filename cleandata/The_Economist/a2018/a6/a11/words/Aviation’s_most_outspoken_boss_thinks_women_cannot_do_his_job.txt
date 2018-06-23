@@ -1,0 +1,3 @@
+{"suggestedfocus": "8.75 Minutes", "wordsset": 260, "keywords": "Baker,IATA,airline,appointing,cabin,crew,female,industry", "toughwords": 31, "allwords": 393}
+
+Akbar,Aviation,altogether,attendant,attendee,aviation,cabin,carrier,cartel,convene,disparity,executive,foray,forbade,immeasurable,inequality,liberal,makeup,misogyny,mock,modernity,outspoken,pregnant,privilege,proportion,represent,static,subserviently,subtly,tune

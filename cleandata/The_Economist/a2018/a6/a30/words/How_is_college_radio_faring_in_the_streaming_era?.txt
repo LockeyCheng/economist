@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.0 Minutes", "wordsset": 364, "keywords": "College,DJs,Nielsen,Spotify,college,listeners,media,music", "toughwords": 55, "allwords": 585}
+
+Cit,Gary,Graphic,Larry,McDonald,Nielsen,Nirvana,Pandora,YouTube,airplay,algorithm,audio,bastion,cacophony,camps,consumption,cranny,curate,curatorial,demonstrate,distinguishable,donation,donor,elicit,entice,feedback,genre,gig,giveaway,gloomy,heyday,immerse,indie,knowledgeable,medium,nook,perspective,predictable,preference,premature,prognosis,reawaken,reckon,recommendation,sample,segment,specialty,stumble,tabulate,terrestrial,thrive,tun,volunteer,vouch

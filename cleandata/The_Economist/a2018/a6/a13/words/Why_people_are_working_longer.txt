@@ -1,0 +1,3 @@
+{"suggestedfocus": "8.67 Minutes", "wordsset": 298, "keywords": "American,countries,decades,labour,participation,retire,retirement,workforce", "toughwords": 34, "allwords": 494}
+
+Courtney,Evaluation,Mortality,Reduction,attribute,collar,disability,downtime,fallacy,institutional,lag,lump,median,occupation,ordination,participation,predetermine,profound,prosperity,recipient,reckon,relevant,sponsor,static,suitable,supplant,tenure,toil,trad,uptick,vein,wive,workforce,yore

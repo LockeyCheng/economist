@@ -1,0 +1,3 @@
+{"suggestedfocus": "7.52 Minutes", "wordsset": 120, "keywords": "Cup,Explore,champions,game,https,interactive,ranked,scored", "toughwords": 10, "allwords": 156}
+
+Argentina,Lionel,Portugal,Portuguese,Uruguay,interactive,limp,static,stunned,thwart

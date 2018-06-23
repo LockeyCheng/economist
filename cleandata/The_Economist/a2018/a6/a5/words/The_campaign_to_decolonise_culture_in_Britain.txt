@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.6 Minutes", "wordsset": 401, "keywords": "Britain,Caribbean,London,Museum,Western,artefacts,culture,museum", "toughwords": 67, "allwords": 633}
+
+Commandeer,Curator,Scrutiny,amplify,anarchy,appropriate,artwork,bis,candidly,canonical,classicist,collaboration,colonial,colonialism,contemporary,curator,curriculum,dismissal,disrupt,diversify,diversity,dominate,elevate,ephemera,erupt,ethnic,faculty,fete,fittingly,flash,gal,heritage,inaugural,institutional,interpretation,juxtapose,legacy,literary,literature,louder,mob,narrative,nuance,oppress,peripheral,perpetuate,perspective,petition,prompt,proven,provenance,provocative,racism,raid,redress,revisit,sculpture,spurred,stride,syllabus,tolerance,transparent,undergraduate,workforce

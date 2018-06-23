@@ -1,0 +1,3 @@
+{"suggestedfocus": "8.68 Minutes", "wordsset": 371, "keywords": "AXA,Ardian,Equity,Private,assets,billion,manages,private", "toughwords": 53, "allwords": 865}
+
+Bertrand,Buyout,Claude,Dominique,Estate,Frankfurt,Governance,Infrastructure,Lien,Mathis,Olivier,USA,Vincent,acquire,acquisition,approximately,buyout,continental,dedicate,deploy,distribute,electricity,entity,estate,facility,grid,implement,infrastructure,institutional,medium,notably,org,organize,ownership,phrase,portfolio,postpone,renewable,residential,retain,segment,shield,sovereign,specialize,spin,strategic,subordinate,subsidiary,toll,transaction,wiki

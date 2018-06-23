@@ -1,0 +1,17 @@
+Kevin Powers has written a harrowing, resonant civil war novel
+
+“A Shout in the Ruins” again demonstrates the author’s nuanced understanding of conflict and its aftermath
+
+https://cdn.static-economist.com/sites/default/files/images/2018/06/articles/main/20180609_bkp506.jpg
+
+ By Kevin Powers. 
+
+KEVIN POWERS’S first novel, the much-lauded “The Yellow Birds”, was heavily influenced by his experiences as a machine-gunner in Iraq. It was followed by a debut poetry collection with a similar theme, “Letter Composed During a Lull in the Fighting”. A grim knowledge of military practice, combined with poetic gifts, is displayed once more in “A Shout in the Ruins”, in which Mr Powers uses his native Richmond, Virginia, as the backdrop for an examination of the civil war and its aftermath.
+
+In short, densely packed chapters, Mr Powers fashions two overlapping stories. The first is set in antebellum Virginia, and runs on through the brutality of the war. It concerns the slaves Rawls and Nurse (so named because she is forced to wet-nurse the plantation’s babies); slave-owners Reid and Levallois; and Reid’s daughter and sole heir, Emily. The second is set in 1956. George Seldom, aged over 90, is searching for his origins. His earliest clear memory is of being left on the porch of a house in rural North Carolina, “with nothing but his name, the clothes he wore, and a hurriedly inscribed note that said ‘Look after me, I now belong to you’.” It was 1866; he was nearly three years old. George’s connection to the slave plantation is revealed gradually, momentously.
+
+Mr Powers moves easily into the realm of historical fiction. The world he portrays is in chaos. From the fading reign of the South’s white mansions and the terrible cruelty concealed within them, the novel advances to the slaughter of the battlefield. Decades later the sensations of war still twitch in George’s memory: “The whole world smelled like burned powder, a scent that would subsequently send him reeling into the past toward that obscure moment for the rest of his life.” 
+
+Much as in “The March”, E.L. Doctorow’s epic civil war novel, Mr Powers gives a strong sense of a vast body of humanity caught up in a tumult that still reverberates today. His characterisation is adept, from Reid, the slave-owner who loses his property and his daughter Emily to his ambitious, sadistic neighbour Levallois, to the enigma of Emily herself. Rawls and Nurse endure, and ultimately resist, abhorrent treatment in the hope that the end of the war will bring freedom. There are unforgettable cameos from George’s rescuer, a principled but vengeful outlaw soldier, and Lottie Bride, a kind-hearted woman whom George meets in a diner on the last day of his life. Objects return like portents of fate: a knife with the handle of an elk antler; a pair of blood-spattered glasses.
+
+Above all this troubling, stirring book is informed by Mr Powers’s deep understanding of war’s complexities, and of how people are broken and shaped by it. It is not, oddly enough, during the scenes of combat in which this wisdom is crystallised, but during one in which George and Lottie go to a cinema to watch “Shane”, a gun-fighter film starring Jack Palance. To George, the actor’s “dark, pin-pricked eyes told the truth at the heart of every story, that violence is an original form of intimacy, and always has been, and will remain so forever”. Mr Powers’s fine novel reaches the same bleak, brave conclusion.
