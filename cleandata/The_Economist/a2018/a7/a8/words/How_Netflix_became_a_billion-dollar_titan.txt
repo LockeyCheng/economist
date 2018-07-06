@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.97 Minutes", "wordsset": 164, "keywords": "Hollywood,Netflix,Sarandos,content,film,studio,television,video", "toughwords": 20, "allwords": 221}
+
+Spacey,Warner,Wright,cinema,comedy,deride,documentary,exclusively,notoriously,procure,profitable,profligate,rental,scarcely,script,slate,studio,unscripted

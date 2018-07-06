@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.2 Minutes", "wordsset": 419, "keywords": "inflation,labour,markets,oil,productivity,share,unemployment,wage", "toughwords": 42, "allwords": 813}
+
+Portugal,barrel,benchmark,blaze,boon,constrain,deck,deflationary,dominate,eliminate,erode,hasty,hawk,hotter,inflation,inflationary,justification,lamentable,mad,negative,nominal,outsource,perceive,prediction,productivity,proximate,puzzle,rebound,recovery,refute,shindig,shove,slack,slump,spark,squeeze,stack,stagnant,structural,superstar,tandem,tumble

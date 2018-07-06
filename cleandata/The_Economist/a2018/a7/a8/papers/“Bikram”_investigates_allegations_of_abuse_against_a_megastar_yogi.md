@@ -1,0 +1,27 @@
+“Bikram” investigates allegations of abuse against a megastar yogi
+
+A new podcast tells a now-familiar story
+
+https://cdn.static-economist.com/sites/default/files/20180707_BKP503.jpg
+
+WHEN Bikram Choudhury arrived in California in 1973, he brought with him a new brand of yoga. Instead of a light series of stretches, he preached transformation through suffering. Wearing little more than black speedos and a Rolex, he would guide his starry clientele through 26 high-intensity poses in a room the temperature of Calcutta in the summer. As word spread, more people yearned to proselytise the Bikram method. His teacher-training courses would subject 400 students at a time to gruelling regimes. At one session some students grew so delirious from the heat and the strain they were incontinent on their mats. Yet people endured his “torture chamber” because they swore Bikram Yoga changed their life. Thirty years after he opened his studio in California, 900 studios across the world taught his brand of hot yoga.
+
+Bikram was yoga’s first global superstar, and he enjoyed the fortunes of fame. He spent lavishly. He loved appearing on talk shows, and his association with celebrities. “Bikram”, a new five-part audio series by ESPN, part of its “30 for 30” series, explores these idiosyncrasies and how he built his empire. But it is most poignant for telling a now-familiar story: one of a powerful man and his protégées.
+
+He would administer pain in verbal, as well as physical, ways. He frequently chided or shamed his students: “fatty” or “Miss Boobs” were common refrains. “If you can take my shit, one day you will become a better person,” he would say. The listener is introduced to women who recount their reasons for joining Bikram’s circle: they thought that his yoga could change the world and make it a “better place”. They recall the first time they met the guru—he was a celebrity, “really fucking cool” and “funny”. It could be something of an honour to be asked to massage his feet in front of the class. 
+
+A woman came forward with claims of sexual assault in 2013, and other allegations soon followed. Lawsuits claimed that during training courses Bikram would lure women up to his hotel room and then initiate sexual acts through massage, or by brute force. (The similarity to the testimony in the Harvey Weinstein case is striking.) 
+
+ was unable to find a representative for comment, but Bikram has in the past denied any wrongdoing. “Women like me. Women love me,” he said in 
+
+. “So if I really wanted to involve with the women, I don’t have to assault the women.”
+
+On the podcast, the stories of two women unfold methodically, with little narratorial intervention. Music is used sparingly. The listener is left only with a long stretch of tape, on which the women talk emotively about the violence they allege was inflicted upon them. The effect is evocative.  
+
+“Bikram” is part of an emerging genre of podcasts which is concerned with powerful men and the abuse of that power. In 2016 Gimlet Media’s “Startup” investigated claims against Dov Charney, the American Apparel boss who was accused of sexual harassment and assault. In 2017 Audible’s “Ponzi Supernova” focused on Bernie Madoff, a financial fraudster. Given the language used to talk about manipulation, harassment and abuse—victims are “silenced”, or “speak out” and are finally “heard”—podcasts are an apt medium for these investigations to take place. They allow testimony to gain momentum and crescendo in a moving and intimate way. “Bikram” features an emotional conversation between a teacher and Jill Lawler, her former student. Ms Lawler claims that she was raped by Bikram on more than one occasion. The teacher can only muster “Oh my God, honey. Jesus Christ.” It is a devastating scene.
+
+At times, the listener hopes the podcast would delve even deeper. Some key figures are not fully fleshed out, such as Rajashree Choudhury, Bikram’s ex-wife. She was the friendly face of Bikram Yoga, a “goddess” and a warm presence at teacher-training sessions; the full portrait of Bikram’s personality seems incomplete without mention of how it contributed to the disintegration of their marriage. The podcast would also have benefited from folding in the experience of Julia Lowrie Henderson, the producer and host. The listener learns that she is a disillusioned former manager of a Bikram studio, but the question of her motivation for making the series is left dangling.
+
+“Bikram” deserves to join the ranks of other galling, important #MeToo journalism. It is effective and haunting, not least because Bikram himself is still teaching in places such as India and Mexico. “The six women who accused Bikram of more serious crimes have not been afforded the kind of justice they had hoped for,” Ms Henderson says. “After endless delays, five of the six opted for small monetary settlements. Only Jill Lawler remains, hoping to get her day in court.” A warrant for Bikram’s arrest has been ordered, but only for 
+
+ to his former lawyer, who had brought a wrongful termination lawsuit. The podcast and the story it tells are illustrative of the state of the #MeToo movement itself—where women are increasingly heard and believed, but there have been few legal victories. 

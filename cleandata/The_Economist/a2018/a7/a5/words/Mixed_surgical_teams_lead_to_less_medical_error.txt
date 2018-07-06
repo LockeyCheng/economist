@@ -1,0 +1,3 @@
+{"suggestedfocus": "8.80 Minutes", "wordsset": 223, "keywords": "Jones,Waal,female,interactions,lead,led,male,surgical", "toughwords": 33, "allwords": 338}
+
+Atlanta,Emory,Laura,SURGEONS,beneficial,chimpanzee,collaborative,construct,decrease,demonstrate,discipline,dominance,dominate,fraction,hone,hostile,ingratiate,insult,interaction,jostle,logged,mimic,mishap,neutral,operative,oppose,personnel,pleasantry,presumably,profession,specialism,surgical,technician

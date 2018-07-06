@@ -1,0 +1,3 @@
+{"suggestedfocus": "7.36 Minutes", "wordsset": 159, "keywords": "America,amount,cdn,country,data,https", "toughwords": 16, "allwords": 246}
+
+Bureau,Declaration,JULY,deem,demonstrate,deprivation,encouragingly,epidemic,identical,inequality,proportion,sample,steeper,sufficient,weary,wheres

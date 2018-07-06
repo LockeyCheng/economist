@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.10 Minutes", "wordsset": 343, "keywords": "China,University,Western,exam,gaokao,political,universities,university", "toughwords": 36, "allwords": 552}
+
+Aptitude,Carolyn,Hampshire,Melbourne,Scholastic,Shenyang,academically,anxious,applicant,approve,assesses,assume,chancellor,competency,compulsory,constraint,counterpart,criteria,deputy,discipline,domestic,endorse,evaluate,existent,flattery,merit,notoriously,numb,officer,oral,preparation,prestigious,readiness,rote,slogan,stance

@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.7 Minutes", "wordsset": 492, "keywords": "China,Officials,Zhong,aim,government,grid,neighbourhood,security", "toughwords": 65, "allwords": 841}
+
+Grid,Mercator,Modification,Samantha,Tianjin,approve,armband,armchair,assign,attentiveness,backbone,civilian,commuter,complex,complicate,crook,deploy,detect,disloyal,dodgy,dweller,emergence,fond,foothold,forestall,gauge,grassroots,grid,grumble,hazard,heel,homeowner,household,iconic,logged,lookout,minor,nest,notoriously,patch,patrol,pavement,persist,petition,reckon,recruit,reliable,resident,residential,rota,satisfaction,secessionist,sensitive,shaky,sophisticate,stadium,surveillance,troublemaker,unrest,vanish,violent,volunteer

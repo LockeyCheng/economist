@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.6 Minutes", "wordsset": 331, "keywords": "Delta,Trump,airline,business,children,hospitality,policy,travel", "toughwords": 39, "allwords": 523}
+
+Bombardier,Delta,Frontier,Hen,Munoz,NRA,backlash,boycott,bunch,carrier,clientele,complicit,condemn,condemnation,contentious,controversial,cosmopolitan,demographic,executive,explicit,hail,hospitality,lobby,minefield,opponent,oppose,presidential,propose,publicity,solidarity,stance,stripe,stunt,surge,swiftly,tariff,unrelated,viral,vocal

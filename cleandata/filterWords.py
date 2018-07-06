@@ -193,7 +193,7 @@ def wc(filename,outPath):
             result.append(i)
 
 
-    timeTake = str(dicLen/100 + (dicLen/allLen)*6.6 + (len(result)/dicLen)*15)[0:4] + ' Minutes'
+    timeTake = str(dicLen/100 + (dicLen/allLen)*7.2 + (len(result)/dicLen)*16)[0:4] + ' Minutes'
     keykey = [i for i in mbai if i[0:-1] not in mbai]
     allkeys.extend(keykey)
     wordD = {'suggestedfocus':timeTake,'wordsset':dicLen,'keywords':','.join(keykey),'toughwords':len(result),'allwords':allLen}
