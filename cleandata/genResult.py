@@ -140,6 +140,7 @@ if __name__ == '__main__':
             basedir = './The_Economist/'
         if paperType == 'mail':
             basedir = './Mail_Online/'
+        gitPath = '/root/LockeyCheng.github.io/iooi/The_Economist'
         latestPapers = {'papers':[],'more':None}
         toYear,toMonth,toDay = list(map(int,dateStr.split('-')))
         ayear = 'a' + str(toYear)
@@ -206,7 +207,7 @@ if __name__ == '__main__':
             print(link)
             img = qrcode.make(link)
             linkTitle = '{}_{}_{}_{}'.format(toYear,toMonth,toDay,todayPush+1)
-            imgFile = os.path.join(outcomePath,linkTitle+'.png')
+            imgFile = os.path.join(gitPath+'/QRimages',linkTitle+'.png')
             with open(imgFile,'wb') as fo:
                 img.save(fo)
             thisArr = [title,paperTitle,keywords]
@@ -215,19 +216,23 @@ if __name__ == '__main__':
         latestPaperFile = basedir+'latestPapers.json'
         
         try:
-           morefile = more+'.json'
-           latestPapers['more'] = morefile
-           os.rename(latestPaperFile,basedir+morefile)
-           with open(latestPaperFile,'w')as fa:
-            json.dump(latestPapers,fa)
+            morefile = more+'.json'
+            latestPapers['more'] = morefile
+            os.rename(latestPaperFile,basedir+morefile)
+            desppp = os.path.join(gitPath,'amore/'+morefile)
+            copyfile(basedir+morefile, desppp)
+            with open(latestPaperFile,'w')as fa:
+                json.dump(latestPapers,fa)
+            desppp = os.path.join(gitPath,'amore/latestPapers.json')
+            copyfile(latestPaperFile, desppp)
         except Exception as err:
            print(err)
            
         with open(paperRecords,'w')as fa:
             json.dump(records,fa)
-        
-        copyfile(paperRecords, os.path.join(outcomePath,'paperRecords.json'))
+        gitPath_ym = os.path.join(gitPath,ayear+'/'+amonth)
+        copyfile(paperRecords, os.path.join(gitPath,'paperRecords.json'))
         for res in os.listdir(genjsonPath):
             f1 = os.path.join(genjsonPath,res)
-            f2 = os.path.join(outcomePath,res)
+            f2 = os.path.join(gitPath_ym,res)
             copyfile(f1, f2)

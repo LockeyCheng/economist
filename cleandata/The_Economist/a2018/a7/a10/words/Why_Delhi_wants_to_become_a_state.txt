@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.0 Minutes", "wordsset": 322, "keywords": "Aadmi,Aam,Delhi,India,city,government,governor,national", "toughwords": 48, "allwords": 526}
+
+JULY,Territory,aggressive,assembly,assert,boycott,bureaucrat,carve,chronic,clashes,concession,constant,corruption,directive,empower,evolve,exasperation,hybrid,instrument,interfere,interference,judgment,lieutenant,moral,nucleus,panoply,paralysis,picket,pitch,prerogative,preserve,puny,rebuke,resound,sensitive,stall,statehood,stifle,suburb,sustain,thwart,unfit,unite,unprecedented,upstart,vow,wield
