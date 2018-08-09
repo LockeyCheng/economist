@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.85 Minutes", "wordsset": 238, "keywords": "Arranz,Otaegui,absence,baking,bread,evidence,fireplaces,oldest", "toughwords": 47, "allwords": 397}
+
+Academy,Altogether,Anatolia,Copenhagen,Proceed,acknowledge,aphorism,archaeological,ashes,barley,breadcrumb,brewery,burnt,cereal,charred,chore,coeval,considerable,contrary,crumb,crush,discovery,dough,excavation,fertile,flour,forage,fragment,garner,grain,grind,hearth,hypothesis,ingredient,initial,legume,loaves,motive,papyrus,patches,predate,relevant,reveal,scatter,tillage,wheat

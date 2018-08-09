@@ -1,0 +1,3 @@
+{"suggestedfocus": "11.3 Minutes", "wordsset": 319, "keywords": "Airbus,Zephyr,aircraft,craft,drone,endurance,record,solar", "toughwords": 45, "allwords": 493}
+
+Chandler,Nigel,Zephyr,aerospace,airspace,aloft,altitude,cruise,daylight,descent,detect,drone,dub,endurance,flimsy,internet,lease,location,maritime,motor,node,observation,outright,portable,propeller,pry,pseudo,reception,recharge,reliable,satellite,stratosphere,surveillance,telecommunication,telephony,touchdown,troublesome,unavailable,undercarriage,undisclosed,unrestricted,wingspan

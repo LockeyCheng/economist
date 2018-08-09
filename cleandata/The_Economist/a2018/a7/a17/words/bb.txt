@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.24 Minutes", "wordsset": 216, "keywords": "America,Britain,countries,country,index,international,president,quality", "toughwords": 30, "allwords": 320}
+
+Advocate,Blenheim,Castle,Diplomacy,Portland,Westminster,Windsor,associate,asylum,coax,comprise,correlation,demonstrate,depict,distinct,divisive,embassy,flown,glance,indices,internet,luxury,measurable,overture,perception,pomp,residence,richer,variable

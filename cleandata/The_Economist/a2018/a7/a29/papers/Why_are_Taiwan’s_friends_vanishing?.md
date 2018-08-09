@@ -1,0 +1,17 @@
+Why are Taiwan’s friends vanishing?
+
+China is picking off Taiwan’s allies
+
+https://cdn.static-economist.com/sites/default/files/20180728_BLP509.jpg
+
+IF THE inauguration of a Paraguayan president next month draws international attention it will be because of one of its attendees: Tsai Ing-wen, the president of Taiwan. Paraguay is one of just 17 countries (plus the Vatican)
+
+that have diplomatic relations with Taiwan. In doing so they disqualify themselves from having formal relations with China, which considers the island nation a renegade province. They also subject themselves to intense pressure from the Chinese government to abandon Taiwan, in the form of both carrots (large investments) and sticks (tourism restrictions). So why do countries hold on, and how long can they last?
+
+Taiwan had 28 allies in 1990. But that number is declining. China has taken four of them—Burkina Faso, Dominican Republic, Panama and São Tomé and Príncipe—in the past two years alone. According to the Chinese government, it is impossible to have diplomatic relations with both countries because they are in fact only one country. Taiwan accuses China of using “dollar diplomacy” to poach allies. Shortly before the Dominican Republic switched allegiances earlier this year, China offered it investment and loans worth some $3.1 bn, says the Taiwanese government. Taiwan itself offers enticements too: Paraguay receives money and police vehicles from the island. Shared history also helps. Paraguay and Taiwan established relations in 1957, brought together by their anti-communism. 
+
+The Chinese government has recently stepped up efforts to isolate Taiwan. Tensions rose in 2016, when Ms Tsai came to power. Her party is the more independence-minded of the island’s two main political groups. Since her inauguration the Chinese government has successfully bullied foreign airlines into listing Taiwan as “Taiwan, China” or “Chinese Taipei” on their websites. (American airlines quietly removed any reference to Taiwan on their websites even as the White House called the demands “Orwellian nonsense”.) Wimbledon, the tennis championships, sparked debate online when it tweeted that a tennis victor hailed from “Chinese Taipei”. China has also quietly instructed its travel agencies not to take groups of tourists to Taiwan or to its allied countries, including the Vatican and Palau. And in May it stopped Taiwanese politicians and journalists from taking part in the World Health Organisation’s annual meeting. The 
+
+, a nationalist newspaper in Beijing, warned this spring that the mainland should prepare for a military conflict in the Taiwan Strait. 
+
+China will not stop chipping away at Taiwan’s alliances. Wang Yi, China’s foreign minister, called this “the general and irresistible trend”. In Paraguay the president-elect, Mario Abdo Benítez, hopes to sign a trade agreement with China through Mercosur, a trade bloc. He has reportedly assured the Taiwanese government that Paraguay will stand with it. But many of Taiwan’s former friends promised not to defect before they did. Burkina Faso once called offers of money from China in exchange for switching loyalties “outrageous” but within two years it had changed its tune. China is raising the opportunity-cost of allying with Taiwan. It hopes that, if no other country recognises the island, that will make what it calls “reunification” easier. 

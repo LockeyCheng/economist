@@ -1,0 +1,3 @@
+{"suggestedfocus": "12.7 Minutes", "wordsset": 366, "keywords": "Chrysler,FCA,Ferrari,Fiat,Manley,Marchionne,boss,tough", "toughwords": 55, "allwords": 597}
+
+Automobile,Chrysler,Complication,Ferrari,Fiat,Heywood,Louis,Manley,Maserati,RAM,Suzanne,acquire,ail,allocation,autonomous,autonomy,bankruptcy,bonnet,canny,comeback,controversy,deterioration,devastate,duplicate,dwindle,electrification,elevation,emergent,feat,helm,indistinguishable,leap,lookout,mega,merger,mobility,negotiate,outspoken,pickup,premium,profitability,profitable,refreshingly,routine,salesman,saloon,seventh,slender,successor,thrive,transaction,unveil,verge,wary

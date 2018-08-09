@@ -1,0 +1,3 @@
+{"suggestedfocus": "12.0 Minutes", "wordsset": 304, "keywords": "Chinese,Korea,Koreatown,London,Malden,South", "toughwords": 42, "allwords": 513}
+
+DINERS,Mandarin,Seoul,Wheres,accent,afield,approve,asylum,chef,complicate,comprise,conservative,devour,diaspora,din,dispute,drag,emerge,erode,freewheel,friction,genuine,glamorous,initial,jostle,leaflet,leftover,liberal,mixture,occasionally,portion,proliferation,resent,resident,scorch,sizzle,stone,strain,tout,waitress,waitresses

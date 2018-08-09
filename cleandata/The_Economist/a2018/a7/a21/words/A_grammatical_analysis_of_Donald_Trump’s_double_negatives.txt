@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.49 Minutes", "wordsset": 356, "keywords": "General,Hayden,Helsinki,Russia,Trump,irrealis,mention,statement", "toughwords": 45, "allwords": 655}
+
+Hayden,Helsinki,KGB,Pennsylvania,Vladimir,adverb,brilliant,canonical,commentary,complicate,consequential,consonant,convince,definitely,eagle,exponentially,flip,grammar,grammatical,hypothetical,indicate,indictment,interfere,linguist,misspoke,nail,negation,negative,negotiator,plausible,plausibly,rarest,retraction,rhetorically,screw,straightforward,subordinate,throwaway,unicorn,untrue,wander

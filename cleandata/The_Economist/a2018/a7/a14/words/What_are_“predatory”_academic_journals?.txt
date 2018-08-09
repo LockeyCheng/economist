@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.4 Minutes", "wordsset": 264, "keywords": "authors,bogus,business,journal,peer,predatory,publish,publishing", "toughwords": 46, "allwords": 379}
+
+Derek,Helsinki,Ottawa,Thompson,Wager,academia,administrator,apparent,apparently,appraise,astonish,atrocious,blacklist,bogs,cease,collusion,consultant,conveniently,dizzy,dodgy,drawback,dupe,exploitation,glare,hijack,impressive,induce,jiffy,legitimate,misstep,predatory,prestige,prestigious,presume,problematic,proven,reckon,respectively,rife,rigorous,submission,subscription,suspect,tactic,tally,typically

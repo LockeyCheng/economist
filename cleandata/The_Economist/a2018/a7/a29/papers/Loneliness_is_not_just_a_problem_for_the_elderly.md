@@ -1,0 +1,39 @@
+Loneliness is not just a problem for the elderly
+
+Britain’s first Minister for Loneliness cannot solve the whole problem
+
+https://cdn.static-economist.com/sites/default/files/20180728_BLP521.jpg
+
+In the north of England in the early months of 2015, Jo Cox walked the streets of Batley and Spen, chatting to constituents about what she hoped to achieve if returned to Westminster as a member of parliament. She planned to campaign for women’s rights, for a clear strategic policy on Syria, and for lifting the blockade on the Gaza Strip. But the more homes she visited, the more she became aware of an issue closer to home. She had a sense that many of the front doors she was knocking on were rarely opened, and that many of the people whose votes she sought were desperately isolated. Jo herself had once been lonely, as an undergraduate at Cambridge; she knew that “young or old, loneliness does not discriminate”. Once elected—not knowing that she had only a year to live—she determined to grab the problem by the throat, establishing a cross-party Commission on Loneliness to “turbo-charge” society’s response to an “unseen epidemic”.
+
+Following Jo’s murder, her sister, Kim Leadbeater, and others have devoted themselves to fulfilling her vision. Earlier this year, Britain's prime minister, Theresa May, appointed the world’s first Minister for Loneliness, Tracey Crouch; and in June Mrs May announced £20m ($26m) in new funding to help “more people to establish and maintain connections”. Tracey Crouch is passionate about her role but, sitting in her spacious office in Westminster, she admits that the task she has been set is Herculean: “It’s a huge challenge, and on occasions I feel quite overwhelmed by the enormous scale of it.”
+
+To understand what she means, you have only to look at the statistics. In Britain, half a million people regularly go up to a week without seeing anybody. More than half of those over 75 describe themselves as “chronically lonely”, and 33% of them feel their loneliness is “out of control”. Two-fifths of older people say that television is their main company. These problems are set to get steadily worse. By 2040, the number of people over 75 will have doubled, to 10m.
+
+But, as Jo Cox acknowledged, loneliness is not confined to the elderly. In a recent study by the Office for National Statistics, young people (between the ages of 16 and 24) were the most likely to report themselves as feeling lonely. Those who were unmarried and in their middle-age were particularly likely to be lonely, too. For unattached women in the mid-life bracket, there is still a bitter stigma. “I was keeling towards the midpoint of my thirties,” writes Olivia Laing in The Lonely City, “an age at which female aloneness is no longer socially sanctioned and carries with it a persistent whiff of strangeness, deviance and failure”. But there are also shoals of men who, following divorce (and nearly half of marriages in Britain now end in divorce), are painfully isolated from their children. One such dad, Tom, told me this was “like having your heart ripped out”. Men are three times more likely than women to commit suicide.
+
+And then there is loneliness among those who have barely started school. Childline reports a significant volume of calls from children as young as six feeling desperately lonely. For many of them, loneliness is linked to social media: they compare themselves to their virtual friends, and feel that they do not measure up.
+
+***
+
+There can be no doubting Tracey Crouch’s compassion for the lonely. Long before she was appointed to her current role, she had chosen to involve herself in the Campaign to End Loneliness and The Silver Line, a helpline for older people. But in trying to tackle loneliness the government is motivated by economics as well as charity. Loneliness is expensive: it takes a huge toll on the National Health Service. It is said to be as bad for a person’s health as smoking 15 cigarettes a day, and twice as deadly as obesity. Where there is severe loneliness, there is likely also to be dementia, high blood pressure, anxiety and depression. Loneliness can have a devastating effect on mental health, occasionally leading, in the most extreme cases, to horrific crime.
+
+In May this year, a 72-year-old man who had been behind bars for over a quarter of a century, and who had made it clear he never wanted to be released, died. It was on Tuesday 8 February 1983 that a plumber from Dyno-Rod, on his first job, was called to a house in the London suburb of Muswell Hill. One of the residents had complained of a bad smell, and when the plumber checked the drains he found them blocked with human remains. It was eventually established that the tall civil servant with glasses who lived in the top floor attic flat had murdered at least 12 young men, and had either secreted them under his floorboards, buried them in the garden, or chopped them up and washed them down the lavatory. Why?
+
+Dennis Nilsen’s biographer, Brian Masters, describes Nilsen’s boyhood as one of “corrosive loneliness”. His mother, good in every practical way, felt unable to touch or cuddle her son. “I was a very lonely and turbulent child,” Nilsen wrote, and the loneliness intensified as he moved into adulthood. “Loneliness is a long, unbearable pain,” he later wrote from prison. “I felt that I had achieved nothing of importance or of help to anyone in my entire life...I was in daily contact with so many people but quite alone in myself.” So he brought young men home, cooked them dinner, took them to bed and then murdered them in the early hours of the morning. He would sit their corpses next to him while he watched TV and drank. He was, in his own words, “killing for company”.
+
+***
+
+Tracey Crouch has been amazed, and delighted, by the interest other countries—among them New Zealand, Australia, Canada, Japan, Norway and Sweden—have shown in her work. “This is a global issue,” she says. “We are with loneliness where we were ten years ago with mental health. There is a stigma around talking about it.” So, for all these countries, one of the biggest challenges is the same: how to locate the lonely. Younger people are particularly difficult to identify. Many of them are transient, and many—those in abusive relationships or unhappy marriages—don’t appear to be lonely because they are not alone.
+
+Lonely older people are easier to find, but then many of them feel that few people care about their suffering. Flora, aged 89, widowed and living in County Durham, told me she would like to publish a book about being old: “I’d call it ‘Nobody’s Priority’”. It frightens her that nobody would know if she fell, or even died. “I wake up in the night, but there’s nobody to call, so I talk to my parents. They’ve been dead for years.”
+
+Is it possible, I ask Tracey Crouch, for people like Flora to help themselves, to learn to turn eviscerating loneliness into comfortable solitude? “I’m a big advocate, and practitioner of, mindfulness. We have mindfulness classes in my department, and we have a reputation across Whitehall for good mental health. I’m very keen on children being taught mindfulness in schools. You need to start young.” 
+
+For Flora, and the hundreds of thousands like her, it is probably too late to learn new habits of mind. And no matter how much time and energy and money the government channels into easing it, their loneliness is something that can only be tackled at a grassroots level. So rather than leave it all to Tracey Crouch and her civil servants, the solution, perhaps, is for each of us to make room in our lives for just one lonely person, conscious of the poet W.H Auden’s bald warning: “We must love one another or die.”
+
+ “
+
+”, 
+
+, February 2018

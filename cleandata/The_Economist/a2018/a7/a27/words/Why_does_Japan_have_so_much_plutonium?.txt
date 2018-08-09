@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.9 Minutes", "wordsset": 255, "keywords": "America,Japan,energy,fuel,nuclear,plutonium,policy,reactors", "toughwords": 50, "allwords": 386}
+
+Dwight,Eisenhower,Hiroshima,Nagasaki,Plutonium,Taro,Tougher,ally,amass,atom,bilateral,centerpiece,civilian,continuation,convenience,convoy,dowry,electricity,enrich,extract,feat,fleet,hoard,incineration,kilogram,liability,nudge,offline,oxide,permanently,phobic,plutonium,proliferation,reactor,reassure,reprocess,restart,robust,scenario,screw,scrutiny,shipment,stockpile,storage,superpower,tarnish,terminate,tonne,uranium

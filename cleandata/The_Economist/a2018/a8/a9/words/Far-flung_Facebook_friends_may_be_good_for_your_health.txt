@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.69 Minutes", "wordsset": 183, "keywords": "Americans,Facebook,boss,connections,geographically,networks,online,research", "toughwords": 24, "allwords": 267}
+
+Corporation,Murdoch,Perspective,Princeton,Rupert,Steve,aggregate,analyses,associate,cluster,comprise,concentrate,deficit,dismiss,disperse,faddish,flung,geographically,indicator,locate,policymaker,richer,valuable,youngster

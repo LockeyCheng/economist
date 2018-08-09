@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.9 Minutes", "wordsset": 250, "keywords": "Bas,British,Damian,Romany,gypsies,gypsy,traveller,travelogue", "toughwords": 50, "allwords": 344}
+
+DAMIAN,Damian,Haggle,Hampshire,Joey,Romany,Transit,accustom,adrift,ancestry,anecdote,assuage,campsite,conjure,continental,culinary,customary,disorient,dispute,distinct,drab,enlighten,glossary,gypsy,highland,initial,leap,lexicon,narrative,negotiation,nomadic,occasion,overlook,poetic,prosaic,punch,recipe,rediscover,referee,regale,rhythm,scholarship,segue,stripe,struck,theology,travelogue,vehicle

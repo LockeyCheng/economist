@@ -1,0 +1,11 @@
+Deliverance for Thailand’s trapped footballers
+
+The rescue is also a reprieve for the country’s hapless military regime
+
+https://cdn.static-economist.com/sites/default/files/images/2018/07/articles/main/20180714_asp501.jpg
+
+RELIEF engulfs Thailand. After 17 days, ten of them without food or medicine, 12 Thai boys and their football coach emerged from the Tham Luang cave on July 10th. The Wild Boars team became trapped 4km into the complex after heavy rains flooded it while they explored together. Hundreds of divers, rescue workers, doctors and officials worked to bring them to safety. Even Elon Musk, a Silicon Valley luminary, turned up to offer his services and a mini submarine (which, while appreciated, the Thai government carefully explained, was not what was needed). The team eventually swam through the flooded tunnels individually or in pairs using scuba gear. Guide ropes and professional divers helped them find their way through the dark waters.
+
+Heroic tales abound. Saman Kunan, a former Thai Navy SEAL, died after delivering oxygen tanks to the team on July 5th. Thailand’s King announced shortly afterwards that he would receive a sumptuous funeral paid for by the crown. Ekkapol Chantawong, the young coach, had been a Buddhist monk for several years and reportedly kept the boys calm by teaching them meditation. He also gave them his share of the scant provisions they had packed for the original expedition and was the last to leave. Cave-diving experts gathered from around the world to help with the rescue.
+
+Thailand’s military rulers could not resist basking in all the goodwill. Prayuth Chan-ocha, the general who heads the ruling junta, was able to show a softer side on a visit to monitor the rescue efforts. And the long drama diverted public attention from the country’s sluggish economy and political muddle “to something that the government could take action on”, says Pavin Chachavalpongpun of Kyoto University. The junta has promised to hold elections in every year of the four years it has been in power, before changing its mind and delaying them. It recently pushed them back from February to May. Its leaders seem increasingly hapless and aloof. But this time, at least, they showed they can get things done.

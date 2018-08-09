@@ -1,0 +1,19 @@
+Benefit sanctions may do more harm than good
+
+Sanctioning under universal credit is twice the rate under the old unemployment benefit
+
+https://cdn.static-economist.com/sites/default/files/images/2018/08/articles/main/20180811_brp501.jpg
+
+MORE than half Britain’s jobcentres now offer “universal credit”, which merges six working-age benefits into one. Most discussion of universal credit, which will eventually offer payments to one in four households, has been about its botched rollout. Less attention has been paid to its tough sanctions regime. Those who fail to comply with requirements that include spending 35 hours a week job-hunting may see their benefits docked. In America, where there is talk of tightening conditions for receiving food stamps, reformers are looking at the British experiment with interest.
+
+Sanctions of some sort have existed in Britain’s welfare system for centuries. Under the Poor Law of 1834 the only way to obtain “relief” was in theory to enter a workhouse (pictured). Workhouses were abolished in 1948, but other forms of sanctions have been toughened up. The sanction rate rose in the mid-1980s, when Margaret Thatcher’s government began supervising job-seekers’ efforts more closely, and it continued to climb under New Labour.
+
+From 2010 the coalition government enforced sanctions more vigorously still. Under universal credit, claimants who have received multiple sanctions are often made to serve them one after the other, rather than concurrently, as under the old system. Research by David Webster of Glasgow University suggests that the sanction rate for jobless universal-credit claimants is twice the rate for jobseeker’s allowance (JSA), the old unemployment benefit.
+
+Supporters of benefit sanctions say tough love pays off. The unemployment rate is around 4%, a four-decade low. But the circumstantial evidence cuts both ways. Unemployment was half as high in the relatively lax 1950s. And stories abound of claimants failed by the system. Advisers in jobcentres appear to enjoy wide discretion in the application of sanctions, so those who take a dislike to particular claimants may punish them. In 2013 a hard-of-hearing man claiming JSA was sanctioned for four weeks after being ten minutes late to a CV-writing course. The man had wrongly heard that it started at 11:50am, not 11:15am.
+
+Crunchy evidence on sanctions is hard to come by. Some research has ascribed the fall in long-term unemployment in the second half of the 1980s to the Thatcher reforms. That argues in favour of imposing some requirements on the jobless. But the government has published little research on the impact of the tightening since 2010, despite sitting on a mound of data.
+
+A new paper in the  Cambridge Journal of Economics  offers a pessimistic assessment. Focusing on the period from 2001 to 2014, it finds that sanctions under JSA increase the flow of people into work—but only in the short run. It may be that claimants, fearful of having their money cut off, take the first job they find, which turns out not to suit them. This also suggests that they may be taking jobs which do not pay as well as they might. In a speech last year Michael Saunders of the Bank of England drew a link between tough welfare rules and recent low wage growth.
+
+As the evidence builds, the government may at some point have to tweak its approach. A recent study by Rachel Loopstra of King’s College, London, and colleagues, finds some correlation between tougher benefit sanctions and a rise in the use of food banks. A government that tones down sanctions would doubtless be accused of going soft. But it would have the evidence on its side. 

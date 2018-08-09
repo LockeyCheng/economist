@@ -1,0 +1,13 @@
+Inequality is rising relatively slowly among black and Hispanic Americans 
+
+But not for reasons that should be celebrated
+
+https://cdn.static-economist.com/sites/default/files/20180721_WOC232.png
+
+NEARLY half of Americans consider income inequality to be a “very big” problem. At first glance, a report published this month by the 
+
+ seems to contain welcome news on this front. Although the distribution of earnings found within each of the main racial groups in the United States has widened over time, the rate of increase in inequality differs by race. Among blacks and Hispanics, the ratio of incomes at the 90th percentile of the distribution to those at the tenth rose by 13% from 1980 to 2016. In contrast, during the same time period, the ratio grew by 39% for whites, and a whopping 67% among Asian-Americans.
+
+Unfortunately, a closer look at the data offers much less cause for celebration. The biggest driver of growing income inequality is the rise of the rich and super-rich—those in the top 10% of the income distribution. And the main reason earnings among blacks and Hispanics have been diverging from each other more slowly than they have among whites and Asians is that few members of the former groups become wealthy enough to join that group. Whereas the median black household in America made 35.2% less than the median white one in 2016—a slightly smaller gap than the 36.4% seen in 1980—the trend among the wealthy has moved in the opposite direction. At the 90th percentile of each racial group’s income distribution, blacks now make 31.8% less than whites, compared with a 26.6% disparity in 1980. For Hispanics, the pattern is even more pronounced.
+
+Meanwhile, among Asian-Americans—whose incomes are now the most unequal among racial groups—rising inequality is not necessarily evidence of improved upward mobility. Much of the growing gap has been caused instead by the changing nature of Asian immigration to the United States. Since 1990, the H-1B visa programme has brought troves of highly-skilled Asians to America, particularly from India. That has resulted in educational levels varying widely among Asian-Americans depending on their descent. For example, 72% of Indian-Americans are university educated, compared with just 9% for Bhutanese Americans. Regardless of skin color, the United States looks ever less like a land of opportunity, and more like a place where advantages secured early in life tend to perpetuate themselves for decades.

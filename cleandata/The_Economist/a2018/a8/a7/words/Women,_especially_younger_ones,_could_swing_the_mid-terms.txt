@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.2 Minutes", "wordsset": 275, "keywords": "Democrats,Trump,compared,leaning,mid,percent,polling,vote", "toughwords": 33, "allwords": 504}
+
+Democratic,Gallup,Turnout,allegation,animosity,antipathy,apathy,approval,approve,demographic,disapproval,discontent,enthusiasm,harassment,impeachment,intensify,lag,motivation,negatively,nomination,overturn,percent,preference,presidency,presidential,probable,proceed,referendum,surge,sustain,swung,turnout,typically

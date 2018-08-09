@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.6 Minutes", "wordsset": 223, "keywords": "alcohol,benefits,consumers,government,imposing,sin,taxes,tobacco", "toughwords": 35, "allwords": 345}
+
+Proponent,abstain,addictive,alcohol,alcoholic,byproduct,compensate,conservative,consumption,deem,discourage,disproportionately,exceed,fizzy,foul,ineffective,inflict,intervention,justification,magnitude,manufacturer,negative,obese,obesity,overstate,rationale,sinner,sparingly,subset,tendency,tobacco,treasury,undesirable,unresponsive,welfare

@@ -1,0 +1,3 @@
+{"suggestedfocus": "11.3 Minutes", "wordsset": 347, "keywords": "American,Republican,Trump,gap,gender,status,vote,voters", "toughwords": 40, "allwords": 590}
+
+Democratic,Diana,Hispanic,Michelle,Mr,Parenthood,Pennsylvania,abortion,biography,bossy,buttress,chasm,considerable,contraception,discrimination,dismiss,encounter,enhance,grumble,household,implant,lye,measurably,mixture,mystery,overwhelmingly,paramour,pneumatic,predictor,presidential,prominence,prominent,prompt,proponent,psychologist,shard,shatter,vow,wive

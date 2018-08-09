@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.8 Minutes", "wordsset": 249, "keywords": "BCRC,British,Thailand,cave,consultant,divers,spelunking,underwater", "toughwords": 52, "allwords": 355}
+
+Aqua,Bristol,Cave,Council,Cousteau,Coventry,Jacques,SEAL,Somerset,Specifically,Stanton,Thai,Wales,amateur,aqua,bemuse,bras,cave,cavern,coach,compress,comprise,consultant,cylinder,drown,enthusiast,expedition,fireman,frogmen,grim,helmet,hobbyist,hose,improvise,locate,logbook,loom,lung,memorable,murmur,navy,pump,regulator,revere,spelunker,summon,supremacy,torches,underwater,unremarkable,venture

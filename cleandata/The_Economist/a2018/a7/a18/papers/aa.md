@@ -1,0 +1,32 @@
+The rise of the robochef
+
+Cooking bots are fast, reliable and don’t swear at their underlings
+
+https://cdn.static-economist.com/sites/default/files/images/print-edition/20180714_STD001_0.jpg
+
+
+CREATOR, a new hamburger joint in San Francisco, claims to deliver a burger worth $18 for $6—in other words, to provide the quality associated with posh restaurants at a fast-food price. The substance behind this claim is that its chef-de-cuisine is a robot.
+
+Until recently, catering robots have been gimmicks. “Flippy”, a robotic arm that flipped burgers for the entertainment of customers at CaliBurger in Pasadena, near Los Angeles, earlier this year is a prime example. But Flippy could perform only one task. Creator’s bot automates the whole process of preparing a burger. And it is not alone. Other robot chefs that can prepare entire meals are working, or soon will be, in kitchens in other parts of America, and in China and Britain.
+
+Creator’s burger bot is a trolley-sized unit that has a footprint of two square metres. Customers send it their orders via a tablet. They are able to customise everything from how well-done the burger will be to the type of cheese and toppings they want. The robot grinds the meat, forms the patties, griddles them (a process tracked by 11 thermal sensors), chops tomatoes and grates cheese for those who want such accoutrements, slices, toasts and butters the bun, and dispenses seasoning and sauces. It then assembles and bags the finished product, so that it is ready to go.
+
+Listed like that, the process sounds rather quotidian. In fact, it took eight years to perfect. As far back as 2012, a mere two years into the project, the machine was described as “95% reliable”, but that is not enough for a busy kitchen. Chopping tomatoes was a particularly tough challenge, but even details like the paddle which packs the burger into a bag without squashing it were tricky to master. Only now, with a machine they claim can turn out, reliably, 120 burgers an hour, do Alex Vardakostas, the engineer behind the project, and his co-founders, a mixture of technologists and caterers, feel confident enough to open their first restaurant.
+
+Burgers and chips
+
+What works for one sort of fast food can work for others. Though the business of pizza-making has not yet been robotised completely, Zume Pizza, also based in California, is getting close. It has a team of “doughbots” that speed up stretching the dough from 45 seconds to just nine. The toppings still have to be made the conventional way, but the firm has robotised the dispensing and spreading of them, and also the moving of topped pizzas into and out of ovens.
+
+Over on America’s east coast, in Boston, a restaurant called Spyce offers more fashionable robot-created fare. Customers order from a touchscreen menu and can watch the robot measure, mix and cook dishes ranging from “Latin” (black beans and roasted chicken with chilli and avocado on brown rice) to “Hearth” (balsamic-glazed sprouts and sweet potato with kale on quinoa) in an inductively heated wok. Woks stand in a row beneath a conveyor belt, which automatically delivers the correct ingredients to each. They are then mixed and cooked before a human server adds toppings. As with Creator’s robot, speed is of the essence. Spyce’s bot can prepare dishes in three minutes.
+
+In China, meanwhile, Li Zhiming, an entrepreneur, has developed a robot that can cook any of 40 recipes from Hunan province. Much of Hunan’s cuisine involves heating food rapidly in oil, a process that is difficult to mechanise because of the number of different ingredients which have to be cooked “just so”. Mr Li has spent four years developing robots that can do this. They work in a similar way to Spyce’s, by dispensing precise quantities of each ingredient from a series of hoppers in sequence, then stirring them in a wok over a gas flame at an exact temperature for a specific, recipe-dependent time. When a meal is complete, the robot serves it into a bowl, then cleans out the cooking pot ready for the next order.
+
+Mr Li opened his first robot-catered restaurant in May, in Changsha, Hunan’s capital. Its kitchen is staffed by three bots and two human beings. Normally, he says, a restaurant of this size, offering that sort of variety, would have a kitchen staff of eight. Mr Li’s ambitions, moreover, reach far beyond Hunan. He thinks the main reason such delicious dishes as clay-pot rice with vegetables, pepper-fried pork and cumin-beef stir fry are not better known outside their native province is a lack of trained chefs. He hopes his robots will overcome that difficulty and make Hunan’s cuisine as easy to franchise as fried chicken and hamburgers—and as popular.
+
+Get out of my kitchen
+
+For fast-food restaurants, in which the cooking is something akin to an assembly-line, robotic kitchens with limited repertoires (burgers, pizzas, grain bowls, Hunan dishes and so on) look like a promising innovation. For real foodies, though, a robot that can turn its hand to almost anything culinary would be the acme of automation. And Moley Robotics, a British firm, aspires to do just that. Its robot chef is intended to emulate a real one—not only in the quality of the meals, but also by being able to learn to cook almost any recipe.
+
+This project is a more complicated proposition than an assembly-line robot and is, it must be said, behind schedule. The firm had hoped to launch it last year. They now say it will be available later this year. It features a pair of arms with human-like hands. These manipulate ingredients, utensils and heat sources in a well-equipped kitchen. The robot draws on a databank of recipes that are records of the actions of a human master chef collected by a motion-capture system, so that the machine can copy them exactly—whisking eggs, slicing onions or frying bacon like a pro. A robot like this could therefore cook thousands of different recipes, on demand.
+
+Moley’s target appears to be the luxury domestic market, rather than the restaurant trade. If it is successful in the houses of the rich, though, sous-chefs everywhere might understandably get nervous about how much of their work could be automated. The catering industry is known for low pay, so automation is not an obvious cost-saver. It is probably, however, a quality and reliability enhancer, and in a field with fickle customers, and competitors around every corner, that could count for a lot.

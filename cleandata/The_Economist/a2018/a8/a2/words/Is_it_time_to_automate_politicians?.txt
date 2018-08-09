@@ -1,0 +1,3 @@
+{"suggestedfocus": "14.4 Minutes", "wordsset": 411, "keywords": "British,algorithms,automate,government,politics,replace,representation,robots", "toughwords": 64, "allwords": 605}
+
+Brit,Civic,Democrat,Marley,Muppet,Predictive,Robotic,Triage,Walpole,acknowledge,algorithm,artificial,automate,automation,ballot,bass,beam,bizarre,cede,chef,clashes,comical,compromise,conjure,constituent,efficiency,emancipate,episode,essence,exponential,futurist,hologram,humanity,hypothetical,imperfect,implication,inaugurate,innovate,leisurely,merit,messenger,mobility,mock,nominate,optical,outsource,policymaker,presidential,questionable,relevant,representation,ribbon,robotic,romantic,sake,sci,segment,simultaneously,stereotypical,surgery,swirl,tenure,weaponry

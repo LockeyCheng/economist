@@ -1,0 +1,19 @@
+The dark side of peace on the Korean peninsula
+
+Rapprochement has not helped those fleeing North Korea
+
+https://cdn.static-economist.com/sites/default/files/20180721_BLP507.jpg
+
+TALKING about the Korean peninsula at the moment inevitably means talking about the flurry of diplomatic efforts towards peace. Following a series of summits involving the leaders of North and South Korea, China and most recently the United States, things are a far cry from last summer. Back then Donald Trump, America’s president, threatened to rain “fire and fury” down on the North, scaring the living daylights out of many South Koreans, whose capital city, Seoul, would have been first in the line of retaliatory fire from Kim Jong Un’s regime. 
+
+Mr Kim is now being paraded around the world’s red carpets as a respected statesman. And after years of icy silence, there is a lively exchange of views between North and South on everything from reopening military-communication lines to organising joint basketball games. Students from universities in Seoul and Pyongyang are preparing to spend time at each other’s universities. There is even talk of reopening railway links across the peninsula.
+
+Today’s peace efforts are undoubtedly better than last year’s warmongering. But they have come at a price. In their efforts to placate Mr Kim, other leaders have all but gone silent on the North’s atrocious human-rights record. In South Korea, this has had particularly bad consequences for North Koreans who have fled or are attempting to flee the grim conditions in their home country. 
+
+There are around 30,000 North Korean refugees currently living in South Korea, with a variety of organisations supporting them and generally advocating an improvement in human rights in North Korea. But there has been a marked change in attitude to these activities by the South Korean government. In May the unification ministry urged groups releasing protest leaflets across the border to stop doing so, to avoid jeopardising the peace process. Earlier this month the government cancelled the office lease for a state-run foundation on human rights in North Korea that it had been meaning to set up.
+
+Even more worryingly, the number of those making successful escapes to South Korea, largely via China, has steadily declined over the past couple of years, with a particularly sharp drop earlier this year. During the first half of 2018 only 488 refugees from North Korea made it to safety in the South, 18% fewer than during the same period last year. 
+
+There may be some positive relationship between the fall in numbers and the peace efforts. Given the costs and risks associated with leaving, some North Koreans may be deciding to stay put in the hope that life in the country improves, reckons Sokeel Park of Liberty in North Korea, a group that helps refugees get to South Korea. But the main reason for the falling numbers is more sinister: both North Korea and China have intensified their crackdowns on those trying to leave. North Korea has been fortifying its border with China to make it harder to cross. Even as the peace process was in full swing earlier this month, it installed new wire fencing along some parts of the border. China has recently stepped up detentions and repatriations of North Koreans who have made it across.
+
+The way the current rapprochement is proceeding, with its emphasis on denuclearisation and (in South Korea, at least) economic co-operation, the outlook appears bleak for those who cannot afford to pin their hopes on conditions in the North getting better at some point in the distant future. At the moment Mr Moon and Mr Trump show no inclination to turn their attention to improving the human-rights situation in North Korea. That is a shame, because a change of heart on their parts also presents the best hope for turning it into a place people will no longer want to get out of.

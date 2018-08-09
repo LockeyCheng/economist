@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.44 Minutes", "wordsset": 361, "keywords": "General,Survey,associated,characteristics,consumption,cultural,income,political", "toughwords": 48, "allwords": 701}
+
+Bertrand,Bureau,Emir,Klaus,Marianne,accuracy,aggregate,associate,cavernous,characteristic,cleavage,commentary,considerable,consumption,converge,diffuse,distinct,diverge,elite,enforcement,fissure,flyover,harshly,homosexual,household,ideological,ideologically,ideology,imply,incomprehension,indicator,infer,location,marijuana,mutual,partial,partisanship,predictor,proportion,respondent,straightforward,temper,trope,variation,versus,wrought

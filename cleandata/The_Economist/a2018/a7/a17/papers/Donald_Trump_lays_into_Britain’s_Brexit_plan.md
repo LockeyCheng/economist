@@ -1,0 +1,27 @@
+Donald Trump lays into Britain’s Brexit plan
+
+The president makes clear that Britain faces a choice: follow EU regulations, or American ones?
+
+https://cdn.static-economist.com/sites/default/files/images/2018/07/articles/main/20180714_brp504.jpg
+
+DONALD TRUMP has arrived in Britain—or rather, he has detonated. British officials always knew there was the potential for an unhelpful intervention from America’s unpredictable president. But his comments last night—a blunt attack on the prime minister’s most important policy, and an endorsement of her rival—are worse than anything they had imagined. The question is: who benefits?
+
+Mr Trump’s extraordinary interview with the 
+
+ was published late on July 12th, as the president was half-way through a banquet with Theresa May and assorted dignitaries at Blenheim Palace. Mrs May had spoken with enthusiasm about the two countries’ “prosperous future”; British officials were busily promoting the message that America was just as keen. “Terrific to hear [Mr Trump] talk so positively about UK & US Trade tonight,” tweeted Liam Fox, the trade secretary.
+
+Then Mr Trump’s interview landed. “May has wrecked Brexit...US deal is off!” is the 
+
+’s headline. Mr Trump told the paper that the prime minister’s plan to negotiate a soft Brexit, maintaining close links with the European Union, would “kill” a trade deal with America. “I actually told Theresa May how to do it but she didn’t agree, she didn’t listen to me,” he said, adding that her plan “was not the deal that was in the referendum”. For good measure, he said that Boris Johnson, who resigned as foreign secretary on July 9th in protest at the government’s approach to Brexit, would “make a great prime minister”.
+
+Mr Trump’s criticisms echo those of hard-Brexiteers, who complain that keeping close ties to the EU will scupper plans for trade deals with other countries. Mrs May has proposed that Britain should, in effect, stay in the EU’s single market for goods, abiding by its standards for things such as agricultural products. This would allow British firms to maintain their trading relationships with Europe (as well as making it easier to preserve the invisible border with Ireland, a crucial condition of any Brexit deal). But it would make it harder to do a deal with a country like America, which would require Britain to subscribe to its own standards on matters such as food. Mr Trump is quite right that Britain will find it hard to do a comprehensive deal with America if it is bound to European regulations.
+
+Brexiteers may celebrate his endorsement of their position. But he may not have done them such a favour. Key to the Brexit sales pitch before the referendum was that, on leaving the EU, Britain would be able to have the best of both worlds. It would maintain its links with Europe—many Brexiteers said it would even be able to stay in the single market—and yet be free to strike out to cut new deals with other countries. Mr Trump makes clear that in fact there is a choice to be made: do you follow EU regulations, or American ones? For Britain, the answer ought to be pretty clear. Nearly half its trade is with the EU, and less than a fifth with America. The president’s comments in support of a hard Brexit in fact spell out why it is such a bad idea.
+
+And what of his backing of Mr Johnson? The support of the world’s most powerful man is certainly worth something; the ambitious Mr Johnson’s past courting of the president suggests that he values it. The hard-Brexit crowd, who long to tell the bureaucrats of Brussels to get stuffed, admire Mr Trump’s no-nonsense approach to the rest of the world. If the president were negotiating Brexit, he would “go in bloody hard”, Mr Johnson admiringly told a group of Conservative activists recently.
+
+Yet it is not clear that a Trump endorsement is a good thing for a man who longs to lead the Conservative Party. Tory members, who ultimately get to decide who succeeds Mrs May, might agree with the president that a hard Brexit is the best sort; they would probably rather Britain looked across the Atlantic than across the English Channel. But Mr Trump is no conservative. In Tory party constituency associations Mrs May, a vicar’s daughter who does her homework and shows up to village fetes, is still popular. Mr Johnson’s risqué behaviour may be just the right side of outrageous for the party faithful. Mr Trump is far to the wrong side of it.
+
+Which raises the question of what his endorsement will do for Mr Johnson. It is hard to see how it will burnish his reputation among Tory party members. But there is a constituency in Britain—about a tenth of voters, polls suggest—who admire Mr Trump. And there is a much bigger constituency that might appreciate a dash more Trumpery in their politicians. Since the demise of the far-right British National Party five-odd years ago, and the implosion of the populist UK Independence Party after the Brexit referendum, voters to the right of the Tories have had no political home. A gigantic disappointment is looming in the form of the Brexit deal, which will be nothing like the magical one advertised before the referendum. There will be a deep well of popular anger to exploit for a politician who can frame themself as the defender of the will of the people. Who could play that role?
+
+ (July 12th 2018)

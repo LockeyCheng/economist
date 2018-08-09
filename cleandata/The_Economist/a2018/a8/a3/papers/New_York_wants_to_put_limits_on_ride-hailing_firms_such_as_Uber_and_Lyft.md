@@ -1,0 +1,19 @@
+New York wants to put limits on ride-hailing firms such as Uber and Lyft
+
+The new rules could cause business travellers plenty of short-term pain for little benefit in the long run
+
+https://cdn.static-economist.com/sites/default/files/20180804_WBP502.jpg
+
+RIDE-HAILING services such as Uber and Lyft have transformed America’s cities, breaking the monopoly of taxi drivers over the private-hire business. But the two tech firms have come under attack by many locals and city planners alike for increasing traffic congestion and making public-transport systems uneconomic to run. Now America’s biggest city, New York, is preparing to fight back.
+
+New York is on the verge of becoming the first major American city to cap the number of ride-hailing cars on its streets. New legislation being passed by its city council would stop any new licences being issued for ride-hailing vehicles while it conducts a year-long study on the ride-hailing industry and its effects. (Vehicles with wheelchair access would be exempt.)
+
+It is not the world’s first city to take on the ride-hailing giants. London, Uber’s biggest European market, declined to renew the company’s licence to operate in the city last year, although it eventually did so in June this year. Austin in Texas, kicked Uber and Lyft out in 2016 after they refused to comply with its security measures; they returned a year later. And this is not the first effort to place limits on the two firms in New York. The mayor, Bill de Blasio, tried and failed in 2015 to impose a cap on the number of ride-hailing vehicles. But since then, the number of for-hire vehicles in the city has nearly doubled, to more than 100,000, prompting demands for new measures.
+
+If New York succeeds in limiting Uber and Lyft, other cities facing similar issues may follow suit. Uber and Lyft market their services—particularly the shared-ride option they offer—as a way to reduce the number of trips taken in private cars. In reality, according to a 
+
+ by Bruce Schaller, a transportation analyst, app-based ride-hailing services have added nearly 6bn miles of driving a year in the nine cities he studied. For each mile of personal driving removed, these services add 2.8 miles of driving. (This figure is for solo rides; including shared-ride services such as Uber Pool and Lyft Line, it drops slightly, to 2.6 miles added for each mile removed.) That is because 60% of the time that people use these services, they would otherwise have walked, cycled, used public transport, or not taken the trip at all. 
+
+In some areas that have modest traffic and do not rely on public transport, these downsides may not outweigh the benefits Uber and Lyft bring in terms of cheaper fares. (Just ask business travellers who have flocked to Uber in droves, at the expense of taxis, rental cars, and everything else.) But in bigger cities across America and Europe, they are causing real problems, clogging streets and pulling people away from public transport, which is forced to raise fares and cut service to compensate for the shortfall, thereby driving even more people to Uber and Lyft. 
+
+What do the caps on ride-hailing firms mean for business travellers? In the short term, some pain. Waiting times for rides might grow longer, and prices would increase. Taxi drivers could use the new measures to force customers to pay more for their rides. But in the long run, there could be some benefits: less traffic on the roads, shorter journey times and perhaps a more fiscally sustainable public-transport system. Whether those gains are worth the short-term pain remains to be seen, at least until places such as New York actually follow through on their threats.

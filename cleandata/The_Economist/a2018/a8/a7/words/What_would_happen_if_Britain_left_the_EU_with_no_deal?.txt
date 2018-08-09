@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.3 Minutes", "wordsset": 287, "keywords": "Brexit,Britain,Chequers,Ireland,Mrs,border,trade,withdrawal", "toughwords": 39, "allwords": 460}
+
+Brussels,Dover,Kent,Mr,Parliament,Theresa,Tory,bilateral,cliff,concede,consequence,contingency,disrupt,grim,inspection,interrupt,invoke,isotope,lorry,motorway,negotiator,nerve,preparation,provision,rack,reckon,regulator,regulatory,requisition,shortage,stockpile,tactical,tariff,timetable,transition,unanimous,withdrawal,yield

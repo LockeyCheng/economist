@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.9 Minutes", "wordsset": 314, "keywords": "American,Wilson,detectability,difficult,government,gun,law,traceability", "toughwords": 43, "allwords": 465}
+
+Chuck,Cody,Ghost,Gunner,Liberator,Senate,acquire,advocate,anarchist,bunch,carve,compliance,component,deploy,detector,disclose,domain,dubbed,dubious,enact,enforce,felon,garage,gunsmith,handgun,homemade,lawfully,litigation,manufacture,misguide,munition,pistol,practical,prohibit,regulate,regulatory,serial,sophisticate,submarine,summed,untraceable,violate

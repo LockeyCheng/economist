@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.3 Minutes", "wordsset": 268, "keywords": "China,July,Survive,budget,drug,film,government,sensitive", "toughwords": 40, "allwords": 367}
+
+approval,approve,blockbuster,censor,cinema,cinematic,comedy,commentator,commissar,confront,consultancy,criticism,cum,departure,dismal,domestic,flop,formula,freewheel,glorify,humiliate,likelier,mythology,negotiation,nerve,outshine,peddle,prompt,radical,rake,reimbursement,remark,reveal,script,sensitive,smuggler,spectacular,stave,uplift

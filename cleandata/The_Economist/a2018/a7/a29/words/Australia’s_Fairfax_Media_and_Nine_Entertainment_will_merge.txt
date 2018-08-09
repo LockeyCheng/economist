@@ -1,0 +1,3 @@
+{"suggestedfocus": "12.7 Minutes", "wordsset": 350, "keywords": "Australia,Entertainment,Fairfax,Turnbull,media,network,ownership,television", "toughwords": 50, "allwords": 606}
+
+Corporation,Hugh,Malcolm,Murdoch,Packer,Rupert,Warwick,abolish,alley,circulation,civic,coalition,conglomerate,conservative,descendant,dismisses,diversity,dominate,dynasty,ethic,executive,handicapped,inquiry,interference,internet,journalism,lessen,lifeline,merge,merger,mogul,opportunism,outfit,outlet,ownership,pledge,proprietor,receivership,reckon,regulator,saddle,scrapped,straddle,substantially,tabloid,unthinkable,worthless

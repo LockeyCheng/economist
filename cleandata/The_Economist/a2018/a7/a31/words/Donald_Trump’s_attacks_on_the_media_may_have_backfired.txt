@@ -1,0 +1,3 @@
+{"suggestedfocus": "13.3 Minutes", "wordsset": 229, "keywords": "America,Donald,Trump,media,president,trust,trustworthy,untrustworthy", "toughwords": 34, "allwords": 352}
+
+albeit,backfire,broadside,conservative,consistent,disinformation,dye,fawn,flock,implore,inauguration,incite,invoke,legacy,lest,liberal,morph,outlet,phrase,pollster,readership,reliably,revile,rhetoric,sample,scapegoat,spectrum,thereafter,trustworthiness,trustworthy,undermine,untrustworthy,veracity,wither

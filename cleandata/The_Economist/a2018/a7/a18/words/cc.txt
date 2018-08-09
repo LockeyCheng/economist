@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.6 Minutes", "wordsset": 220, "keywords": "Wang,acid,cheap,current,microbes,rice,roots,soil", "toughwords": 49, "allwords": 321}
+
+ACID,Bacteria,Sensor,Spray,Tianjin,acid,acidic,acidity,artificial,bacteria,bacterial,botanical,carbohydrate,compound,continent,decrease,disrupt,distress,electrode,experimental,fatty,foodstuff,glucose,literature,measurable,mechanism,metabolic,microbe,mixture,molecule,permanent,predominantly,rainfall,relevant,reliable,restore,reveal,rinse,routine,secrete,sensor,soak,spray,thereby,transmitter,wheat,wire

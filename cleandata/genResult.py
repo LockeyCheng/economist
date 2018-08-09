@@ -54,7 +54,7 @@ def genPaper(spidJson,origMd,genJson,nextPaper,fileName):
                 continue
             newLine = line
             for key in keys:
-                span = '<span class="fa fa-info-circle">' + key + '</span>'
+                span = '<span class="word-wrap-span">' + key + '</span>'
                 if re.search(key, newLine):
                     newLine = re.sub(key, span, newLine, flags=re.IGNORECASE)
                     continue
@@ -76,28 +76,28 @@ def genPaper(spidJson,origMd,genJson,nextPaper,fileName):
 
 
                 if word and len(word) >2:    
-                    span = '<span class="fa fa-info-circle">' + word + '</span>'
+                    span = '<span class="word-wrap-span">' + word + '</span>'
                     if re.search(word, newLine):
                         newLine = re.sub(word, span, newLine, flags=re.IGNORECASE)
                         continue
 
                 if key.endswith('ly'):
                     word = key[0:-2]
-                    span = '<span class="fa fa-info-circle">' + word + '</span>'
+                    span = '<span class="word-wrap-span">' + word + '</span>'
                     if re.search(word, newLine) and len(word) >2:
                         newLine = re.sub(word, span, newLine, flags=re.IGNORECASE)
                         continue
 
                 if key.endswith('ed') or key.endswith('es') or key.endswith('ts'):
                     word = key[0:-1]
-                    span = '<span class="fa fa-info-circle">' + word + '</span>'
+                    span = '<span class="word-wrap-span">' + word + '</span>'
                     if re.search(word, newLine) and len(word) >2:
                         newLine = re.sub(word, span, newLine, flags=re.IGNORECASE)
                         continue
 
                 if key.endswith('s'):
                     word = key[0:-1]
-                    span = '<span class="fa fa-info-circle">' + word + '</span>'
+                    span = '<span class="word-wrap-span">' + word + '</span>'
                     if re.search(word, newLine) and len(word) >2:
                         newLine = re.sub(word, span, newLine, flags=re.IGNORECASE)
                         continue
@@ -105,12 +105,12 @@ def genPaper(spidJson,origMd,genJson,nextPaper,fileName):
                 if key.endswith('tion'):
                     word = key[0:-4]
                     if re.search(word, newLine) and len(word) >2:
-                        span = '<span class="fa fa-info-circle">' + word + '</span>'
+                        span = '<span class="word-wrap-span">' + word + '</span>'
                         newLine = re.sub(word, span, newLine, flags=re.IGNORECASE)
                         continue
                     word += 't' 
                     if re.search(word, newLine) and len(word) >2:
-                        span = '<span class="fa fa-info-circle">' + word + '</span>'
+                        span = '<span class="word-wrap-span">' + word + '</span>'
                         newLine = re.sub(word, span, newLine, flags=re.IGNORECASE)
                         continue
             
@@ -140,7 +140,7 @@ if __name__ == '__main__':
             basedir = './The_Economist/'
         if paperType == 'mail':
             basedir = './Mail_Online/'
-        gitPath = '/root/LockeyCheng.github.io/iooi/The_Economist'
+        gitPath = '/root/LockeyCheng.github.io/iledu/The_Economist'
         latestPapers = {'papers':[],'more':None}
         toYear,toMonth,toDay = list(map(int,dateStr.split('-')))
         ayear = 'a' + str(toYear)

@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.4 Minutes", "wordsset": 358, "keywords": "Ozanyan,Scully,database,footsteps,gait,mat,pressure,security", "toughwords": 60, "allwords": 614}
+
+Gait,Patricia,Sensor,accuracy,adjoin,aircrew,artificial,carpet,cognition,commonplace,consequent,covert,demonstration,diode,disentangle,distortion,donkey,fiddly,gait,giveaway,grid,hazardous,impair,intrigue,location,mat,measurement,mere,mugshot,narrow,obscure,optic,optical,pelvises,pitch,practical,preregister,presage,reasonable,recognition,redesign,residence,respectively,retina,retinal,sensitive,sensor,server,sophisticate,stiletto,tiresome,transmit,tricky,trodden,visible,volunteer,walker,wooden

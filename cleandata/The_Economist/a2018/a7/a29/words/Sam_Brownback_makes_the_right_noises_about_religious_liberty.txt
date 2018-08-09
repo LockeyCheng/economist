@@ -1,0 +1,3 @@
+{"suggestedfocus": "12.3 Minutes", "wordsset": 290, "keywords": "America,Brownback,Sam,faith,freedom,liberty,religion,religious", "toughwords": 44, "allwords": 435}
+
+Amendment,Christianity,Gospel,Ministerial,Puritan,Reagan,Ronald,Saint,Sam,Uighur,Winthrop,ambassador,amicable,bass,compromise,conservative,contentious,demolition,devotion,dignity,diplomatic,diversity,enshrine,evangelical,grievance,inclusive,lobby,merit,ministerial,mosque,pragmatic,preacher,purer,reference,restriction,senator,sentiment,showcase,splendid,strain,strike,travail,trumpet,unprecedented

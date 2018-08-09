@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.6 Minutes", "wordsset": 314, "keywords": "America,Hispanic,assimilation,education,gap,native,studies,wage", "toughwords": 36, "allwords": 656}
+
+Circular,Hispanic,Villarreal,approximately,assimilate,assimilation,census,comparable,comparatively,conciliatory,consensus,considerable,considerably,convergence,credibility,disadvantage,discrimination,educational,ethnic,ethnicity,initially,integrate,lag,median,outperform,racial,respondent,sample,sociologist,struck,subgroup,subsequently,trajectory,upward

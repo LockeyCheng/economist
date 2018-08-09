@@ -1,0 +1,29 @@
+The death of Sergio Marchionne leaves a big gap at FCA
+
+Will Mike Manley measure up to his predecessor?
+
+https://cdn.static-economist.com/sites/default/files/images/2018/07/articles/main/20180728_wbp003.jpg
+
+THE question of who would replace Sergio Marchionne has been in the air for a year or more, ever since the chief executive of Fiat Chrysler Automobiles (FCA) announced that he would step down in 2019. But the way the answer came was both shocking and sad. Mr Marchionne’s death, at the age of 66, was announced on July 25th, the result of complications after an operation. A sudden deterioration in his health had already forced FCA’s board to meet on July 21st to confirm that Mike Manley, boss of the Jeep and Ram brands, would take his place.
+
+Mr Manley had little time to establish himself before coming under scrutiny. He opened a presentation of the firm’s second-quarter results on July 25th with a tribute to a “special, unique man”. Although he had to explain falling revenues and profits and a cut in forecasts for 2018 that sent the firm’s shares into a steep slide, he also confirmed that it was at last free of debt, one of Mr Marchionne’s main aims for FCA. The former CEO had described getting rid of the nearly $13bn debt pile as a “healing process” for Fiat and Chrysler.
+
+Mr Marchionne will be a difficult act to follow. He is regarded as one of the all-time stars of the car industry, having rescued Fiat from near-bankruptcy in 2004 and then repeating the trick at Chrysler, acquired in the wake of the financial crisis in 2009. Hard-working even by the standards of big-name chief executives, he claimed that his customary outfit of a crumpled black sweater saved him wasting time choosing a suit. He could be blunt, but he was also erudite, witty and outspoken in an era when bosses have become ever more wary of courting controversy. 
+
+Coming from outside the car industry—he trained as an accountant rather than working his way up through the ranks—helped him bring a fresh eye to its financial shortcomings. Profits in the mass market are slender at best, the result of too much duplicated investment under the bonnet on technologies that are indistinguishable to car buyers, he reckoned.
+
+His proposed solution was mega-mergers to share costs, ending up in a world with only a handful of vast carmakers. Other car bosses, though sharing his diagnosis of the problem, have preferred loose alliances, which can deliver savings but not on the same scale as a merger. The failure of previous big deals helps explain their reticence. Mr Marchionne was one of the few bosses that pulled one off, bringing together Fiat and Chrysler. Always on the lookout for a deal (almost every large carmaker has been rumoured as a merger partner over the years) some analysts had suggested that he had one last big transaction in the works before he stepped down.
+
+Any such dealmaking will now fall to Mr Manley. FCA had always promised that Mr Marchionne’s successor would come from within. Mr Manley, a British former car salesman, has worked his way up through the company to head the Jeep division, one of the best-performing parts of FCA. He was heavily involved in the latest five-year plan, unveiled in June, which calls for big leaps in sales and profitability, particularly at Jeep.
+
+Mr Marchionne’s achievement is that Mr Manley will not have as tough a task as he faced. Through smart management, cost-cutting and canny capital allocation, much of the drama has been taken out of FCA. He spun off businesses such as CNH, Fiat’s industrial arm, and Ferrari, a maker of pricey sports cars; he had been preparing Magneti Marelli, the firm’s parts business, for life on its own. He exited the business of making saloon cars in America in favour of popular, profitable SUVs well before Ford and General Motors did the same. And he repurposed factories in Italy that made barely profitable small cars into plants producing premium Alfa Romeos, Maseratis and Jeeps. In short he turned FCA into what Jefferies, a bank, calls a “normal” carmaker.
+
+That does not mean Mr Manley’s job is easy. The five-year plan calls for selling many more Jeeps and Ram pickups, which already generate two-thirds of revenues and most of the profits. It also includes a big expansion of the premium Alfa and Maserati brands, which have for years remained tantalisingly on the verge of a comeback. Like all other car bosses Mr Manley also has to deal with the threat of a global trade war as well as negotiating a future of electric cars, mobility services and autonomous cars, which will require vast investments with uncertain outcomes.
+
+He will do so without the assistance of Alfredo Altavilla, one of his rivals for the top job, who announced his departure on July 23rd. Richard Palmer, the firm’s well-respected CFO and another candidate for the chief executive role, will stay on.
+
+Mr Manley’s elevation was not the only decision for John Elkann, chairman of Exor, the Agnelli family’s investment firm which controls FCA. (Mr Elkann also sits on the board of 
+
+’s parent company.) He had to find a new boss for Ferrari, which Mr Marchionne had been expected to lead until at least 2021. Louis Camilleri, a former tobacco executive, will run it. The job of chairing CNH has gone to Suzanne Heywood (who is also on the board of The Economist Group).
+
+FCA’s new leadership and Mr Elkann have more big decisions ahead, above all whether the world’s seventh-largest carmaker is big enough to survive in an era of autonomy and electrification. The list of potential partners is dwindling. Most of the big Western carmakers already have enough on their plates to consider a mega-merger as well; China’s emergent giants lack the cash to buy FCA. Mr Marchionne’s feat is that he built a group that is for now strong enough to stand alone, if it has to. 

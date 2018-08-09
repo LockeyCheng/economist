@@ -1,0 +1,3 @@
+{"suggestedfocus": "11.0 Minutes", "wordsset": 375, "keywords": "Cup,Deschamps,France,French,Macron,Paris,team,victory", "toughwords": 68, "allwords": 618}
+
+Antoine,Champ,Democratic,Jacques,Le,Liberal,Metro,Simone,Veil,amateur,approve,artery,boisterous,bounce,carriage,celebration,chant,clamber,clasp,classy,combat,conceal,contempt,democratic,descend,detractor,discipline,disgrace,drift,estate,exploit,fanned,fervent,firecracker,flare,forge,fortunate,funeral,goalscorer,historic,leap,menace,mobility,multicultural,multiracial,nationalism,parade,populist,potent,poverty,presidential,reception,recovery,reference,represent,rouse,ruthless,shelter,strike,supporter,suspect,symbolism,tagged,thrive,torrential,tournament,victorious,youngster

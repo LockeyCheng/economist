@@ -1,0 +1,29 @@
+Imagining the “Trump in Europe” opera
+
+Richard Nixon’s visit to China in 1972 inspired an opera in three acts. Our correspondent envisages a sequel
+
+https://cdn.static-economist.com/sites/default/files/20180721_BKP501.jpg
+
+AFTER decades of tense relations with China, Richard Nixon in 1972 undertook a pathbreaking visit to the communist country. So historic was the American president’s trip that John Adams was inspired to write an opera about it. The composer was on to something: summits, with their high stakes and larger-than-life personalities, are natural operatic fodder and despite being a modernist work, “Nixon in China” has established itself in the operatic repertoire. A recent diplomatic trip undertaken by the incumbent American president would, in fact, make for even more compelling musical drama. Prospero has endeavoured to imagine such a work, which might be entitled “Trump in Europe”.
+
+Donald Trump is the undisputed hero of this comic opera in three acts. “Comic” does not here mean superficial or laugh-out-loud hilarious: as Rossini so superbly demonstrated in “The Barber of Seville”, comic opera combines a sophisticated analysis of human interactions with a light touch. Foreign policy offers plenty of opportunities to study human nature; at summits, each participant brings not only his or her personality but a country’s sensitivities, strengths and weaknesses to bear. Like Bartolo—the central character in “The Barber of Seville”, a buffoon-like doctor of medicine with ambitions that supersede his abilities—Mr Trump is sung by a bass.
+
+The first stop on his European trip is the NATO summit in Brussels, where he is greeted by four other leaders: Angela Merkel, Theresa May, Emmanuel Macron and Jens Stoltenberg. The leaders happen to make for an ideal musical quartet, wherein Ms Merkel is sung by a soprano, Mrs May by a mezzo-soprano, Mr Macron by a tenor and Mr Stoltenberg by a bass. As Wolfgang Amadeus Mozart knew so well, and illustrated in opuses such as “The Marriage of Figaro” and “Così fan tutte”, quartets are a perfect operatic tool. They add musical harmony as well as action, celebrating unity while maintaining each character’s uniqueness.
+
+Despite the musical intricacies of the quartet, Mr Trump hears only a unified voice against America. The quartet’s members grow increasingly exasperated and, after a while, are joined by the 25 other national leaders. The group launches into a fugal chorus about the threats facing the global order and how they’re resolved to fight together in great solidarity (and add some cash to their defence budgets).
+
+Their eventually joyful moment is interrupted by the entrance of a character unsteady on his feet. It is Jean-Claude Juncker, the European Commission President, who excuses his wobbly entrance with a somewhat disjoined aria about his 
+
+, which then turns into a plea for more military powers for the European Union. Mr Trump wonders what the Europeans are all about, and promptly embarks on a song to that effect. A man who so enjoys having the last word, he ends the act with the masterful passive-aggressive aria “O solo io ed America” (“Just me and America”). The curtain goes down.
+
+The second act begins with Mr Trump leaving Brussels for Britain, a country he has declared to be in turmoil. Unfortunately it means that he has to deal with Mrs May again (he would much rather have been the guest of his friend Boris Johnson). The visit begins rather disastrously with an ill-judged newspaper interview (cue a duplicitous journalist sung by a countertenor), mass demonstrations (more crowd scenes) and questions all around (cue voices from the wings—American senators asking, at 
+
+, urgent questions about that Russia investigation). All, however, takes a turn for the better when Mrs May proves a gracious hostess and even joins Mr Trump in a duet lauding the benefits of the Special Relationship. 
+
+Better yet, Mr Trump gets to visit the Queen at Windsor Castle, where he launches into a duet in which he overshadows the elegant soprano of Her Majesty. While unfailingly polite and sung in a major key, her comments evoke the image of an elderly monarch trying to keep up with an unruly visitor. The president cheerily departs for his golf course in Scotland.
+
+The third act begins with great fanfare as Mr Trump, now in Helsinki, strides towards Vladimir Putin. Though they usually prefer solo arias, the Russian and American leaders immediately intone a duet that takes the audience through issues ranging from Syria to trade to the EU, but not Salisbury, Ukraine or election meddling. The musical style shifts from baroque to Mozart to Verdian drama, and the two leaders sing in surprising harmony.
+
+Mr Trump then departs. The audience is left with Mr Putin who, now alone in his suite in Helsinki’s famed Kämp hotel, reflects on his relationship with the unconventional American president. As in life, the wily Russian leader is in “Trump in Europe” a complex character, the role inhabiting menace, drama and humour. It is the kind of role that could make the career of an emerging tenor. 
+
+But an important question remains: who could play Mr Trump himself? For the inaugural production Prospero would propose Bryn Terfel, the star Welsh baritone who possesses the rare acting talent required to portray the paradoxes of the man himself. But perhaps more fitting would be a selection process based on the Miss Universe model, or perhaps “The Apprentice”, where basses vie for the privilege of embodying him on the stage. “Trump in Europe” could be the biggest opera, the best opera. A terrific work. Did we mention it would be a crowd-pleaser?

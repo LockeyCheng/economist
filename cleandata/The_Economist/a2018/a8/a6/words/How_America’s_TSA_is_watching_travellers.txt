@@ -1,0 +1,3 @@
+{"suggestedfocus": "11.4 Minutes", "wordsset": 263, "keywords": "America,Skies,TSA,agency,airport,marshals,privacy,travellers", "toughwords": 33, "allwords": 429}
+
+Marshal,Transportation,afar,affiliation,attendant,criteria,divert,enforcement,excessive,fidget,genuine,inspect,marshal,memo,mock,murky,procedure,prompt,prospect,rife,routinely,scoop,secretive,senator,shave,snare,surveillance,suspect,suspicious,toilet,violate,wary,yawn

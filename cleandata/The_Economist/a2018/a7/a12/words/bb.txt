@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.0 Minutes", "wordsset": 369, "keywords": "China,Chinese,Hong,Taiwan,airlines,countries,country,island", "toughwords": 47, "allwords": 612}
+
+Booker,Delta,Dominican,Holdout,Informally,Lufthansa,Marriott,Orwellian,allusion,assert,aviation,backlash,blaze,bristle,censor,coincide,deprive,diplomatic,disdain,displeasure,domestic,entity,essence,eventual,excoriate,executive,feud,fudge,heel,hysteria,loom,mindful,nationalist,nonsense,represent,reunification,rigorous,scorn,sovereign,sovereignty,specify,territory,unblock,universally,violator,withdraw

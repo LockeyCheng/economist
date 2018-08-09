@@ -1,0 +1,3 @@
+{"suggestedfocus": "11.3 Minutes", "wordsset": 272, "keywords": "Liberty,PAL,aircraft,autogyro,either,flies,propeller,road", "toughwords": 33, "allwords": 406}
+
+Amelia,Earhart,Nellie,airborne,airfield,altitude,approval,autonomous,aviation,blade,combustion,convenience,drone,eschew,flexibility,flutter,groom,jilt,nasty,patch,petrol,propeller,rear,refuel,rotor,runway,strip,suitable,terrain,thrust,vertically

@@ -1,0 +1,3 @@
+{"suggestedfocus": "12.7 Minutes", "wordsset": 412, "keywords": "ISA,debt,graduates,income,share,tuition,universities", "toughwords": 45, "allwords": 740}
+
+Pennsylvania,Purdue,Upstart,accelerate,alumni,asses,bankruptcy,borrower,capped,cohort,contract,diversify,educational,endowment,estimate,exceed,fizzle,flier,graduation,grain,lender,literature,lucrative,mooted,nudge,overprice,participant,patchy,plumber,plunge,postgraduate,predictable,proposal,reassure,repayment,safest,scholarship,steady,sufficiently,topped,tuition,unconnected,undergraduate,vocational

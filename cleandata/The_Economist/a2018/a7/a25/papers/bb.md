@@ -1,0 +1,24 @@
+What Venezuelan savers can teach everyone else
+
+Lessons in preserving the value of savings from hyperinflation
+
+https://www.economist.com/sites/default/files/imagecache/640-width/images/print-edition/20180721_FND002_1.jpg
+
+
+ASK the chief investment officer of a fund-management firm how to spread your investments and you will be told to put so much in stocks, so much in bonds and something in hedge funds or private equity. Chances are that white-elephant buildings, eggs and long-life milk will not feature. But in Venezuela, where the inflation rate is in the tens of thousands, things that people elsewhere would shun for fear they will lose value have become stores of real wealth.
+
+That is why you can see scaffolding and other signs of a building boom dotted around Caracas, the capital of a country that has endured an economic collapse. Businesses need to park their earnings where they will not be wiped out by inflation. A smaller-scale response to galloping prices is the emerging “egg economy”. Eggs hold their value better than cash, for a while at least. They make for a convenient currency, too. It is easier to carry around a half-dozen eggs than a trunkful of banknotes. And many tradespeople would be happier to receive the eggs.
+
+There are plenty of lessons from Venezuela’s calamity, including for ordinary savers. An often-overlooked one concerns personal finances. In stable countries, the penalty for a careless approach to saving can hit you a long way in the future. It might be the drawn-out misery of a meagre income in retirement, say. In Venezuela bad decisions lead to ruin—and rather quickly. Keeping your head above water takes great care. A sure way to go under is to keep money in bolívares for any longer than it takes to buy essentials.
+
+Episodes of hyperinflation are quite rare. Steve Hanke of Johns Hopkins University lists 57 cases, starting with France in the 1790s. It takes something extraordinary—war, revolution or epic incompetence—to mess things up on such a scale. The root cause is usually a chronic weakness in public finances. This might be because of looting by officials, lavish welfare spending or reliance on a single source of tax revenue. The government resorts to printing money to pay its bills. That feeds inflation. A vicious cycle ensures that it rises quickly. Because taxes are paid some time after the activity they relate to, rapid inflation erodes the value of tax receipts. More money is created to fill the gap in revenue. Inflation accelerates. The cycle turns.
+
+They are the egg men
+
+Venezuela fits this template, more or less. Its people were not completely unprepared. High inflation in the 1980s and 1990s taught the middle classes to keep a chunk of their savings offshore in dollar accounts. The financially astute switch between accounts in Miami and Caracas. But capital controls make it tricky to transfer large sums. Other inflation hedges are needed.
+
+One is property. When protests against Nicolás Maduro, the autocratic president, were at their height last year, some foreigners hoped to snap up homes at fire-sale prices. But there were no bargains. Property was too valuable as an inflation hedge. For a while, a car was as much a savings vehicle as a way to get from A to B. It was once possible to sell one for more than the purchase price in dollars. But cars have become less of a sellers’ market as people leave Venezuela and sell their belongings. Property prices, too, have stabilised in dollar terms. A shrewd minority are using the stockmarket as a sort of inflation-linked bank, buying shares to deposit cash and selling them to withdraw it. A favoured stock is Banco Mercantil, which has businesses outside Venezuela.
+
+It is impossible to guard against extreme inflation with precision. For many it is hard to guard against it at all. The poor have few ways to do so. In this regard, what happens in Venezuela tallies with what happens elsewhere. A newish strain in academic finance examines how ordinary people manage their money. A survey of the literature* by Cristian Badarinza, John Campbell and Tarun Ramadorai sums up what has been learned so far. A key finding is that the wealthy and educated make fewer mistakes with their money. They invest in a broader range of assets, pay lower fees and are quicker to refinance their debts when interest rates change. The penalty the poor pay for their comparative lack of financial acumen is real, if not always visible.
+
+The costs are more obvious in Venezuela. It thus provides a vivid lesson in why ordinary folk should pay closer attention to how they manage their money. Even quite small changes can make a big difference to long-term returns. To Venezuelans such wisdom is essential, because when you are coping with hyperinflation, the long term is next week.

@@ -1,0 +1,13 @@
+Are Britain’s overtures to Donald Trump worth it?
+
+An index of soft power suggests that they might be
+
+https://cdn.static-economist.com/sites/default/files/20180714_WOC615.png
+
+DONALD TRUMP, America’s 44th president, has been afforded all manner of pomp and ceremony during his visit to Britain this week. The president was greeted by a marching band at Blenheim Palace, has visited the prime minister’s country residence, and has met the Queen at Windsor Castle. There have been protests, too: thousands have marched in opposition to his visit, and a six-metre tall balloon depicting the president as a man-baby has flown above Westminster.
+
+Advocates of the visit say that courting the president, however divisive he may be, is a necessary part of maintaining Britain’s “special relationship” with America. Indeed, according to an index of “soft power”—a term defined in 1990 by Joseph Nye as a country’s ability to coax and persuade others through peaceful means—Britain is unrivalled at influencing foreigners. The index, created by the Centre on Public Diplomacy at the University of Southern California and by Portland Communications, a public-relations company, measures the use of soft-power assets across 30 countries. 
+
+The index takes some 70 different variables, and measures soft power in two distinct ways. 70% of the index comprises six different sub-indices based on measurable outcomes: enterprise (innovation, R&D spending and the like), education (international students, quality of education), government (democracy, number of think-tanks, press freedom), digital (internet access, popularity of the head of state on Facebook), culture (number of international tourists, quality of men’s football team and music popularity among others) and engagement (overseas development aid, number of asylum-seekers and number of embassies). The remaining 30% of the index is made up of international perceptions of the country based on a survey of 11,000 people across 25 countries: how decent the food is; the quality of its luxury goods; whether the country is a good place for a holiday; and so on. 
+
+How much does this matter? A simple correlation between GDP per person and the soft-power index demonstrates a close link between the two. At first glance each additional ten points scored in the soft-power index is associated with an additional $15,000 in GDP per person. Yet it is unlikely that countries get richer by being good at coaxing and persuading. Rather, countries get better at making the most of their soft assets as they get richer. 

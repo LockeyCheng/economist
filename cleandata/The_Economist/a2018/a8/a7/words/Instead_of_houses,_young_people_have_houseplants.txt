@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.1 Minutes", "wordsset": 180, "keywords": "afford,cheaper,data,easier,greener,https,interest,maintain", "toughwords": 24, "allwords": 238}
+
+Netherlands,Patch,Sill,blossom,cacti,cropped,domesticity,dormant,greener,greenery,houseplant,internet,leafy,manageable,millennial,nurture,seasonal,spike,spurt,succulent,surge,tenfold,viral

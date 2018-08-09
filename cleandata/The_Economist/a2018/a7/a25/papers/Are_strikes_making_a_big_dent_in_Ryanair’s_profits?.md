@@ -1,0 +1,9 @@
+Are strikes making a big dent in Ryanair’s profits?
+
+Europe’s largest airline has been hit by a series of walk-outs since it began to recognise trade unions
+
+https://cdn.static-economist.com/sites/default/files/20180728_BLP502.jpg
+
+ALL should be rosy at Europe’s largest low-cost airline. Ryanair’s passenger numbers are growing and costs per seat-kilometre flown are—just about—lower than its competitors’. But investors have been sent into a flap by its announcement on July 23rd that its profits in the first quarter fell 20% year-on-year, which sent its share price down nearly 7% on the day. Growing demand for pilots and cabin crew is having an effect. Last September the airline was forced to cancel over 2,000 flights owing to a pilot shortage. To attract enough staff to keep up with its breakneck expansion it has been improving pay and conditions, as well as recognising trade unions for the first time. That decision has already made itself felt: this week Ryanair is cancelling more than 600 flights because of striking staff.
+
+Neil Sorahan, Ryanair’s finance director, cites other factors for the slide in profits. The amount of airline capacity in Europe is growing faster than demand, putting downward pressure on fares. And on the cost side, rising oil prices has increased the price that Ryanair pays for most of its fuel from $49 to $58 per barrel year-on-year. Even so Wizz Air, a fast-growing Hungarian competitor that uses cheaper eastern European staff, is snapping at its heels. And its boss, Jozsef Varadi, is eager to profit from the Irish carrier’s problems. Several analysts say that it could match Ryanair’s unit costs, in terms of cost per passenger-kilometre, by the end of the year. That will hit the Irish carrier’s profits—and its share price—even further.

@@ -1,0 +1,3 @@
+{"suggestedfocus": "11.3 Minutes", "wordsset": 248, "keywords": "Python,coding,computer,language,programming,rivals,scientist,unlikely", "toughwords": 40, "allwords": 350}
+
+Ada,Grady,Guido,IBM,Java,JavaScript,Lisp,Python,astronomy,avid,baffle,beware,capability,complicate,consumption,crawl,crunch,destine,domination,emerge,fingertip,flexibility,harness,imperceptible,indent,niche,obsolete,overtaken,plummet,poise,practitioner,processor,quantity,repository,simplicity,straightforward,supremacy,syntax,treble,versatility

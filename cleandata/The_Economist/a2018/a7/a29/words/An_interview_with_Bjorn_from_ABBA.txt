@@ -1,0 +1,3 @@
+{"suggestedfocus": "8.62 Minutes", "wordsset": 49, "keywords": "ABBA,Bjorn,cdn,economist,https,interview,melancholia,static", "toughwords": 6, "allwords": 58}
+
+beneath,exuberant,feminist,melancholia,melancholy,senior

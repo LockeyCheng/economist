@@ -1,0 +1,13 @@
+Why tariffs are bad taxes 
+
+Uneven and discriminatory, they can often have unintended consequences
+
+https://cdn.static-economist.com/sites/default/files/20180804_BLP506.jpg
+
+PRESIDENT DONALD TRUMP has called tariffs “the greatest!” He is deploying them liberally, slapping new ones on imports that last year were worth $89bn. Sometimes he talks of tariffs as tools to bully others into taking down trade barriers of their own. At others he seems keen to protect American industries from competition that he perceives to be unfair. And he likes the resulting revenue. So why are economists upset?
+
+Tariffs are taxes, which create a wedge between the price paid by buyers of imported goods and the one foreign sellers get. Narrow tariffs aimed at specific products, such as cars, nudge consumers towards home-made goods and away from imports they might otherwise prefer. (Broader tariffs covering a large share of imports are more complicated, as exchange rates can move to offset some of their effects.) Tariffs resemble sales taxes in that they discourage some exchanges that may be mutually beneficial for both parties. But unlike sales tax, they discriminate between products based on where they are made. They are fiddlier too: different rates apply to thousands of different products. And they encourage lobbying by powerful industries seeking protection.
+
+Tariffs impose costs on the country setting them. They invite foreigners to respond with retaliatory ones of their own, hurting exporters. (When new tariffs break past promises, they also erode trust.) Moreover, tariffs distort the economy, reducing productivity. Though monetary and fiscal policy can keep overall employment relatively stable regardless of trade patterns, discriminatory duties can rebalance the economy towards protected industries, drawing workers and investment away from others. No doubt some American steel-company executives are pleased with Mr Trump’s 25% tariff on imported steel. But domestic companies that buy steel to make higher-value products are miffed.
+
+There are some arguments in favour of tariffs. In poor countries they can be easier to collect than sales taxes, requiring only infrastructure at ports. Provisions allowing countries to impose new ones help garner political support for free-trade deals and act as a safety valve in case of a disruptive surge of imports. And it is possible that in some circumstances, tariffs could help an industry to catch up with foreign competitors by offering temporary relief from more developed rivals. But well-meaning protectionists should take note. Muffled beneath the hurrahs of a small number of winners from tariffs are the harrumphs of a larger base of quiet losers—including other businesses, entrepreneurs and consumers.

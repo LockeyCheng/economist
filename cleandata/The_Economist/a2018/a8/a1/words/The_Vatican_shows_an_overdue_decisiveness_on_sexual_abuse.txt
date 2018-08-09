@@ -1,0 +1,3 @@
+{"suggestedfocus": "13.0 Minutes", "wordsset": 344, "keywords": "Cardinal,Francis,July,Vatican,abuse,cardinal,pope,sexual", "toughwords": 69, "allwords": 557}
+
+Archbishop,Bernard,Cardinal,Catholic,Chile,Francs,Malcolm,Pope,Theodore,abusive,accusation,allegation,allege,annals,archbishop,archdiocese,canonical,cardinal,cleric,clerical,conviction,credible,decisively,decisiveness,designate,doff,egregiously,embroil,emerge,emeritus,exploit,fester,indicate,misdeed,moral,notorious,obligation,oblige,overdue,papal,pastoral,penance,perpetrate,pertain,pontiff,pope,prayer,prelate,prestigious,priest,profile,prominent,prompt,recollection,renounce,resignation,saga,scandal,senior,serial,stance,stripped,substantiate,suspension,tarnish,vulnerable

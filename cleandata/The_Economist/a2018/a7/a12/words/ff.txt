@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.38 Minutes", "wordsset": 266, "keywords": "Kocabas,camouflage,electrons,graphene,heat,infrared,stack,thermal", "toughwords": 39, "allwords": 437}
+
+Pure,appropriate,atom,battlefield,camouflage,cloak,compose,conceal,constant,convert,copycat,drench,electron,eliminate,emitted,infrared,invisibility,ion,liquid,literally,mobility,opaque,optical,sensor,signature,soak,stack,suspect,thermal,thwart,transparency,transparent,tricky,tune,visible,volt,voltage

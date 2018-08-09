@@ -1,0 +1,23 @@
+Why Binyamin Netanyahu is fudging east European history
+
+Israel’s prime minister has reasons to suck up to nationalist politicians in eastern Europe, even if they revise their countries’ controversial history regarding Jews
+
+https://cdn.static-economist.com/sites/default/files/images/2018/07/articles/main/20180721_map501.jpg
+
+YAD VASHEM, Israel’s national authority for research and commemoration of the Holocaust, is a staid institute, as befits its role, and usually shies away from political controversy. So a public announcement by its leading historians on July 5th, denouncing a joint statement by the prime ministers of Israel and Poland, which it said contained “grave errors and deceptions”, was highly unorthodox.
+
+The statement had been issued a week earlier by Binyamin Netanyahu and Mateusz Morawiecki, to end a crisis in relations between the two countries caused by a new Polish law on the death camps in Poland. It had threatened fines or imprisonment for anyone who blames the Polish nation or state for their part in the Holocaust. Many historians viewed this law as an attempt by the conservative Polish government to revise history, by playing down the willing participation of many Polish citizens in the murder of 3m Polish Jews by Nazi Germany. After months of talks, the Polish government agreed to amend the law, deleting the criminal clauses. In return, Mr Netanyahu signed a statement saying that both countries “reject the actions aimed at blaming Poland or the Polish nation as a whole for the atrocities committed by the Nazis”. The statement also asserts that “the Polish government-in-exile created a mechanism of systematic help and support to Jewish people.”
+
+The historians of Yad Vashem argue that this flies in the face of documentation and historical research which “yield a totally different picture”. Historians say the Polish government-in-exile did little to aid Poland’s Jews and that the Polish resistance, though it fought the Germans, “not only failed to help Jews, but was also not infrequently actively involved in persecuting them.” Though there had been cases of Poles saving Jews, these were “relatively rare”.
+
+This forthright reaction from some of Israel’s most respected historians led to an unusually chastened answer by Mr Netanyahu. “I have listened to the historians’ comments,” he acknowledged. “I respect them and will give them expression.” But there was no question of his changing the joint statement with the Poles.
+
+Mr Netanyahu’s move seems out of character. A historian’s son, he is deeply aware of the Jewish people’s past. Some complain that Mr Netanyahu has exploited the trauma of the Holocaust in his speeches, especially to warn against Iran’s nuclear programme and that he overuses the Holocaust for his political ends.
+
+But Mr Netanyahu has a particular interest in keeping the Polish government happy. In recent years he has pursued closer ties with the central and east European members of the European Union in the hope that they will oppose the block’s support for Palestinian statehood and its members’ joint refusal to recognise Jerusalem as Israel’s capital. He also wants to weaken the EU’s commitment to abide by a deal with Iran to curtail its nuclear programme in exchange for the lifting of economic sanctions. Mr Netanyahu has identified the Visegrad Four, consisting of Poland, Hungary, the Czech Republic and Slovakia, as his main allies within the EU.
+
+The increasingly nationalist Visegrad leaders have given Mr Netanyahu a warmer hearing than he gets in Brussels or Berlin. In July 2017 he was their guest at a Visegrad summit in Budapest.
+
+Hungary’s prime minister, Viktor Orban, is due to arrive on his first official visit to Israel on July 18th. Leaders of the Jewish community in Hungary have repeatedly condemned the government of Mr Orban’s Fidesz party for minimising the role played by the country’s regime during the Holocaust in the deportation and murder of over half a million Hungarian Jews. More recently, it protested against the government’s virulent campaign against the financier George Soros, whose Open Society Foundation sponsors pro-democracy groups in Hungary. The campaign against Mr Soros, who is Jewish, used well-worn anti-Semitic themes, portraying him as a “global capitalist” and puppeteer, who tries to control Hungary from behind the scenes.
+
+Israel’s leaders have generally been the first to support Jews around the world on such matters. But Mr Netanyahu has pointedly refused to condemn the attacks on Mr Soros. He seems content to let Poland and Hungary revise history as long as they serve his political purposes.  

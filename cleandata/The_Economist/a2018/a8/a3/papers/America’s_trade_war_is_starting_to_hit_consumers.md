@@ -1,0 +1,11 @@
+America’s trade war is starting to hit consumers
+
+Coca-Cola drinks and Caterpillar bulldozers will get more expensive
+
+https://cdn.static-economist.com/sites/default/files/20180804_WOC066.png
+
+WHEN economists gave warning earlier this year that Donald Trump’s tariffs on imported washing machines, solar panels and metals would push up prices for consumers and businesses, the White House was quick to dismiss the claims as “fake news”. “I think people are altogether too hysterical,” said Wilbur Ross, the commerce secretary, after the White House slapped tariffs on steel and aluminium imports in March. Despite widespread expectations that firms would pass the cost of the tariffs on to their customers, Mr Ross insisted that the notion that the levies would destroy jobs and raise prices was “wrong”.
+
+In recent days, however, Wall Street has argued otherwise. As American corporations report second-quarter earnings to investors, many are blaming tariffs for lower profits and higher prices. On July 25th, Coca-Cola’s boss, James Quincey, said the soft-drink maker will increase prices of its fizzy drinks this year in response to the rising cost of the aluminium it uses for its cans. Mr Quincey cited the president’s tariffs as “one of many factors” contributing to the decision. On July 30th, Caterpillar, a construction-equipment maker, said it would increase prices as well. “Recently imposed tariffs”, the company told investors, will cost the company $100m-200m in the second half of the year, and will be offset by “mid-year price increases”. 
+
+Big buyers of steel and aluminium have so far borne the brunt of Mr Trump’s trade war. But one need only look to the market for washing machines to see how consumers might also suffer. In the months leading up to the White House’s tariffs on washing machines, firms stockpiled supply from foreign sellers, causing monthly imports to rise by 50%. After tariffs went into force, imports dropped again, and the price of “laundry equipment” as reported by the Bureau of Labour Statistics (BLS) spiked. In June, washing machine prices increased by 13% compared with the same month a year earlier, the largest such jump since the BLS began collecting data 40 years ago. 

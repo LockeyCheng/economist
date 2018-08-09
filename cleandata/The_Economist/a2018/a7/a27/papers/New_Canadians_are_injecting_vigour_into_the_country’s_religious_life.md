@@ -1,0 +1,25 @@
+New Canadians are injecting vigour into the country’s religious life
+
+Religions gather strength as they cross the ocean
+
+https://cdn.static-economist.com/sites/default/files/20180728_BLP508.jpg
+
+SOMETHING strange is happening to Canada’s religious profile.
+
+As in many western countries, the share of Canadian citizens who call themselves Christian is in long-term decline. Those who profess “no religion” (which does not necessarily mean an indifference to the spiritual) is rising. But compared with people born in Canada, newcomers to the country are much more likely to practise a faith, regardless of whether they were devout back in the homeland. Young immigrants are more inclined to engage in regular worship than their parents. And whatever they believe or practise, new Canadians seem to have a more positive attitude towards religion than longer-established ones. A poll commissioned this summer by Cardus, a think-tank, found that 57% of immigrants thought religion-based organisations had a good effect on society, while only 36% of Canadians in general held that view.
+
+The results of all this are tangible in Vancouver, a port that attracts upwardly-mobile migrants from across the Pacific as well as Canadians from farther east who may be searching for a less conventional lifestyle. The city’s Catholic churches are now packed. At popular mass times, it is hard to find room to sit or kneel. But the sermon will probably be in Tagalog, the language of the Philippines.  
+
+Without the influx of pious Filipinos, it would be a different story. According to Pavel Reid of the Catholic archdiocese of Vancouver, the church would be closing parishes (as is the case elsewhere in Canada) were it not for the new arrivals from a land which is 80% Catholic. “Fifty years ago it was common to set up ‘ethnic’ parishes...but every parish is a Filipino parish now,” he says.
+
+For decades, British Columbia was the most secular part of Canada. Quebec was a bastion of French Catholicism (now in vertiginous decline); Scottish Presbyterianism made its mark on the ethos of Toronto; and Alberta had an evangelical Christian subculture (along with many others). Compared with all that, the Pacific coast was a place where people could live, and believe, much more freely.
+
+People from the other side of the Pacific are changing the Vancouver scene. Young immigrants from China often convert to Christianity soon after arriving. Pentecostalism has been described as a form of religion serving the needs of people on the move; the burgeoning of charismatic churches among the ethnic Chinese of the Canadian Pacific seems like a perfect example. For some, joining an evangelical church may reflect a conversion experience or a wish to exercise a religious freedom which was restricted back home. For others, the motives may be more pragmatic: a desire to overcome loneliness and find potential partners for romance, social life or business.
+
+The multiple religious cultures of South Korea, from Presbyterian to Pentecostal, have also become implanted in Canadian soil. Nor is this a mainly Christian phenomenon.  Migrants of Hindu, Muslim or Sikh background often become more pious on arrival in the prosperous but confusing West, and the younger age cohort can be particularly devout. Olivier Roy, a French scholar of Islam, has identified a broad tendency among Muslim families moving to the West: the second generation rejects some features of the old country’s culture, but embraces the religion with intensified fervour.
+
+In 2015, a pan-Canadian poll by the Angus Reid Institute, a researcher, found that among adults under 50, only 19% of those born in Canada attended an act of religious worship more than once a month; for people born outside Canada, the figure was 59%. Among those over 50, the contrast was less sharp: 25% of the Canadian-born were regular worshippers while 34% of the newcomers were.
+
+Still, by no means all the people who enjoy the beauty and energy of the Canadian Pacific region are God-fearing types; secularism and antipathy towards conventional religion represents a strong subculture too. Perhaps it is not a coincidence that one of the most emotive religious/secular disputes seen recently in Canada had British Columbia as its epicentre. Trinity Western University is a Christian college where students are expected to sign a covenant that restricts sex to heterosexual marriage. It wanted to establish a law faculty, but the law societies of British Columbia and Ontario said they would not accredit the alumni of any such institution, and their stance was upheld in June by the Supreme Court.
+
+Somehow or other, well-established Canadians who have become disillusioned with religion, and with the behavioural norms that religion tries to impose, will have to co-exist with newcomers for whom the flame of faith burns bright. That challenge will be especially acute on the West Coast. 

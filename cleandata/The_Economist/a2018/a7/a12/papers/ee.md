@@ -1,0 +1,24 @@
+The growth of index investing has not made markets less efficient
+
+It has put a lot of bad money-managers out of business
+
+https://cdn.static-economist.com/sites/default/files/images/print-edition/20180707_FND001_0.jpg
+
+
+IN THE autumn of 1974 Paul Samuelson, a prominent economist and Nobel prizewinner, issued a challenge. Most stockpickers should go out of business, he argued. Even the best of them could not always beat the market average. But there was a snag. “If this advice to drop dead is good advice, it is obviously not counsel that will be eagerly followed.” An alternative was needed to set an example. Someone should set up a low-cost, low-turnover fund that simply tracked the S&P 500 index of stocks.
+
+The following year Vanguard, then a fledgling firm, took up Samuelson’s challenge and launched an index fund for retail investors. It was not eagerly received. Denounced on Wall Street as “un-American”, the index fund raised a mere $17m in the half-decade after its launch. It has been only in the past two decades that index investing has prospered. Indexed funds have grown around six times faster than those tended by active fund managers who select stocks to buy. Lots of investors now get the average stockmarket return for a fee of as little as 0.03% a year.
+
+Samuelson’s case for an indexed fund rested on the idea that stockmarkets are “efficient”, in that any relevant news about a company’s prospects is quickly reflected in its share price. If there were obvious bargains, a little effort would bring riches at the expense of slothful investors. Yet if more people are buying the index, might the market become less efficient? And might that, in turn, create opportunities for the very stockpickers who Samuelson thought should cease trading? In fact, the opposite is more probable. If index investing has displaced bad stockpickers, as seems likely, it will have made the market more efficient, not less.
+
+A tautology—that the whole is the sum of its parts—is central to an understanding of why this is so. The average investor can do only as well as the stockmarket average. For some investors to beat the market, others must be beaten by it. Stockpickers go to great pains to gather the facts, to assess them and to trade them. And the performance of most mutual funds does not justify these costs. A talented few are able to beat the index, at least for a while. But if they can do so consistently, they will charge a lot to manage your money. And it is always possible that they are lucky and not skilful. The average person will not be able to tell the difference.
+
+Passive aggressive?
+
+A low-cost index fund looks like a sounder bet. As more investors come to that conclusion, what is the effect on market prices? These are set by trades between informed active managers with differing opinions. Index funds are passive. Yet a concern that is often heard is that index investing helps to inflate bubbles, because index funds are forced to put more money into fashionable stocks even as they become more expensive. This rather misses the logic of indexing as a passive strategy. The index weights each stock by its value. If a stock’s price rises rapidly, its weight in the index increases. But its value in the indexed portfolio also increases. No buying is needed.`
+
+A more valid concern is what happens when capital moves to an indexed fund from an active investor who has trailed the market average by shunning fast-rising stocks. The net effect of the switch is to add to the demand for such stocks. The more pension-fund mandates that such “fundamental” investors lose to index-trackers, the greater the chance that bubbles will inflate. Yet it is worth thinking about what would happen if index funds did not exist. Our hypothetical pension-fund trustee might instead switch funds to another active investor, who had done well by betting on recent winners. That would make a bubble far more likely.
+
+Perhaps the growth of indexing has robbed the world of outstanding stockpickers. But it seems more likely that it has put a lot of bad managers out of business, just as Samuelson hoped. And it is not as if the buying and selling of stocks by informed investors with opinions has ceased. The turnover of stocks has actually increased over time. Active investors are more active than ever.
+
+Why do they bother? If the rise of index investing means less dumb money, then it is harder to beat the market. Yet it goes against human nature for people to think of themselves as mediocre or settling for the average. People will try, even though failure is more likely than success. Imagine, wrote Samuelson, that a think-tank discovered that one in 20 alcoholics can learn to become moderate drinkers. Even if the finding was well grounded, he argued, the wise clinician should still act as if were false—“for you will never identify that one in twenty, and in the attempt, five in twenty will be ruined”.

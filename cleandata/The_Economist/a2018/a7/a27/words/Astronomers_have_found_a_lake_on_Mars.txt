@@ -1,0 +1,3 @@
+{"suggestedfocus": "12.2 Minutes", "wordsset": 292, "keywords": "Mars,Martian,lake,liquid,polar,radar,surface,water", "toughwords": 65, "allwords": 485}
+
+Antarctica,Astronomer,Astrophysics,Jupiter,Lowell,Percival,Roberto,Saturn,Susanne,astronomer,axis,beneath,bubble,calcium,canal,cling,crater,cubic,delta,discovery,dusty,electrify,endure,exert,feeble,frequency,frigid,geological,icy,insulate,intensity,isolate,liquid,magnesium,microbial,mirage,orbit,planetary,preserve,probe,radar,reckon,seasonal,sensitivity,sensor,shortage,sodium,spacecraft,spectacular,speculate,spice,subterranean,sufficiently,survival,telescope,thickness,trickier,unproven,visible,wander,wetter,wispy,wobble

@@ -1,0 +1,3 @@
+{"suggestedfocus": "11.2 Minutes", "wordsset": 299, "keywords": "cabin,degrees,extreme,flight,heat,regulation,temperature,union", "toughwords": 40, "allwords": 472}
+
+Attendant,Cabin,Celsius,Denver,Fahrenheit,Nelson,Reagan,Sara,Transportation,allegedly,attendant,blast,cabin,cancellation,cockpit,dizzy,episode,faint,heatwave,hemisphere,historic,hypothermia,lethal,malfunction,mandate,mitigate,mutiny,petition,regulate,represent,stroke,sympathetic,tarmac,thermometer,unaware,urgency,viral,vomit,wildfire

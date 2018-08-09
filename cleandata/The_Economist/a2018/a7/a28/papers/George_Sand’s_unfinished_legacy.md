@@ -1,0 +1,25 @@
+George Sand’s unfinished legacy
+
+Nearly 150 years after her death, the focus remains on her celebrity rather than her work
+
+https://cdn.static-economist.com/sites/default/files/20180728_BKP508.jpg
+
+IN 1876 the mayor of Nohant-Vic, a small village in the heart of France, reported the death of Amantine Lucile Aurore Dupin. With the names of her late husband and father duly noted, the record states that she was a baroness, “aged 71 years, without any known profession”. Yet a 
+
+—George Sand—appeared in parentheses.
+
+Other female writers of the late-18th and 19th century received similarly dismissive treatment. Jane Austen’s epitaph emphasised her “charity, devotion, faith and purity” and 
+
+. Sand had penned some 80 novels as well as plays, pamphlets, editorials and letters; during her lifetime she was one of the highest-paid writers in France. She wrote by night, producing upwards of 25 pages a day in her most prolific periods. It gave her financial independence and freedom, and allowed her to support an ever-increasing list of beneficiaries not limited to animals, poets and lovers.  
+
+Yet while the focus quickly moved from Austen’s life to her writing, Sand’s legacy is still that of the cigar-smoking, cross-dressing partner of famous men. From André Maurois’s sentimental treatment in “Lélia: The Life of George Sand” (1952) to “Last Love of George Sand”, a dramatised biography by Evelyne Bloch-Dano (2013), Sand consistently appears as a muse rather than an author in her own right. In biopics such as “The Blue Note” (1991) and “Impromptu” (1991), she exists to reflect the genius of Frédéric Chopin, her lover, back at him. While her defiance of gender stereotypes and norms continues to fascinate, Sand’s work—the reason she adopted a male identity in the first place—remains largely unread beyond academic circles. Sand appreciation is still stuck in what Naomi Schor, a feminist literary critic, called the “autobiographical stage”. 
+
+This incomplete picture is on display at the Museum of Romantics in Paris. The permanent collection contains memorabilia of Sand’s life—“furniture, painting,
+
+ and jewellery”—and mementoes, such as casts of her and Chopin’s hands (both surprisingly petite). A new exhibition there, “Madame Air”, is a rare display of contemporary work. Starting in 2005, Anne-Lise Broyer, a photographer, roamed Sand’s estate in Nohant and the surrounding countryside, her gaze influenced by the novels. Ms Broyer catalogues the windows where the author looked and the trails where she walked, as if trying to capture a ghost on analogue film. 
+
+These pictures almost look like they date to the author’s time, uncannily reminiscent as they are of Placide Verdot’s images of Sand’s garden in the years before her death. While Verdot’s works were of documentary value, Ms Broyer’s have a clearer artistic sensibility. The recurring theme is that of the forest without a clear path, inviting the viewer to lose themselves in the underbrush as do the characters in Sand’s pastoral novellas. But even here, the emphasis is on the personal: these photographs show us Sand’s environment but do not unearth her point of view. The viewer is no closer to understanding her craft. Ms Broyer’s accompanying sculptures also betray an over-identification with her subject. She has woven her own hair into a dried rose; the catalogue states that inspiration came from Sand’s rupture with Alfred de Musset, one of her infamous lovers, when they exchanged twists of curls.
+
+The tribute seems too sure of its long-dead subject, thereby missing her completely. A new biography by Martine Reid, recently translated into English by Gretchen van Slyke, does not make the same mistake. Ms Reid, a professor at the University of Lille and a maven of Sand studies in France, patiently illustrates the author’s paradoxes in a work intended for the non-specialist reader. Writing with a male pseudonym and wearing breeches, Sand’s transgression was not a refutation of her femininity but stemmed from a desire to protect that femininity from the public eye. Despite her socialist leanings, advocacy for women’s rights and defence of the poor, Sand never embraced women’s suffrage—she worried women would be pawns of their husbands at the polls. Ms Reid’s writing is level-headed and concise, showing Sand’s engagement with contemporary issues and the way these interests found their way into her writing.
+
+In her fiction, Sand often returned to the idea of doubles and disguises to show that identity is pluralistic and changing. “Lélia” uses twin sisters with different outlooks to probe the meaning of freedom; “Isidora”, republished earlier this year, tells the tale of a woman both ingénue and whore. Ms Reid’s biography similarly emphasises Sand’s complexities, moving beyond the cliché of the errant woman to recuperate the author as a thinker. It keeps step with Sand’s wandering heroines, her radical utopias and fierce intellectual independence. Matthew Arnold’s prediction, made in 1876, that “the immense vibration of George Sand’s voice upon the ear of Europe will not soon die away” proved untimely. But it may have life yet. 

@@ -1,0 +1,27 @@
+An emoluments suit against Donald Trump gets the go-ahead
+
+The legal challenge focuses on the Trump International Hotel in Washington, DC
+
+https://cdn.static-economist.com/sites/default/files/20180728_USP504.jpg
+
+OF ALL his real-estate holdings, America’s president might be proudest of the Trump International Hotel (pictured), a luxury property located three-quarters of a mile from the White House. “With the notable exception of 1600 Pennsylvania Avenue,” he said at the hotel’s grand opening just before the 2016 election, “this is the most coveted piece of real estate in Washington, DC”. The $700 rooms and $100 cocktails at the Trump International brought $40m in profits to the Trump Organisation in 2017. They have also spurred a lawsuit claiming that the president is violating anti-corruption rules in America’s constitution.
+
+The so-called “emoluments” clauses, a federal judge in Maryland 
+
+ on July 25th, may preclude Mr Trump from reaping these earnings. In a 52-page ruling, Judge Peter Messitte had little patience for Mr Trump’s plea to dismiss 
+
+ one of three cases wending through the federal courts. Attorneys-general of Maryland and the District of Columbia argue that the constitution prohibits the president from boosting his net worth through the Trump International. The twin bans on emoluments, DC and Maryland say, were inserted into Articles I and II to ensure that chief executives have “undivided loyalty to the American people, and the American people only”. One provision says presidents may not receive any payment other than their official salary from the federal government or the states. The other bars federal officials from taking “any present, emolument, office or title, of any kind whatever” from “any king, prince or foreign state”. 
+
+Mr Trump’s violations of these rules, the attorneys-general contend, are blatant. In 2017, after cancelling plans at other hotels, the governments of Bahrain and Kuwait booked events at the Trump International. Saudi Arabia spent nearly $300,000 there while urging Congress to soften a law permitting Americans to sue state sponsors of terror. A contingent from Maine “patronised the hotel”, Mr Messitte wrote, while its governor was urging Mr Trump to take action affecting the state’s national monuments. There seem to be a host of instances, the judge found, in which both foreign and domestic customers opted to stay at Mr Trump’s sumptuous hotel “precisely because of the president’s association with it”. 
+
+In Mr Trump’s eyes, none of this is fishy under the constitution. The emoluments clauses do not even apply to him, an amicus brief argued, since presidents are elected and not, properly speaking, “officials” under those provisions. And even if the rules did apply, the concept of an “emolument” is quite narrow. Only if a president can be said to have performed a specific action as a direct result of receiving a payment, Mr Trump’s lawyers argued, do the emoluments clauses constrain him. In other words, a clear 
+
+—signing a treaty after receiving a bribe, say—is a no-no.  
+
+Embarking on a journey into obscure provisions of the constitution no other judge has trekked into since the document was ratified in 1791, Mr Messitte dealt with both arguments. Several sources including the 
+
+, he wrote, “overwhelmingly support the conclusion” that presidents are office holders “within the meaning of the foreign-emoluments clause”. And he criticised Mr Trump’s “cramped interpretation” of what counts as an emolument: if outright bribery was all the clauses barred they would be redundant. Another section of Article II “already addresses the crime of bribery”, he wrote, and makes it an impeachable offence. 
+
+An emolument need not be a direct payment for services rendered. Instead, Mr Messitte concluded, with a nod to a number of founding-era dictionaries, “‘emolument’ was commonly understood by the founding generation to encompass any ‘profit’, ‘gain’ or ‘advantage’”. So profiting from foreigners who patronise the president’s hotel may be unconstitutional whether they are trying to influence the president or not—and whether he rewards them or not. In the plaintiffs’ eyes, the anti-emolument principles represent “a prophylactic rule to prevent the slightest chance” that presidents will be compromised by foreign powers or state governors. When a president holds a luxury hotel, Mr Messitte asked, “how likely is it that he will not be swayed, whether consciously or subconsciously”, by “governments that might choose to spend large sums of money” there? America’s founders provided a simple solution to this conundrum: “[b]an the offerings altogether.”
+
+What happens next? Mr Trump’s lawyers may take their case to the Fourth Circuit Court of Appeals, asking it to dismiss the suit. The plaintiffs’ challenge rests on firmer ground than another emolument lawsuit in New York, which was dismissed for lack of standing in December. Mr Messitte’s analysis is strong. And even if Mr Trump is never ultimately ordered to sell his properties, the next stage of the legal proceedings could be interesting. With the path cleared for evidence-gathering, the attorneys-general may soon gain access to pages in the Trump Organisation’s books, records of the hotel’s foreign patrons and possibly even Mr Trump’s long-suppressed tax returns. 

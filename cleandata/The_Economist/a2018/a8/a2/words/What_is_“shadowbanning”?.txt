@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.2 Minutes", "wordsset": 251, "keywords": "Facebook,Shadowbanning,Twitter,feed,post,shadowban,shadowbanning,spammers", "toughwords": 32, "allwords": 371}
+
+Holocaust,adjudicate,algorithm,allegation,ally,altogether,bis,bot,castigate,censor,conservative,conspiracy,controversy,curtail,degrade,denial,dip,discriminatory,inauthentic,liberal,mollify,objectionable,prominent,reveal,sidestep,spammer,stance,suppress,transparency,trickier,troll,typical

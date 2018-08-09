@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.8 Minutes", "wordsset": 250, "keywords": "American,discriminatory,imports,industries,products,steel,taxes,trade", "toughwords": 43, "allwords": 360}
+
+Muffle,Narrow,Provision,Tariff,Uneven,beneath,beneficial,bully,complicate,consequence,deploy,discourage,discriminate,discriminatory,disruptive,distort,domestic,entrepreneur,erode,executive,fiddlier,fiscal,garner,harrumph,hurrah,infrastructure,liberally,lobby,miff,mutually,nudge,offset,perceive,productivity,protectionist,resemble,retaliatory,surge,tariff,temporary,valve,wedge

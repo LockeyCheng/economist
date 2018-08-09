@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.5 Minutes", "wordsset": 343, "keywords": "Egypt,EgyptAir,Egyptian,Flight,crash,flight,investigation,smoke", "toughwords": 53, "allwords": 535}
+
+Atlantic,Aviation,Cairo,GULLIVER,Gulliver,Shackle,Sheikh,Transportation,Unearth,aboard,absolve,activate,anecdote,asthmatic,attribute,aviation,avionic,blight,breach,carrier,closure,cockpit,consensus,constant,correspondent,credibility,defy,explosive,foremost,fuss,grudgingly,indicate,malicious,meekness,narrative,plunge,provision,rarity,regulator,resort,routine,snapshot,soot,stall,stance,stench,suicide,tamper,timid,toilet,unwillingness,waft,wreckage

@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.3 Minutes", "wordsset": 231, "keywords": "Ryanair,airline,cabin,cancellations,crew,delays,staff,unions", "toughwords": 26, "allwords": 348}
+
+Excessive,Hungary,Leary,abrasive,affordable,breakneck,buckle,bust,cabin,cancellation,discipline,executive,intransigent,nasty,punctuality,reasonable,recognition,redundancy,shortage,strike,tolerance,undercut,workforce

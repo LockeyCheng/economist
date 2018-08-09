@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.7 Minutes", "wordsset": 345, "keywords": "cis,consensus,gender,identity,imposed,participants,trans,transgender", "toughwords": 63, "allwords": 565}
+
+Cameron,Debbie,Deborah,Duffy,Feminist,Harrison,Hines,Kathleen,Kristina,Sally,Sara,Valentine,Vic,acquiesce,allocate,analogy,apparatus,assault,assert,biological,bristle,coinage,confine,consensus,constraint,criticism,disagreement,discrimination,distinct,enlighten,entrench,externally,feminine,femininity,feminist,foundation,ignorant,imply,indicate,intellect,inward,liberal,linguist,locate,minor,narrow,optimism,participant,patriarchy,pluralistic,prefix,profound,qualifier,rapprochement,robust,roil,shrugged,steppe,subservient,transgender,transition,underpaid

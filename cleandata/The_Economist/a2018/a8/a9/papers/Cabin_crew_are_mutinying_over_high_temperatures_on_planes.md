@@ -1,0 +1,19 @@
+Cabin crew are mutinying over high temperatures on planes
+
+Many passengers are sympathetic to their calls for more regulation
+
+https://cdn.static-economist.com/sites/default/files/20180811_WBP501.jpg
+
+The northern hemisphere is suffering from a historic heatwave that has caused droughts and wildfires. It is affecting business travellers too, in the form of flight cancellations. Worse, extreme temperatures pose a lethal danger to passengers. A major campaign by flight attendants across America seeks to address that.
+
+The Association of Flight Attendants-CWA, an American trade union representing 50,000 flight attendants at 20 airlines, held a news conference last week at Reagan National Airport in Washington, DC, to announce its push to get the Department of Transportation to regulate cabin temperatures. The group had already submitted a petition to the government, seeking upper and lower limits on plane temperatures. Currently, the cabin must be within 5 degrees Fahrenheit (around 2.8 degrees Celsius) of the cockpit, but there are no regulations governing the actual temperature.
+
+Not every passenger likes the same temperature level, but the issue has gained urgency following several cases in which extreme heat caused serious medical problems. The flight attendants’ union has collected a list of these stories, including one last June when a United Airlines plane on the tarmac in Denver got so hot that a baby turned bright red and was hospitalised. In another case, the cabin temperature hit 99 degrees Fahrenheit; in a third, a flight attendant blacked out from the heat.
+
+These instances are dangerous not only for passengers but also for cabin crew, who suffer extreme cabin temperatures far more regularly. “This is an issue of safety, health and security. If it’s too hot, people can become dizzy, unaware, suffer from heat stroke,” the union’s president, Sara Nelson, said at the press conference. “If it’s too cold, they can experience cold stress or even hypothermia.” Nelson said the agreed-upon industry standard for an acceptable temperature range is between 65 and 75 degrees Fahrenheit, or up to 85 degrees if all the in-flight entertainment screens are active.
+
+The airline industry, unsurprisingly, is resisting the push for regulation, and the government has yet to act on the petition. Meanwhile, flight attendants are busy collecting data. The union has distributed 60,000 keychain thermometers to cabin crews to track temperatures, and flight attendants are urging flyers to download a free app that monitors and reports extreme temperatures.
+
+This is the latest American push for more regulation to ensure comfort on planes, though others—like an effort to mandate a minimum distance between rows of seats—have gone nowhere. Even if this campaign succeeds, it will do nothing to mitigate extreme temperatures on planes elsewhere in the world, where conditions are sometimes far worse. Last month, a Thomas Cook flight was grounded at Zante Airport in Greece for three hours without air conditioning, and the cabin reportedly got so hot that passengers were vomiting and fainting. A month earlier, on a delayed AirAsia flight in India, the captain allegedly tried to force passengers off the plane by putting the air conditioning on full blast; viral videos showed passengers coughing and vomiting. 
+
+Sometimes, of course, it is aircraft malfunctions that cause extreme temperatures, and so regulation could lead to an increase in flight cancellations as planes would need to be fixed before they fly. But with each new incident of medical episodes caused by heat or cold onboard, there will surely be more travellers joining the flight attendants’ call for extra regulation.

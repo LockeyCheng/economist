@@ -1,0 +1,21 @@
+Why do people love “Love Island”?
+
+The reality-television show reveals an everyday, surprisingly conservative Britain often overlooked by a London-centric media
+
+https://cdn.static-economist.com/sites/default/files/20180728_BKP512.jpg
+
+NOT many dating shows inspire 7,400-word short stories in the 
+
+. John Lanchester’s effort was just one of a glut high-brow takes on “Love Island”, the determinedly low-brow hit show which came to an end last night. A cheap lump of programming designed to plug the gaps between repeats of “Family Guy” on ITV’s second channel has become an unlikely cultural phenomenon. Why?
+
+The concept of “Love Island” is simple. Dozens of young, attractive people are locked in a villa and told to couple up. Those who remain single are hoofed out, while viewers can vote off couples they do not like. The most popular couple wins £50,000 and the chance to spend the next few years as minor celebrities hawking weight-loss supplements on Instagram.
+
+“Love Island” takes the voyeurism of “Big Brother”, removes the elements of mild torture and any ugly people, and pours booze over what remains. It provides a brutal sociological snapshot of dating by pitting those normally at the top of the tree against one another. Alex, a perfectly attractive 27-year-old doctor, soon ran into trouble when he realised no one gave a solitary toss what he did for a living, especially when he was stood next to beautiful beings of vacant charisma. Contestants may be at times stunningly ignorant (“What’s an earlobe?” asked one) but the successful ones have emotional intelligence in spades.
+
+This simple show provides a canvas on which to project national neuroses and minor moral panics. First when it emerged that more young people had applied to go on the show than had applied to Oxbridge. Then about the lack of people of colour and whether it was fine to declare that your type was “mixed race”. There were accusations of ageism. A 29-year-old female contestant got together with a 20-year-old male, inspiring brutal mockery. (“Day 10 in the big brother house and Laura is fighting with her son Wes,” tweeted one viewer.) Between 9pm and 10pm each evening, Twitter is gummed up with brutal put-downs on the #LoveIsland hashtag, turning the site into the world’s bitchiest living room.
+
+Other reasons for the series’ appeal are more subtle. For a show that sometimes features people having sex on camera (albeit beneath a duvet cover) it is surprisingly conservative. It is entirely heteronormative: muscly men make moves on pretty girls. The groups divide by gender to gossip and plot. Plus, considering it features dozens of handsome people with little else to do, couples tend to wait a while before getting down to it. It is a typical dating show except with fewer clothes and no body hair. Fun and fornication for all (well, most) of the family.
+
+But the secret of its success lurks elsewhere. “Love Island” is one of the few programmes on British television not dominated by London. Britain’s capital is near-hegemonic when it comes to culture, with a disproportionate number of shows commissioned, set and presented by people in London. But like other programmes that capture the zeitgeist, such as “Gogglebox” or the early series of “Big Brother”, “Love Island” is unashamedly national. It is one of the few spaces in British cultural life where the regions get to shine. Contestants come from across the country. Londoners still make up the biggest contingent, but then it is Europe’s largest city and eight times the size of Birmingham. Most contestants are from smaller cities or towns so small they only bother mentioning a county. Indeed, the per-capita powerhouse of “Love Island” is Essex, the epicentre of suburban hedonism.
+
+Are the contestants typical of Britain? Absolutely not. These people have spent hours in the gym. They are suburban superstars: the pinnacle of a night out in the centre of any town or small city in Britain on a typical weekend. Now the show has ended for another year, this is where many will end up. Adam, a six-pack with a smirk, announced a 60-town nightclub tour taking him from Peterborough to Redcar via Walsall, soon after being booted off the island. People like “Love Island” because it looks like a Britain in which most people live, and one that is not seen enough.

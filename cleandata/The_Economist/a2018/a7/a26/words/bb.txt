@@ -1,0 +1,3 @@
+{"suggestedfocus": "11.5 Minutes", "wordsset": 304, "keywords": "Afrin,Kurdish,Kurds,Syria,Turkey,Turkish,YPG,city", "toughwords": 49, "allwords": 466}
+
+Damascus,Insurgent,Islamic,Islamist,Kurdish,Kurdistan,Loot,Resident,Turk,ally,annex,bitten,chafe,civilian,clash,collision,correspondent,diplomat,disarm,escalation,fetch,fought,gratitude,incursion,insurgency,insurgent,loot,magnet,merchant,militant,misery,mythical,ordinate,patrol,peddle,pledge,plunder,prospect,rebel,resident,resurgence,statue,suburb,warplane,withdraw,wrought

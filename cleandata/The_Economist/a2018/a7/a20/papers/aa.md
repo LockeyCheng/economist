@@ -1,0 +1,20 @@
+At any given time in their lives, people have two dozen regular haunts
+
+Oh, the places you’ll go!
+
+https://www.economist.com/sites/default/files/imagecache/640-width/images/2018/06/articles/main/20180630_STP001.jpg
+
+
+WHEN it comes to habitat, human beings are creatures of habit. It has been known for a long time that, whether his habitat is a village, a city or, for real globe-trotters, the planet itself, an individual person generally visits the same places regularly. The details, though, have been surprisingly obscure. Now, thanks to an analysis of data collected from 40,000 smartphone users around the world, a new property of humanity’s locomotive habits has been revealed.
+
+It turns out that someone’s “location capacity”, the number of places which he or she visits regularly, remains constant over periods of months and years. What constitutes a “place” depends on what distance between two places makes them separate. But analysing movement patterns helps illuminate the distinction and the researchers found that the average location capacity was 25. If a new location does make its way into the set of places an individual tends to visit, an old one drops out in response. People do not, in other words, gather places like collector cards. Rather, they cycle through them. Their geographical behaviour is limited and predictable, not footloose and fancy-free.
+
+The study demonstrating this, just published in Nature Human Behaviour, does not offer any explanation for the limited location capacity it measures. But a statistical analysis carried out by the authors shows that it cannot be explained solely by constraints on time. Some other factor is at work. One of the researchers, Sune Lehmann of the Technical University of Denmark, draws an analogy. He suggests that people’s cognitive capacity limits the number of places they can visit routinely, just as it limits the number of other people an individual can routinely socialise with. That socialisation figure, about 150 for most people, is known as the Dunbar number, after its discoverer, Robin Dunbar.
+
+Dr Lehmann says he expects that the group’s finding will inform urban planning and be useful in predicting human behaviour more generally. Understanding the nature of restricted location capacity might be of particular use to advertisers. On seeing someone start to spend a lot of time in a new place, an advertiser might reasonably assume that the person in question was now in the market for new services in that area. Dr Lehmann says he is unsure whether Facebook and Google, the most obvious beneficiaries of this insight, are, as yet, aware of it.
+
+The group’s findings also show the importance of a new scientific instrument: in this case, the smartphone. Such phones, now ubiquitous in the rich world, mean many human beings have, in essence, voluntarily radio-collared themselves. That gives social scientists (who might reasonably relabel themselves as “human zoologists” in this case) a new and affordable lens through which to study their subjects.
+
+The bulk of the data Dr Lehmann used came from an app called Lifelog, a phone-based activity tracker developed by Sony, an electronics firm. About 36,000 people contributed in this way. The other 4,000 were monitored through behaviour-tracking programmes at several universities. All these sets of data show the same pattern of 25 preferred locations.
+
+As with Dr Dunbar’s work, which showed predictable, nested circles of acquaintances, so Dr Lehmann and his colleagues found several levels of location capacity—meaning that the number of places where people spend just a few minutes a week is just as predictable as the number where they spend dozens of hours. Dr Lehmann says his group is now in search of similar data from other primates, in an attempt to work out where human patterns of mobility have their roots. For those, though, they will have to rely on old-fashioned methods of zoological observation—unless they can work out a way to get chimpanzees to carry smartphones.

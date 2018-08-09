@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.5 Minutes", "wordsset": 304, "keywords": "WMO,conditions,definition,heat,residents,temperature,vary,weather", "toughwords": 33, "allwords": 456}
+
+Belgium,Creek,Furnace,Londoner,Meteorological,arid,authoritative,clime,cooler,criteria,downright,dye,frequency,humidity,inability,interior,invasion,killer,lethal,logical,menace,outrage,phenomenon,policymaker,precision,resident,sweat,tailor,thermal,threshold,universal,variable,warrant

@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.14 Minutes", "wordsset": 266, "keywords": "Arab,Gulf,business,countries,government,innovation,oil,technological", "toughwords": 28, "allwords": 399}
+
+Cornell,Emirate,Kuwait,category,comparably,construct,consumption,distribute,domestic,electricity,extract,facilitate,indication,indices,infrastructure,innovative,lag,patent,productivity,prosperity,scientific,societal,sophistication,stability,strike,unsustainable,variety,wean

@@ -1,0 +1,3 @@
+{"suggestedfocus": "11.1 Minutes", "wordsset": 348, "keywords": "Sweden,countries,country,neighbours,road,switch,switched,traffic", "toughwords": 51, "allwords": 585}
+
+Collision,Colonial,Czechoslovakia,Ghana,Hitler,Napoleon,Norton,Robespierre,Samoa,Swede,Swedish,Swordsmen,accelerate,advent,aristocrat,cement,clutches,conform,connotation,conquer,consequently,continental,countdown,domain,enforce,enthusiastic,foe,intersection,lure,motor,motorist,overtake,possession,pure,rejigged,repaint,retain,revise,revolutionary,speculate,speculation,strike,stuck,sword,swordsmen,tendency,tilt,trundle,wagon,whip,wield

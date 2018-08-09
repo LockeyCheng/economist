@@ -1,0 +1,3 @@
+{"suggestedfocus": "12.6 Minutes", "wordsset": 365, "keywords": "Kindler,Netflix,Seinfeld,bust,channels,clubs,network,streaming", "toughwords": 60, "allwords": 563}
+
+Cable,Caroline,Comedy,Cosby,HBO,Lineup,MTV,Montreal,Nowadays,Ricky,Rita,Seinfeld,accelerate,annex,announcement,assume,astonishingly,behemoth,binge,blockbuster,buck,bust,cagey,cocaine,comedy,contract,desperate,destine,episode,equivalent,executive,exorbitant,expenditure,glut,household,implicate,monopoly,outspend,precipitate,profitable,quip,quipped,replicate,respectively,ridden,schedule,segment,sentiment,sitcom,slot,spectacular,stump,unprecedented,usage,variety,veteran,worthwhile,wrought

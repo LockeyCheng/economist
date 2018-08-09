@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.8 Minutes", "wordsset": 301, "keywords": "American,Boston,British,Congress,Patriots,Revolution,colonial,war", "toughwords": 68, "allwords": 525}
+
+Charleston,Colonial,Concord,Continental,Cornwallis,Crown,Englishmen,Harbor,Lexington,Loyalism,Loyalist,Massacre,Navy,Parliament,Patriot,Provincial,Revolutionary,Rhode,Senate,Tory,Yorktown,ally,aristocracy,assume,bicameral,blockade,civilian,colonial,colonist,consignment,coordinate,duration,enlist,erupt,escalate,executive,fought,harbor,infringe,invade,judiciary,legislative,liberalism,militia,monarchy,navy,philosophy,possession,proclaim,profess,rally,redcoat,represent,representation,republicanism,rescind,retain,revolt,strategic,suppress,taxation,territory,tyrannical,unsuccessfully,volunteer

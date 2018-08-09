@@ -10,6 +10,7 @@ from sys import argv
 
 paperRecords = {}
 
+aa = re.compile(r'<a\s*href="[^"]*"[^>]*>')
 headers = {'Accept':'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8','User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',}
 
 def getEP(url):
@@ -17,9 +18,12 @@ def getEP(url):
     try:
         response = urllib.request.urlopen(req)
         html = response.read()
+        html = html.decode('utf-8')
+        html = re.sub('</a>|<block>|</block>|<em>|</em>|<em class="bold">|<strong>|</strong>|<blockquote>|</blockquote>', " ",html)
+        html = re.sub(aa,' ',html)
         pout = []
         hout = []
-        selector = etree.HTML(html.decode('utf-8'))
+        selector = etree.HTML(html)
         headline = '//h1[@class="flytitle-and-title__body"]'
         head = selector.xpath(headline)
         for item in head:

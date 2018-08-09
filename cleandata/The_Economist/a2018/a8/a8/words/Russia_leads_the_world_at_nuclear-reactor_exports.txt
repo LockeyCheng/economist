@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.53 Minutes", "wordsset": 202, "keywords": "China,Rosatom,Russia,competitor,electricity,industry,nuclear,reactor", "toughwords": 27, "allwords": 320}
+
+Argentina,Bangladesh,Hungary,Westinghouse,backlash,bankruptcy,completion,curtail,devastate,doldrums,domestic,dominate,electricity,emerge,endure,engulf,entwine,hopelessly,insure,meltdown,plunge,reactor,sober,trail,tsunami,ultimately

@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.0 Minutes", "wordsset": 299, "keywords": "England,agreed,authorities,education,faith,government,pupils,religious", "toughwords": 45, "allwords": 463}
+
+Babel,Catholic,Clarke,Secular,Theresa,advisory,allocate,bass,cacophony,category,clarify,commonplace,compulsory,concession,confessional,confuse,controversial,council,criterion,curriculum,deferential,disintegrate,distinction,essentially,establishment,humanism,influential,introvert,oppose,oversee,pledge,privilege,propose,purview,represent,respondent,retort,secular,secularist,sociology,spiritual,supplement,voluntary,withdraw,yardstick

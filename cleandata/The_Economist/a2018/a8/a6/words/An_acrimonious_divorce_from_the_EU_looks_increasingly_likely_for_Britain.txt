@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.6 Minutes", "wordsset": 219, "keywords": "Brexit,Britain,country,option,referendum,summer,vote,winner", "toughwords": 31, "allwords": 323}
+
+Emerson,Mr,Theresa,absolute,acrimonious,aggregate,altogether,cabinet,coaster,conspicuously,crown,democratic,divorce,electorate,faculty,jolt,merit,momentous,negotiation,preference,pure,referendum,sample,simplest,sketch,stockpile,swelter,tally,twist,viable,wane

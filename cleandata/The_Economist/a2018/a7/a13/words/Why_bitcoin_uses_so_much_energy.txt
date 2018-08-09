@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.1 Minutes", "wordsset": 358, "keywords": "bitcoin,consumption,cryptocurrency,electricity,energy,roughly,solution,stake", "toughwords": 42, "allwords": 550}
+
+Alex,algorithmic,bass,coinage,comprise,computation,computational,compute,constant,constrain,consumption,continually,efficiency,electricity,electronically,gigawatt,grid,hydroelectric,immutable,installation,ledger,liquidity,magnitude,miner,mint,oblige,obsolete,profitable,putative,puzzle,server,simultaneously,specialist,straightaway,supersede,transaction,upgrade,usage,utility,valuable,volatile
