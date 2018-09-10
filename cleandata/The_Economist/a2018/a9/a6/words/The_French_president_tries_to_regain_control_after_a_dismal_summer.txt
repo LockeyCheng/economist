@@ -1,0 +1,3 @@
+{"suggestedfocus": "11.9 Minutes", "wordsset": 374, "keywords": "France,Hulot,Macron,government,political,poll,president,summer", "toughwords": 50, "allwords": 563}
+
+Assembly,Bruno,Jupiter,Laurent,Parliament,Rally,Socialist,abruptly,aide,approve,arrears,attractive,bodyguard,campaigner,complex,convert,deduct,deplore,dismal,dismay,disruption,domestic,drift,emerge,feeble,fringe,haughtiness,hesitation,judgment,moderate,momentum,murky,outspoken,parliament,presenter,protester,referendum,regain,regal,reshuffle,robust,rump,strangest,strike,stuck,suck,threshold,undeterred,vest

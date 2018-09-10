@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.2 Minutes", "wordsset": 190, "keywords": "America,bear,bull,drop,history,index,least,low", "toughwords": 29, "allwords": 262}
+
+Fisher,Goldman,Sacs,bass,boatload,breaker,bubble,bubbly,commentator,correction,curiously,cyclically,dispute,fourfold,fret,imminent,indices,inflation,joyless,milestone,negative,overvalue,steadiness,stimulus,territory,threshold,unloved,vim,volatility

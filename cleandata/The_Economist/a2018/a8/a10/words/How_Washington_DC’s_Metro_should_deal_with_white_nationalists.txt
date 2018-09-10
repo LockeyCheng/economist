@@ -1,0 +1,3 @@
+{"suggestedfocus": "11.1 Minutes", "wordsset": 313, "keywords": "Unite,Washington,airlines,city,demonstration,services,train,transport", "toughwords": 45, "allwords": 513}
+
+Delta,Frontier,Jeremy,Metro,Segregation,Unite,abhorrent,abound,accommodation,backlash,carriage,clashes,controversial,demonstration,demonstrator,dilemma,envision,facilitate,fatality,firestorm,hoot,implausibly,liberal,luxury,nationalist,outcry,outrage,overwhelmingly,proposal,propose,prospect,racially,rally,reintroduce,represent,reunify,scrapped,suburb,thorniest,unacceptable,undocumented,violent,wade

@@ -1,0 +1,3 @@
+{"suggestedfocus": "12.6 Minutes", "wordsset": 360, "keywords": "Affirmative,Britain,action,affirmative,argument,equal,meritocracy,policy", "toughwords": 50, "allwords": 547}
+
+Affirmation,Affirmative,Lena,Mona,affirmative,alumni,applicant,belittlement,beneficiary,campaigner,commendable,diminish,disable,disadvantage,discrimination,dismiss,disservice,diversity,dominate,enhance,erect,ethnic,expediency,inequality,intake,intervention,meritocracy,meritocratic,parliamentary,philosophy,preferable,profession,quota,racial,remedy,representation,resentment,restorative,scrapped,senior,sensible,shortlist,speedier,structural,trustee,unanimous,underrepresented,withdraw,yield

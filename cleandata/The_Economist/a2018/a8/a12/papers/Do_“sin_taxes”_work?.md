@@ -1,0 +1,11 @@
+Do “sin taxes” work?
+
+And are they fair?
+
+https://cdn.static-economist.com/sites/default/files/20180811_BLP511.jpg
+
+MANY goverrments use “sin taxes” to dissuade people from smoking and drinking alcohol. In recent years, some lawmakers have turned their cross-hairs to a different vice: sugar. Obesity is on the rise all across the world. Forty per cent of Americans today are obese, up from around 15% in 1980. Several countries, along with a handful of American cities, have introduced taxes on sugary drinks in recent years. Their governments hope that these levies will both raise revenues and reduce how much sugar people consume. But do sin taxes even work?
+
+But if there is a problem with sin taxes, it is not that they are ineffective. Rather, it is that they are inefficient. Sin taxes are blunt policy instruments. People who only have the occasional drink are not taking on any great health risks, yet they are taxed no differently than serious alcoholics. A similar logic applies for sugar taxes. Tobacco presents a slightly different problem. Nicotine is highly addictive, meaning that there are relatively few people who smoke cigarettes only occasionally.
+
+It is easiest to justify taxes on particular goods when they present what economists call “negative externalities”. When a driver buys fuel for his car, both he and the petrol station benefit. Yet cars emit carbon dioxide in their wake, which suggests that it would be only fair for drivers to pay taxes to offset the environmental damage they cause. Some policymakers argue that people who engage in unhealthy habits also impose negative externalities, since they tend to present taxpayers with bigger medical bills. In practice, however, these costs tend to be overstated. While obese people probably do present net costs to governments, smokers tend to die earlier, meaning that they probably save governments money since they draw less from state pensions. Policymakers should still consider implementing sin taxes if they intend to intervene to change individuals’ behaviour. But they should be aware that the bulk of the damage that smokers, drinkers and the obese do is to themselves, and not to others.

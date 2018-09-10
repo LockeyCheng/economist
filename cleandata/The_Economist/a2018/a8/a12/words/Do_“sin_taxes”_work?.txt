@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.54 Minutes", "wordsset": 199, "keywords": "externalities,fair,governments,negative,obese,sin,sugar,taxes", "toughwords": 27, "allwords": 297}
+
+Nicotine,Obesity,Policymaker,Tobacco,addictive,alcohol,alcoholic,blunt,bulk,dioxide,dissuade,easiest,emit,implement,ineffective,inefficient,instrument,intervene,negative,obese,occasional,occasionally,offset,overstate,petrol,policymaker,sugary

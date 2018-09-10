@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.83 Minutes", "wordsset": 236, "keywords": "China,Chinese,Mao,Shanghai,country,elderly,government,universities", "toughwords": 25, "allwords": 362}
+
+Confucian,Confucius,approve,astronomical,cadre,cohort,county,cropped,demographic,discipline,enroll,idiom,imbalance,lifelong,loneliness,lottery,phenomenon,practical,pursuit,senior,shortage,suicide,veteran,virtue

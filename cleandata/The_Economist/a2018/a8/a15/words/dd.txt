@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.9 Minutes", "wordsset": 346, "keywords": "EAGLE,Koepka,Woods,chance,par,probability,stroke,tournament", "toughwords": 55, "allwords": 632}
+
+Brook,EAGLE,Nicklaus,Trophy,Wanamaker,assign,birdie,bogey,correspond,dash,daunt,demonstrate,drain,elite,emphatically,estimation,fairway,gasp,golfer,heel,imitation,impressive,incarnation,indefinitely,legitimate,lone,lurk,mightily,narrow,naysayer,notch,possession,remarkable,retain,rivet,robust,scar,sizzle,sniff,sole,spectator,stave,stroke,superior,surgery,suspense,sync,tee,tournament,trophy,tumble,vault,victor,vintage

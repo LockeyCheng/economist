@@ -1,0 +1,3 @@
+{"suggestedfocus": "11.2 Minutes", "wordsset": 313, "keywords": "Abbott,Australia,Labor,Rudd,Turnbull,election,popularity,vote", "toughwords": 51, "allwords": 469}
+
+Abbott,Liberal,Malcolm,Morrison,Shorten,ascribe,bloc,brutally,churn,cohort,compulsory,conservative,counterproductive,deliberation,deputy,dominate,estimate,foment,forth,insecurity,installation,menagerie,minor,moderate,neuter,parliamentary,peculiarity,petition,plummet,precedent,precipitate,preoccupation,profess,prompt,proportional,prosperous,rebel,recession,representation,senate,substance,successor,sworn,topple,treasurer,unchallenged,underscore,upheaval,vendetta

@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.9 Minutes", "wordsset": 216, "keywords": "cities,data,desirable,fundamentals,housing,index,inflation,property", "toughwords": 32, "allwords": 303}
+
+Auckland,Recession,albeit,bass,benchmark,cramp,desirable,downturn,dynamic,foreshadow,froth,fundamental,heady,household,inflation,interactive,lodge,median,metropolitan,mortgage,outlandish,outstrip,precipitously,prospective,recession,residential,speculative,substantially,surpass,typical,unsustainable,unthinkable

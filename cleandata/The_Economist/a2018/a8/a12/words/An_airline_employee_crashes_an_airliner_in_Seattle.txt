@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.3 Minutes", "wordsset": 216, "keywords": "Flight,Seattle,airline,controllers,crashes,employee,pilot,traffic", "toughwords": 33, "allwords": 295}
+
+Horizon,Mozambique,Seattle,Tacoma,Urgent,acrobatic,aerial,affiliate,airliner,assistance,aviation,barrel,benign,bizarre,casualty,catastrophe,compassion,compose,controller,defy,deliberate,footage,intervention,motive,prospect,remarkable,rogue,runway,sardonic,suicidal,turboprop,whisker,whisper

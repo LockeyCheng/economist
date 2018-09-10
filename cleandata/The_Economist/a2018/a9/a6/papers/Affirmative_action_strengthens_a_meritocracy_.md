@@ -1,0 +1,23 @@
+Affirmative action strengthens a meritocracy 
+
+The status quo already favours certain groups, argues Lewis Iwu, a campaigner
+
+https://cdn.static-economist.com/sites/default/files/20180908_OPP504.jpg
+
+  This article is part of a debate on affirmative action this week. Click here to join the debate:  Should affirmative action be scrapped?   
+
+Women, the disabled, and racial and religious minorities are still underrepresented in Western democracies. After decades of talking about the importance of opportunity for all, men and Caucasians still dominate the best universities, boards of the largest companies, the legal profession, the media and politics. Men are significantly more likely than women to occupy senior-management roles in a company. In Britain only 6.3% of trustees in the largest charities are from black, Asian or minority ethnic backgrounds. Students who qualify for free school meals are significantly underrepresented at Britain’s top academic institutions.
+
+Change is happening: under a new annual reporting requirement, employers in Britain with 250 workers or more now have to publish the difference between the average pay of their male and female employees. Some Oxbridge alumni are now threatening to withdraw their financial support for their former colleges unless they commit to increasing the number of black students they admit. The Future World GIRL Fund, established by Legal and General, a financial-services company, invests in companies based on how they score on gender diversity. But though these steps may bring attention to the issue, affirmative action—the policy of providing opportunities to members of groups that have historically faced (or still face) discrimination—should also be considered.
+
+First, affirmative action actually strengths an organisation’s claim to be meritocratic. The status quo already favours certain people. The structural barriers that were erected against marginalised groups, such as not being able to vote, work in many professions or enter university, have contributed to the inequality that we see today. The philosophy underpinning a sensible affirmative-action policy should be that of restorative justice. 
+
+The second argument is expediency. Affirmative action is not always necessary, or the best way to achieve equal representation. However, it is the quickest. Alternative strategies can take years or even decades to create institutions that truly reflect the societies they serve. It is unfair to tell those who have already faced discrimination that they have to wait longer until they can finally have an equal shot at success. At Oxford University, the number of successful applicants identifying as black has risen from 1.1% in 2013 to 1.9% in 2017. That is commendable progress, but it is shocking that one in three Oxford colleges failed to admit a single black British A-level student in 2015. Affirmative action could be a speedier remedy.
+
+What about the argument that affirmative action reduces quality? The evidence doesn’t support this. The work of Mary Nugent and Mona Lena Krook found that rather than diminishing the quality of the intake of politicians in Britain, the Labour Party’s all-women shortlists (AWS) have led to the selection of high-calibre candidates who are much more engaged, for instance, by asking more parliamentary questions, than their non-AWS colleagues.
+
+Another common argument against quotas is that they are patronising to the very groups they aim to help. Again, if affirmative action is framed as a push towards a more meritocratic playing field, rather than a leg-up above it, it needn’t cause resentment and feelings of belittlement. Of course, there might be circumstances where there is almost unanimous agreement amongst a group of potential beneficiaries that an affirmative-action policy would do them a disservice. In that situation, a different type of policy might be preferable.
+
+Affirmation policies are never perfect, but then again very few policies are. In the absence of an effective intervention that could yield results quickly, it would be foolish to dismiss affirmative action because it runs counter to the idea of a meritocracy. That argument is flawed. These policies can enhance meritocracy by allowing talented people from disadvantaged backgrounds to have an equal shot at success.
+
+ Lewis Iwu founded the Fair Education Alliance, which campaigns to improve equality in the education system. 

@@ -49,8 +49,6 @@ def genPaper(spidJson,origMd,genJson,nextPaper,fileName):
             lineno += 1
             if line.startswith('https://'):
                 paperStatistics['img'] = line
-                newLine = "![{}]({})".format(paperTitle[0:-1],line[0:-1])
-                result.append(newLine)
                 continue
             newLine = line
             for key in keys:
@@ -114,7 +112,7 @@ def genPaper(spidJson,origMd,genJson,nextPaper,fileName):
                         newLine = re.sub(word, span, newLine, flags=re.IGNORECASE)
                         continue
             
-            result.append(newLine)
+            result.append('<p>'+newLine+'</p>')
 
         resultStr = ' '.join(result)
 #time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time()))
@@ -122,7 +120,7 @@ def genPaper(spidJson,origMd,genJson,nextPaper,fileName):
         paperStatistics['date'] = genDate
         paperStatistics['link'] = fileName
         latestPapers['papers'].append(paperStatistics)
-        article={'date':genDate,'content':resultStr,'last':lastPaper,'next':nextPaper,'assistent':dic,'title':paperTitle,'paperStatistics':paperStatistics}
+        article={'Date':genDate,'content':resultStr,'Last':lastPaper,'Next':nextPaper,'assistent':dic,'Title':paperTitle,'paperStatistics':paperStatistics}
         with open(genJson,'w') as fj:
             json.dump(article,fj)
 
@@ -203,7 +201,7 @@ if __name__ == '__main__':
             genPaper(pp[1],pp[0],genjsonPath+title,nextPaper,title)
             records['lastPaper'] = title
             paperId = str(intY)+str(intM)+str(intD)+str(todayPush+1)
-            link = 'https://lockeycheng.github.io/iooi/index.html?paper={}'.format(paperId)
+            link = 'https://lockeycheng.github.io/iledu/article.html?paper={}'.format(paperId)
             print(link)
             img = qrcode.make(link)
             linkTitle = '{}_{}_{}_{}'.format(toYear,toMonth,toDay,todayPush+1)

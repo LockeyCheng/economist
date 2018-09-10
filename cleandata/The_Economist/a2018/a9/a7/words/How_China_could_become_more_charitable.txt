@@ -1,0 +1,3 @@
+{"suggestedfocus": "11.9 Minutes", "wordsset": 386, "keywords": "China,Chinese,Communist,NGOs,charitable,charities,countries,country", "toughwords": 35, "allwords": 636}
+
+Foundation,Maoist,affordable,authoritarian,billionaire,capitalist,charitable,clinic,cope,destitute,disable,disadvantage,discourage,donation,extremism,flung,fuss,homeless,insistent,officialdom,optimism,persistent,philanthropic,richer,satellite,schoolchild,shortage,slogan,spook,starve,strain,survival,tune,upheaval,wary

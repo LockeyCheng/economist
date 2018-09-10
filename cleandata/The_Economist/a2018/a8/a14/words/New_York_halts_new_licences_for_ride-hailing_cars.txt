@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.55 Minutes", "wordsset": 200, "keywords": "Manhattan,Uber,city,congestion,journeys,reduce,taxi,traffic", "toughwords": 26, "allwords": 311}
+
+Congestion,HAILING,NYC,Schneider,Stockholm,Technocrat,Todd,alleviate,approve,borough,collate,congestion,council,dweller,hail,implement,midtown,moratorium,nudge,oppose,prospect,scarce,surcharge,temper,vehicle

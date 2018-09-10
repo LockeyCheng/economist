@@ -1,0 +1,3 @@
+{"suggestedfocus": "12.0 Minutes", "wordsset": 323, "keywords": "Chicago,Emanuel,city,election,police,politics,violence,voters", "toughwords": 54, "allwords": 467}
+
+Democratic,Dick,Emanuel,Illinois,Lori,MacDonald,Mayoral,Moore,Natalie,abrasive,aftermath,analyses,approval,ascendant,awkward,beholden,belatedly,bode,brusque,centrism,centrist,comfortably,dismal,disturbingly,dominate,donor,execution,fighter,footage,grim,humiliate,indispensable,meek,mishandle,opponent,outsider,overwhelmingly,perceive,perception,pragmatic,profile,relevance,renown,resident,resolutely,rotten,segregate,speculate,successor,testimony,uncharacteristically,ward,weary

@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.1 Minutes", "wordsset": 185, "keywords": "Australian,Facebook,Zuckerberg,drop,media,meeting,publishers,traffic", "toughwords": 23, "allwords": 276}
+
+Campbell,affiliate,allegedly,anchor,anonymity,concession,dime,dye,executive,inaccurate,journalism,leeway,metric,pivot,presidential,priority,quote,recruit,remark,scorn,stem,thrive,valuable

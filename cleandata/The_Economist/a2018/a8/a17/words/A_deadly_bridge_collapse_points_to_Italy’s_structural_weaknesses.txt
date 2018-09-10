@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.9 Minutes", "wordsset": 218, "keywords": "Genoa,Italy,bridge,collapse,government,infrastructure,motorway,river", "toughwords": 44, "allwords": 309}
+
+Genoa,Infrastructure,NIMBY,Venezuela,batter,bypass,coalition,concrete,crack,deck,deficit,deflect,denial,denounce,designer,encase,fairy,franchise,infrastructure,innately,interior,lecturer,motorist,motorway,nightmare,opponent,oppose,patch,pillar,plunge,populist,publicity,rally,relieve,revoke,ridicule,struck,structural,vehemently,vehicle,warehouse

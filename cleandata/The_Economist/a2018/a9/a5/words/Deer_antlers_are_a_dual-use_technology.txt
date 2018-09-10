@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.6 Minutes", "wordsset": 288, "keywords": "Yellowstone,antlers,attacked,deer,elk,male,rutting,wolves", "toughwords": 36, "allwords": 475}
+
+Antler,Darwinian,Ecology,Evolution,Montana,Yellowstone,antler,bony,conundrum,correspondent,deterrent,dispose,dual,elk,encounter,encumbrance,endow,entail,equivalent,evolutionary,fend,genetically,moose,nutritional,plausible,predator,retain,rut,selectively,shed,shenanigan,skeleton,spectacular,typically,wolves

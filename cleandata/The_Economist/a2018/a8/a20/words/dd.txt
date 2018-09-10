@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.9 Minutes", "wordsset": 292, "keywords": "Manigault,Newman,Trump,author,cobra,flail,president,starfish", "toughwords": 42, "allwords": 469}
+
+Apprentice,Newman,Sean,accuracy,assert,authentically,autobiography,baffle,befit,betray,blurb,cataclysm,cataclysmic,cobra,craze,craziness,creature,cult,delusional,directive,disapprove,elusive,empathy,estimate,expertise,extraordinarily,flail,impair,leaven,lowlife,mentor,modesty,narcissism,pathetic,peculiar,presentation,prose,remark,salacious,sensitive,stability,starfish

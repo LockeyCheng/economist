@@ -1,0 +1,23 @@
+How China could become more charitable
+
+The Communist Party must give do-gooders more freedom
+
+https://cdn.static-economist.com/sites/default/files/images/2018/09/articles/main/20180908_cnp501.jpg
+
+“THE Communist Party is like the sun,” goes a Maoist song, once known to every schoolchild in China (the tune was played from China’s first satellite, launched in 1970. “Wherever it shines, there is brightness.” And as with the sun, life was supposed to depend on it. Only capitalist countries needed charities to help their governments look after the disadvantaged. In China, the party provided everything.
+
+That, at any rate, was the theory. In practice, under Mao, millions starved to death while officials looked the other way. Instead of being helped, those who complained about their lot were often flung into labour camps. And there was no one except for the party to whom they could turn. Religious groups, which in pre-communist days had played a leading role in helping China’s destitute, were banned.
+
+Since the late 1970s, so much has changed. The party has become far less insistent that it can do everything by itself. It even accepts that religions can play their part. And the country has become much richer. Many people can now afford to give more. So why does the Charities Aid Foundation, a British NGO, rank China 138th out of 139 countries based on the willingness of its people to offer time or money to good causes ( see China section )? Why, even though there are four times as many people in China than in America, do Chinese give only about 5% as much as Americans to charity? The problem is not with Chinese people themselves. It is with the party.
+
+ We help with WeChat
+
+ There are some reasons for optimism. The country now has more than 800,000 registered “social organisations”, more than five times as many as there were in 2000. Many of them are involved in charitable work, whether helping the elderly or disabled, or running schools and clinics in poor areas. Two years ago China introduced a charities law that allowed firms to claim tax relief on charitable donations, and made it simpler for NGOs to raise funds. China’s many billionaires are growing more philanthropic. The young are giving more, too, helped by the ease of making small donations by mobile phone.
+
+But the party is spooked by the role played by NGOs in upheavals in authoritarian countries elsewhere, such as during the Arab spring of 2011. The lesson it has drawn is that NGOs should be tightly controlled. Strict limits on the amount charities may spend on themselves look designed to stop them getting big enough to put pressure on officialdom. The party discourages them from campaigning for causes: a slogan such as “help the homeless” could raise questions about government failings. In the absence of persistent, large-scale efforts to remind the public that people need helping, it is not surprising that citizens do not give more. A law that took effect last year makes it harder for NGOs to take money from abroad.
+
+China’s leader, Xi Jinping, has been especially wary of NGOs since he took over in 2012. He has stepped up efforts to install party cells in them. Those who raise a fuss about the rights of factory workers, gay people or abused women can expect the police to come knocking. Mr Xi is also no fan of religion. In the far western region of Xinjiang in recent months, hundreds of thousands of people have been rounded up and put in camps. The purpose is supposedly to teach them about the dangers of religious extremism. In practice this often involves telling them that their faith itself is bad.
+
+It is easy to understand Mr Xi’s thinking. Many people are growing rich but many others are left behind. The economy is losing steam. The country faces huge environmental challenges: smog, polluted rivers and growing water shortages across huge areas. A rapidly ageing population puts ever greater strain on families and the health-care system. As Mr Xi sees it, tight control is the best way to ensure the party’s survival.
+
+But he should also consider this. Those very problems he sees everywhere around him are ones that charities can play a big role in helping people to cope with. Bigger, better-funded charities could run affordable homes for the elderly and provide training for workers laid off by factories. Allowing NGOs more freedom to speak up for the poor and weak could help the party find ways of solving their problems. In the years ahead the party will find the going tough no matter what. There is no need to make life harder for Chinese people by making it difficult for them to help each other.

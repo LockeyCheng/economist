@@ -1,0 +1,3 @@
+{"suggestedfocus": "11.2 Minutes", "wordsset": 311, "keywords": "France,Italy,Trump,anti,authority,medical,vaccination,vaccine", "toughwords": 53, "allwords": 465}
+
+Conspiracy,Lancet,Rally,Vaccine,allege,attractive,autism,centrist,coalition,combat,compliant,compulsory,conservative,conspiracy,contentious,convert,crossover,disgrace,eradicate,exclusive,flirt,fudge,inauguration,incidence,incompetence,invitation,mandatory,measles,misstep,mistrust,oppose,outbreak,overturn,payroll,populist,presidential,pseudoscience,punitive,reckon,retract,severity,slogan,vaccinate,vaccination,vaccine,validation,vocal

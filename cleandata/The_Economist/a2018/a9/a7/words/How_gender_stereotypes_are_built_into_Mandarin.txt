@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.9 Minutes", "wordsset": 277, "keywords": "Chinese,Mandarin,character,female,gender,language,radical,stereotypes", "toughwords": 51, "allwords": 456}
+
+Mandarin,Phonetic,abolish,amend,ascribe,assign,associate,bis,clasp,clue,component,connotation,convey,curator,depict,derive,feminine,grammar,grammarian,grammatical,ignite,illicit,inaudible,ironically,jealousy,linguist,masculine,mull,negative,noun,paragraph,persist,phrase,propose,quieter,radical,reference,represent,roof,semantic,stereotype,suspicion,tongue,typically,typographer,universal,vein

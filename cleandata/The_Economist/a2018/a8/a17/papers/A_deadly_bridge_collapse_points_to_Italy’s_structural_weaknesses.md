@@ -1,0 +1,13 @@
+A deadly bridge collapse points to Italy’s structural weaknesses
+
+Infrastructure is ageing, and the government is split
+
+https://cdn.static-economist.com/sites/default/files/images/2018/08/articles/main/20180818_eup502.jpg
+
+IT WAS the stuff of motorists’ nightmares: on August 14th, a pillar supporting a bridge over the Polcevera river in Genoa collapsed. Three heavy vehicles and up to 35 cars plunged 45 metres from the A10 motorway into the river bed and onto nearby warehouses. As 
+
+Why did it happen? Like many bridges in Europe and America, this one was old: it dated from 1967. It had been stressed by ever-heavier vehicle loads. That day, it was battered by a storm and struck by lightning. But none of that explains its collapse. One theory, advanced by Antonio Brencich, a lecturer at the University of Genoa, is that the bridge was innately flawed. It was of unusual construction: its designer, Riccardo Morandi, encased the stays holding up the deck in concrete. Only two other bridges—in Libya and Venezuela—were built in that way, both by Mr Morandi. The one in Venezuela collapsed, after being hit by a ship. The Libyan one was closed after inspectors found cracks last year.
+
+Italy’s populist government found others to blame. Three other bridges have collapsed in Italy with less publicity in the past three years, and the interior minister, Matteo Salvini of the Northern League, claimed the European Union’s budget-deficit limits had restricted Italy’s spending on infrastructure. But figures suggest it may actually spend too much on patching up its infrastructure, and not enough on renewing it (see chart). Then Mr Salvini accused the franchise holders of the motorway, Autostrade per l’Italia, of failing to maintain the bridge. Sweeping aside the firm’s denials, the infrastructure minister, Danilo Toninelli of the Five Star Movement (M5S), announced he would revoke the company’s franchises and fine it up to €150m.
+
+That helped deflect attention from a deep crack in the coalition: the M5S, which has a history of NIMBY-ism, has vehemently opposed infrastructure projects the League supports. Indeed, it opposed a bypass that would have relieved traffic on the very bridge that collapsed. At a rally in 2014 the M5S’s founder, Beppe Grillo, denounced the project as a waste of money; on its website, opponents of the scheme ridiculed fears that the bridge would collapse as a “fairy tale”.

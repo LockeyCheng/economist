@@ -1,0 +1,19 @@
+Europe’s top clubs were underpaid for their World Cup stars
+
+Ten teams provided nearly half of the talent, yet received a fifth of the compensation
+
+https://cdn.static-economist.com/sites/default/files/20180811_WOC110.png
+
+THE NEW football season kicks off this weekend in many European countries, less than a month after the World Cup finished. The English Premier League, which commences on August 10th, has had the shortest break in its history. That has caused grumbling from many managers at top clubs, whose star players have had little time to recover for a gruelling domestic campaign. To add insult to injury, analysis of financial data suggests that these clubs were underpaid by FIFA, the sport’s governing body, for lending their players to national teams during the World Cup. 
+
+FIFA’s rules compel domestic sides to release their employees if they are called up for national service, explains Jake Cohen, a sports lawyer. The countries do not have to pay the clubs any compensation for that labour, and the players continue to receive their domestic wages while wearing the national crest. In 2010 FIFA made that raw deal more palatable by introducing a Club Benefits Programme (CBP), which distributes a pot of money to the clubs whose players take part in the World Cup. The fund has grown rapidly, from $40m eight years ago to $209m now. 
+
+Yet the way that the cash is distributed has raised a few eyebrows. There are two obvious flaws. The first problem is that FIFA dishes out $8,350 per day spent at the World Cup for each footballer, regardless of their market value or playing time, which means that Saudi Arabia’s substitute goalkeepers and Germany’s prized attackers, both of whom left the competition at the group stage, yielded the same amount for their clubs. 
+
+The second flaw is that the pot for each player is split between any clubs that have owned him since July 2016. This is supposed to provide compensation for the qualifying campaign, which lasts two years. Yet many players have made their debuts for the national team since then, meaning that their previous clubs are getting money for nothing.
+
+The result is that the value of the labour that clubs provided is not matched by the compensation that they received. We calculated how much each player is worth per week by looking at what his current club has already spent on his transfer fee and wages, using data provided by 21st Club, a football consultancy. We then adjusted these figures using up-to-date valuation data from Transfermarkt.com, a football statistics website, to give a fairer estimate of what a player would currently cost on the open market. For example, Neymar’s blockbuster move to Paris Saint-Germain last summer means that the club will splash out about $1.8m per week over the course of his contract. After adjusting for his current value on Transfermarkt.com, we estimate that his true weekly value is about half that. 
+
+Overall, our number-crunching suggests that the World Cup used roughly $360m of player labour, far greater than FIFA’s pot of $209m. Ten European clubs provided $176m of the employee talent (or 49%), and yet received just a paltry $40m (or 19%)of the compensation. By contrast, $17m of FIFA’s fund went to 133 clubs who owned no players at the tournament at all.
+
+FIFA’s stranglehold on the game means that the clubs have little hope of negotiating a better deal, reckons Mr Cohen. But data analysis does offer one sliver of consolation. Omar Chaudhuri of 21st Club has found little evidence that players who have featured at international tournaments in the summer suffered more injuries or worse form in the subsequent season than those who watched the tournament from the couch. The accountants at major European clubs can feel hard done by—but the managers should probably stop complaining.

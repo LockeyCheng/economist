@@ -1,0 +1,11 @@
+The world’s lender of last resort is back in vogue
+
+As the dollar strengthens and interest rates rise, more emerging-market governments are turning to the IMF
+
+https://cdn.static-economist.com/sites/default/files/20180908_WOC262.png
+
+ON SEPTEMBER 4th Argentina’s finance minister will meet the IMF’s managing director, Christine Lagarde, to discuss a bail-out of the country’s creaking economy. Investors will be watching closely. Since April the peso has come under pressure from investors worried about Argentina’s large budget deficits and soaring inflation. Its government has already raised interest rates and secured a $50bn credit line from the IMF, but markets remain jittery. Last week, after Mauricio Macri, Argentina’s president, appealed to the IMF for faster disbursement of bail-out funds, the peso tumbled by 16% against the dollar. It is the world’s worst-performing currency this year. 
+
+Argentina is not alone in seeking assistance from the IMF. Since the start of 2016, the fund has intervened more than a dozen times in countries in economic distress. The costs are beginning to add up. After falling for five years, total IMF lending is now 27% higher than at its low point, reached this May (see chart). It is expected to grow even more. In the coming weeks, the economic troubles of Pakistan and Ukraine may force them to turn cap-in-hand to the fund as well. Combined, their funding needs could reach as high as $15bn.
+
+Because the IMF attaches strict policy conditions to its loans, all of these governments are likely to pay a steep political price for multilateral financing. Such conditions can be hard to meet: Ukraine has already received $8.4bn from a $17.5bn IMF bail-out package agreed to in 2015, but lost access to additional funds because it failed to pass IMF-backed reforms. Mr Macri has already made promises he may have trouble keeping. After agreeing in June to cut Argentina’s primary deficit (ie, before interest payments) for 2019 to 1.3% of GDP, yesterday his government pledged to balance next year’s budget outright.

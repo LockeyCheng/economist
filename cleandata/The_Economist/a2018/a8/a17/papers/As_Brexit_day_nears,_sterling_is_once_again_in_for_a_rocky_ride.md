@@ -1,0 +1,17 @@
+As Brexit day nears, sterling is once again in for a rocky ride
+
+Of 140-odd currencies tracked by Bloomberg, a data provider, the pound has depreciated against 130 since the referendum
+
+https://cdn.static-economist.com/sites/default/files/images/2018/08/articles/main/20180818_brp002_0.jpg
+
+IN THE weeks following the Brexit referendum in June 2016 the pound gyrated wildly, losing 10% of its value. After a period of calm, sterling is looking shaky again. On a trade-weighted basis it has lost 5% of its value since April. On August 10th it fell below $1.28 for the first time in a year. Further depreciation looks likely, given uncertainty over the government’s Brexit plans.
+
+The prospect of leaving the European Union has depressed sterling’s value because it will damage the economy. Slower growth will call for looser monetary policy. As returns on sterling-denominated assets fall, fewer traders will want to hold them. Of 140-odd currencies tracked by Bloomberg, a data provider, sterling has depreciated against more than 120 since the referendum (see chart). The Venezuelan bolívar and the Turkish lira are among a mere handful of currencies not to have gained in value against the pound.
+
+Brexiteers argue that sterling’s tumble delivers great benefits. A cheaper pound makes Britain’s wares more competitive in foreign markets. Since the referendum exports have risen by 7% in real terms. Yet this owes more to a general pick-up in global trade than to greater currency competitiveness. Over the same period, the average G7 country has seen stronger export growth than Britain has.
+
+Against these uncertain benefits, the drawbacks are clear. A weak pound has pushed up the cost of imports. Half of Britain’s food is bought from overseas. Inflation has been above the Bank of England’s 2% target since early 2017. In real terms the average pay packet has not grown at all in the past two years. The purchasing power of most working-age benefits, which are frozen in cash terms until 2020, is falling.
+
+Why is sterling sliding again? It has become obvious that the economy is stuck in the slow lane. The IMF thinks GDP will grow by just 1.4% in 2018, below growth rates in both America and the euro zone. The Bank of England raised interest rates on August 2nd, from 0.5% to 0.75%, increasing returns for those holding British assets; but another rise looks unlikely for a while. Traders also fret about Britain’s large current-account deficit, a measure of how much the country is borrowing from abroad. Lately Britain has become increasingly reliant on short-term foreign borrowing, rather than long-term foreign investment, to cover the deficit. If investors sour on the British economy they could quickly pull out their money, prompting the pound’s value to fall further.
+
+The most important factor, however, is the worry that Britain may crash out of the EU with no deal at all. That could tip the economy into recession. Samuel Tombs of Pantheon Macroeconomics, a consultancy, reckons that, in the event of a no-deal Brexit, sterling would drop to $1.15, its lowest level in three decades. Reaching a sensible agreement with the EU would, of course, give sterling a boost. But most investors appear pessimistic. For the first time in a year, data from futures markets suggest that a majority believe that sterling is likely to decline. More hard pounding could be on the way.

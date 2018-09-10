@@ -1,0 +1,3 @@
+{"suggestedfocus": "11.0 Minutes", "wordsset": 252, "keywords": "Bernhard,Sutter,assisted,countries,drugs,law,lit,patient", "toughwords": 26, "allwords": 403}
+
+Assist,Benelux,Scandinavia,Swiz,administer,assist,ceaselessly,complicate,dignify,dye,fabulous,gracefully,hasten,irritatingly,liberal,monarchy,outright,painlessly,parliamentary,pray,prolong,promotion,sprung,stubbornly,toughen

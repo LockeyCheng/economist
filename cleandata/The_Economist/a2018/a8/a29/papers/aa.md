@@ -1,0 +1,22 @@
+What educated people from poor countries make of the “brain drain” argument
+
+Halting emigration is no way to fix dysfunctional countries
+
+https://www.economist.com/sites/default/files/imagecache/800-width/20180825_OPP521.jpg
+
+
+HIGHLY skilled immigrants from poorer parts of the world tend to be welcomed by most rich countries. In the debate about migration in the West, foreign surgeons and software engineers are not maligned in the way that farm workers and waiters frequently are, even though they have been migrating in ever greater numbers. In the decade to 2010-11 the number of university-educated migrants in the G20, a group of large economies that hosts two-thirds of the world’s migrants, grew by 60% to 32m, according to the OECD, a club of mostly rich countries.
+
+On the face of it, this sounds like a win-win trend, as host countries benefit from the migrants’ skills, who in turn benefit from the more stable economic environment they enter. But some development economists fret that it is bad for the migrants’ home countries. They argue that “brain drain” from poor countries is robbing those countries of the people they need to escape poverty. Others are sceptical about the theory, arguing that the benefits of remittances from exiles and the new skills which returning migrants bring home far outweigh the damage of their leaving.
+
+What do educated people in poor countries make of these debates? “There are sectors, what you might think of as humanities or maybe arts subjects, where skilled manpower is in oversupply,” says Yasin Sadiq Mayanja, a Ugandan government economist. “If we had opportunities we would leave.” He believes that it makes sense for highly educated people to take their skills elsewhere rather than being unproductive at home. The only group of people he worries about is Ugandan doctors, who find it relatively easy to emigrate. In 2015 just 69% of the country’s health-care jobs were filled. 
+
+Others emphasise that choosing whether to stay or migrate is not a simple economic decision. Farah Muneer’s two siblings work for Microsoft in America and the Australian government. They left even though her family is wealthy enough to afford a comfortable life back home. Ms Muneer, who now works as an economics researcher in Dhaka, would have stayed away too. But being the youngest child and also unmarried, she was expected to return home to live with her parents in Bangladesh after finishing a masters’ degree in Britain.
+
+Sometimes people back home judge those who leave quite harshly, says Violeta Hernandez, a management consultant who left Guatemala to be with her Italian husband. “Most of the people would think that someone who migrates has an easy life abroad,” she says. But being abroad has not lessened her love for her home country, she says, pointing out that for many Guatemalan migrants, the country is always in their thoughts. “If we start a business abroad… we’re always thinking about how to bring some benefits to Guatemala.”
+
+Others feel that the “brain drain” debate is based on the wrong premise. Elnathan John, a Nigerian author who has satirised the obstacles that he and his fellow Nigerians face in migrating to, or even getting short-term visas for, Western countries, objects to framing migration in those terms. “A lot of the argument around ‘skilled migrants’ is classist because it makes a distinction between the human value of skilled people and that of ‘unskilled’ migrants, whatever that means,” says Mr John, who lives in Berlin. “It also assumes that if all skilled persons stay in a dysfunctional country, that country will somehow get better.”
+
+Venezuela, one of the few countries which is suffering a “drain” of people, well-educated or not, demonstrates the short-sightedness of that assumption. It is precisely the country’s dysfunction and economic collapse that has driven its people abroad, among them around a third of its doctors. There is little sense that anything would improve if more people stayed, so those left behind are loth to criticise those who are leaving. “Doctors get paid like $10 a month if they’re lucky,” says Luisa, an activist. “Not many people want to criticise them. It’s logical. They would do the same.” Even though she herself has been getting more work with international organisations in the country owing to the exodus of skilled people, Luisa says that she constantly thinks about leaving. “Living here is an act of faith.”
+
+

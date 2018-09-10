@@ -1,0 +1,3 @@
+{"suggestedfocus": "12.7 Minutes", "wordsset": 384, "keywords": "BBC,British,Hislop,Museum,dissent,exhibition,museum,object", "toughwords": 72, "allwords": 565}
+
+Arafat,Gandhi,Mahatma,Rickety,alt,anonymous,apposite,artisan,associate,assortment,assume,blurb,bubble,cabinet,coalition,colonial,conceit,confesses,continental,copulate,correspondent,corridor,curate,curator,deface,demonstration,disrespect,dissent,downtrodden,dredge,engrave,fixture,glance,heroic,hut,imagination,imperial,incoherent,inevitably,inscription,investigate,jot,libel,middlebrow,monopoly,orthodoxy,parade,parallel,participation,petty,pharaoh,pope,quintessentially,represent,roil,satirical,saucy,scour,shone,stack,strike,subversion,subversive,tablet,textile,underwhelm,unhelpful,voluminous,wheat

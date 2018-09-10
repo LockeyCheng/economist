@@ -1,0 +1,19 @@
+China is conducting fewer local policy experiments under Xi Jinping
+
+Officials are increasingly scared to try new things
+
+COME December, it will be 40 years since the Communist Party endorsed Deng Xiaoping’s proposal for reform. What followed was an economic transformation on a scale and at a pace that had never before been witnessed in human history. One of the secrets of Deng’s success was his encouragement of experimentation (see China section). He did not dismantle Mao’s disastrous “people’s communes” in one go. He did so over several years, allowing different places to try different methods. He turned a blind eye when local authorities allowed peasants to farm their own plots and sell their crops. When output soared, he made this official policy. In 1980, to the horror of Maoists, he set up “special economic zones” along the coast to carry out free-market trials. These too proved a success, and were eventually replicated nationwide.
+
+Deng’s pragmatism helped rescue China from the dogmatic ditch into which Mao had forced it. His successors, though spooked by the collapse of the Soviet Union, kept experimenting even in the political realm in the 1990s and early 2000s. People in some places were even given a bit more leeway to choose local leaders in grassroots elections.
+
+The freedom to tinker has never been unlimited, and various autocratic habits have undermined some experiments. One is secrecy. State media are often ordered to keep quiet about pilot projects in case they go wrong. Results can often be published only in classified journals; leakers face years in jail. If China’s experiments with a less draconian family-planning policy had been debated more openly after their launch in the 1980s, more heed might have been paid to their findings: that it was pointless (as well as cruel) to punish parents for having more than one child. Most wanted small families anyway.
+
+Fear of trying
+
+Nonetheless, as in any country, let alone one as vast and varied as China, a suck-it-and-see approach yields better results than deciding everything centrally. Alas, under President Xi Jinping, experimentation of any kind has become harder. In 2010—two years before Mr Xi took over—around 500 policy-related pilot projects were being carried out at the provincial level, reckons Sebastian Heilmann of the University of Trier in Germany. By 2016 the number had dropped to about 70.
+
+One reason is fear. Since he came to power, Mr Xi has been waging a fierce campaign against corruption—sometimes justified, but brutal. Bureaucrats have become less willing to suggest experiments because anyone adversely affected by them might retaliate by accusing the reformers of graft. The other reason is to do with Mr Xi himself. The man who would be president-for-life has shown little interest in letting his subordinates do their own thing. When China-watchers call him “chairman of everything”, they are only half-joking.
+
+Rather than stifling experimentation, Mr Xi should unleash it. Several areas are crying out for fresh thinking. Many state-owned firms are woefully inefficient. Why not privatise some and see what happens? Chinese farmers lack clear title to their land. Perhaps some places could try giving them property rights? Rural migrants are treated as second-class citizens in big cities, deprived of public services. If their grievances are not dealt with, they could destabilise China. Why not ask some of these cities to try scrapping the pernicious household-registration system that is the root cause of the migrants’ woes?
+
+The worry is not just that fresh experiments with local democracy are all but unthinkable under Mr Xi. It is that countless good ideas of all kinds will never be tried, will never prove their worth and will never spread. Wise leaders recognise that they do not have all the answers. Does Mr Xi?

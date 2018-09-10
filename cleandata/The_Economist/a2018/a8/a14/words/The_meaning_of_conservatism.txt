@@ -1,0 +1,3 @@
+{"suggestedfocus": "11.5 Minutes", "wordsset": 285, "keywords": "conservatism,conservative,country,free,grand,importance,prefer,principle", "toughwords": 63, "allwords": 433}
+
+Bismarck,Butler,Churchill,Coleridge,Conservatism,Conservative,Marxism,Marxist,Sentiment,Therein,Utopian,Winston,abstract,bliss,chamber,confront,conservatism,conservative,constraint,contract,convenient,democratic,discipline,dominant,dominate,efficiency,elastic,elitism,eschew,feast,grandee,infinitely,interfere,liberal,liberalism,linchpin,mystery,nexus,oddity,overturn,paradox,patriotism,philosopher,philosophy,phrase,poetry,pragmatism,preserve,referendum,revise,revive,ruefully,sentiment,squire,sufficient,superabundant,turmoil,unbound,uncouth,whatsoever

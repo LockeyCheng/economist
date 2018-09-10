@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.4 Minutes", "wordsset": 212, "keywords": "American,Economist,KFF,blamed,countries,loneliness,media,moderate", "toughwords": 26, "allwords": 305}
+
+Foundation,Goldilocks,Kaiser,Loneliness,adolescent,beneficial,companionship,contemporary,curate,hypothesis,isolate,isolation,lonelier,loneliness,moderate,perceive,pervasive,plausible,policymaker,psychologist,rigorous,sample,scapegoat,scroll,ubiquitous,villain

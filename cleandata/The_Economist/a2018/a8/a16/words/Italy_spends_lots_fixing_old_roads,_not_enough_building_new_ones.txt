@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.3 Minutes", "wordsset": 248, "keywords": "GDP,Italy,OECD,building,countries,country,fixing,roads", "toughwords": 34, "allwords": 388}
+
+Belgium,Genoa,Skimp,allocate,austerity,beneath,cable,concrete,conserve,consistently,crumble,decay,deck,deficit,demolish,deteriorate,economical,executive,infrastructure,loathe,motorway,preference,reinforce,rotten,rubble,skimp,specialist,substantially,tame,tarmac,thoroughfare,tunnel,typically

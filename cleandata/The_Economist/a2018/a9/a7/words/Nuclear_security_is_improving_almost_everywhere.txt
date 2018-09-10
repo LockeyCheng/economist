@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.49 Minutes", "wordsset": 184, "keywords": "NTI,Nuclear,countries,cyber,facilities,nuclear,security,weapons", "toughwords": 25, "allwords": 284}
+
+Creek,Hydrogen,Initiative,Isotope,Kansas,Regulatory,accelerate,assesses,breach,compromise,conjunction,consequence,evolve,expertise,expose,facility,immune,infrastructure,kilogram,mitigate,oversee,quantity,sabotage,usable

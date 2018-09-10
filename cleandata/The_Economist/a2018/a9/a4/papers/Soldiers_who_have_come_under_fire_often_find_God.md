@@ -1,0 +1,21 @@
+Soldiers who have come under fire often find God
+
+A study of American servicemen finds that those who have experienced combat become more devout
+
+https://cdn.static-economist.com/sites/default/files/20180908_WOC247.png
+
+IN THE early years after losing both legs on the battlefield, religion held little solace for Lieutenant Dan Taylor. In “Forrest Gump”, a film released in 1994, the disabled Vietnam veteran described how army chaplains would tell him that he could walk next to God in the kingdom of heaven. “Kiss my crippled ass,” he responded, finding his comfort instead at the bottom of a bottle. Later on, while trawling for shrimp alongside the film’s title character, he taunted Forrest, asking: “Where the hell’s this God of yours?” Unexpectedly, the Almighty answered his call, delivering a storm that yielded a catch of biblical magnitude. The unbelieving lieutenant was duly convinced that God was watching him.
+
+According to a  working paper  published this week by Resul Cesur, Travis Freidman and Joseph Sabia, a trio of economists in America, there is some truth to the adage that there are no atheists in foxholes. Or rather, wartime trauma often makes people turn to God. After analysing two surveys of American soldiers conducted in the late 2000s, they find compelling evidence that those who have served in combat zones and directly engaged the enemy are more likely to attend religious services regularly than are those who have not.
+
+The authors rule out the possibility that soldiers who come under fire might be unusually devout in the first place. America’s armed forces do not consider personal beliefs when allocating soldiers to units. This meant that the three-quarters of respondents who were assigned to combat zones were roughly as pious as the remainder who were not, which created a natural experiment.
+
+In the first survey that the authors considered, longitudinal data were available for 482 servicemen. This meant that they could control for their attitudes to religion before deployment, as well as their demographic profiles and military records. After making such adjustments, the authors found that soldiers who had served in war zones were about seven percentage points more likely to attend weekly religious services than those without such exposure. However, the overall effect was not quite statistically significant: it was pronounced among those who had already identified as Christians when signing up, but absent among everyone else.
+
+A second, larger survey offered more substantial evidence, considering 11,598 soldiers (though lacking in longitudinal data). Its questions were slightly different, but it showed that respondents who had exchanged fire with the enemy were about two percentage points more likely to attend religious services at least once a fortnight than were those who had not been directly involved in combat, a difference that was statistically significant. Intriguingly, the effect was particularly strong among younger troops, and those who were not officers, even after accounting for various socioeconomic factors. Perhaps junior soldiers are exposed to more traumatic events, or are simply more impressionable.
+
+In that light, the grizzled Lieutenant Taylor seems an unlikely candidate for finding God. But his injury changes the equation. One of the strongest effects in the data was for wounded soldiers, who were about seven percentage points more likely to go to church regularly than were those who had escaped unscathed.
+
+The surveys point to one thing that might have changed since Private Gump served in Vietnam. Although Lieutenant Taylor complained about being harangued by chaplains, respondents in the surveys who had engaged the enemy underwent secular counselling more often than they did guidance from an army padre. This suggests that it is enemy fire, not friendly priests, that makes the difference. 
+
+Despite the solace of faith, soldiers who have come under fire disproportionately suffer from post-traumatic stress disorder and commit suicide. Lieutenant Taylor was inspired by his conversion to turn his life around and buy a pair of titanium legs. In real life, Frank Collins, a British soldier who led the raid on the Iranian Embassy in 1980, became a vicar—and later committed suicide. 

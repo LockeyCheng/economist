@@ -1,0 +1,15 @@
+Italy spends lots fixing old roads, not enough building new ones
+
+The country’s skimping on costly projects might save funds, but not drivers
+
+https://cdn.static-economist.com/sites/default/files/20180818_WOC147.png
+
+THE 39 people who died when the Morandi Bridge in Genoa collapsed on August 14th— perhaps more, since some are still missing in the rubble—could not possibly have imagined that the 50-year-old concrete structure would suddenly crumble beneath them. But engineers saw it coming. Antonio Brencich, a specialist in reinforced concrete at the University of Genoa, warned in 2016 that the bridge was “a failure of engineering”, with its deck and cables deteriorating quickly. By the late 1990s the amount spent repairing it had already reached 80% of the original construction cost. Mr Brencich warned that it would be more economical “to demolish the bridge and rebuild it”.
+
+That advice fell on deaf ears, as the repairs continued. Speaking to the  New York Times , Antonio Occhiuzzi, the director of Italy’s Institute for Construction Technology, said that this preference for quick fixes was a national weakness. “Our position, typically, is to try and conserve rather than demolish and rebuild, as happens in other countries”. 
+
+Data from the OECD, a club of rich countries, confirm this. In 2015, the latest year for which figures are available, Italy spent 76% more on fixing old roads than it did on building new ones—the highest ratio in the OECD. The country has long devoted a large share of its GDP to maintaining its decaying avenues, motorways, tunnels and bridges. The 0.55% that it managed in 2015 was the fourth-biggest portion in the OECD, even as its government battled to reduce public spending and tame the budget deficit. Unfortunately, that austerity applied the brakes to investment in new roads. In 2006, Italy devoted 0.92% of GDP to such projects, putting it in the OECD’s top third. By 2015 the share had fallen to 0.31%, the fifth-lowest in the group.
+
+Such meagre funding for fresh tarmac would be less worrying if Italy’s thoroughfares were in as good condition as, say, Germany’s. In the decade to 2015, both countries allocated an average of 0.43% of their GDP to investing in new roads. However, Germany’s streets have typically scored more than 6 out of 7 for quality on a survey of business executives by the World Economic Forum, while Italy’s have received just 4.28. Countries with such rotten infrastructure tend to devote more resources towards improving it. Greece, for example, has roads that are even more loathed than Italy’s. Yet it has managed consistently to spend about 0.75% of its GDP replacing them, even during a period of austerity. 
+
+Europe’s other motorway misers—Britain, Belgium and Austria, all of which invest substantially less in their roads than their quality ratings would predict—should pay heed to Italy’s example. Skimping on costly rebuilding projects might save funds, for a while. But not drivers. 

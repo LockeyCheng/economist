@@ -1,0 +1,3 @@
+{"suggestedfocus": "11.2 Minutes", "wordsset": 294, "keywords": "Arizona,Ducey,Kavanaugh,Kyl,McCain,Senate,governor,senator", "toughwords": 44, "allwords": 512}
+
+Anthony,Brett,Cindy,Doug,Gibson,McCain,McKay,Senate,Senator,appease,appointee,approval,boorish,burial,cautious,commitment,confirmation,controversy,convince,delicate,departure,extraordinary,faction,fundamentally,junior,midst,mimic,nomination,nominee,occasion,paramount,permanent,pivotal,placeholder,rebuke,remainder,represent,senator,successor,tapped,universally,unsolicited,widow

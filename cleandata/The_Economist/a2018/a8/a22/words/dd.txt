@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.61 Minutes", "wordsset": 255, "keywords": "Greece,budget,crisis,debt,economy,euro,financial,government", "toughwords": 26, "allwords": 426}
+
+Depression,austerity,bail,buffer,bureaucracy,corrupt,creditor,cushion,daunt,deficit,depression,downgrade,inefficient,lag,maturity,normality,profound,rear,reckon,regain,stagnation,struck,surplus,surpluses,understate,workforce

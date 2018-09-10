@@ -1,0 +1,3 @@
+{"suggestedfocus": "12.0 Minutes", "wordsset": 377, "keywords": "Book,London,book,club,enabling,internet,media,online", "toughwords": 53, "allwords": 572}
+
+Cuckoo,Istanbul,Nest,Participant,Rachel,Reese,Rewrite,Steve,Tanya,Watson,Winfrey,adaptation,anecdote,assort,biography,bookish,consistently,convene,criticism,curate,definitely,disinformation,distraction,diversity,email,encounter,enhance,estimate,feminist,genuine,genuinely,hangout,household,instigate,internet,iteration,length,literary,looser,mindless,myriad,narrative,participation,pore,quote,recommendation,reshape,reveal,scroll,snapped,struck,thread,thwart

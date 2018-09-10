@@ -109,6 +109,7 @@ if __name__ == '__main__':
         lastLst = paperRecords['lastLst']
     except Exception as err:
         lastLst = []
+        print(err)
 
     if ayear not in paperRecords:
         paperRecords[ayear] = {}
@@ -122,6 +123,7 @@ if __name__ == '__main__':
     toDayDir = basedir + dateDir + '/papers/'
     if not os.path.exists(toDayDir):
         os.makedirs(toDayDir)
+    #linkArr=['/open-future/2018/09/15/open-future-festival','/democracy-in-america/2018/08/14/the-perverse-side-effects-of-americas-harsh-immigration-policies','/graphic-detail/2018/08/14/vienna-overtakes-melbourne-as-the-worlds-most-liveable-city','/prospero/2018/08/14/a-new-play-restages-the-trials-of-artemisia-gentileschi','/game-theory/2018/08/14/there-is-little-evidence-that-football-helps-racial-integration','/the-economist-explains/2018/08/14/why-eritrea-is-called-africas-north-korea','/game-theory/2018/08/14/despite-woodss-charge-the-pga-was-brooks-koepkas-to-lose','/britain/2018/08/14/as-brexit-day-nears-sterling-is-once-again-in-for-a-rocky-ride','/europe/2018/08/14/turkeys-currency-steadies-but-its-leader-wants-more-chaos']
     for item in linkArr:
         print(item)
         if item not in lastLst:

@@ -1,0 +1,3 @@
+{"suggestedfocus": "12.2 Minutes", "wordsset": 375, "keywords": "Dara,Khosrowshahi,Lyft,Uber,business,driving,hailing,margins", "toughwords": 50, "allwords": 602}
+
+Alphabet,Lime,Toyota,Travis,aggressively,allegation,allege,autonomous,capability,casual,cede,celebration,claw,complexity,consequence,contrite,controversial,delivery,discrimination,dominate,embarrass,executive,expend,hail,initial,initiative,intensely,lawsuit,lucrative,merchant,mishap,morale,partially,pedestrian,predecessor,pressingly,profitability,proprietary,publicity,regulator,regulatory,reliability,sanguine,scandal,sensible,tackle,tarnish,temporary,vehicle

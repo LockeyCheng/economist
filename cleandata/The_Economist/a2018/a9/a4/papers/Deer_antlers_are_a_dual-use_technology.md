@@ -1,0 +1,17 @@
+Deer antlers are a dual-use technology
+
+They are not just for fighting other deer
+
+https://cdn.static-economist.com/sites/default/files/images/2018/09/articles/main/20180908_stp501.jpg
+
+IN MARCH 2015, braving the bitter cold of a Yellowstone winter to report on research being carried out there on wolves, your correspondent chanced upon a wolf pack as it attacked and killed a deer of the species known in North America as “elk”. (These are actually a type of red deer. True elk are called “moose” in North America.) Days later, all that remained was a bloody skeleton and a spectacular set of antlers.
+
+Dramatic as this scene was, it presented an evolutionary conundrum. Males grow antlers during the spring and summer, in order to fight one another for females during the rutting season, which is early autumn. Antlers are heavy. A full-grown male’s may weigh more than 17kg. It thus requires a lot of energy to carry them around. Yet March is many months after the rut. Moreover, the earlier a male sheds his antlers after rutting, the longer he has to grow a fresh pair for the following year’s shenanigans, and thus the bigger and more pointed those antlers can be. The conundrum, then, is why males do not dispose of these bony encumbrances immediately after the rutting season is over.
+
+A plausible suggestion is that they retain them for defence against predators. That has now been confirmed by Matthew Metz of the University of Montana, Missoula. In a paper published this week in  Nature Ecology and Evolution  he reports that male elk without antlers are indeed more likely to be both attacked by and taken by wolves.
+
+Mr Metz and his colleagues came to this conclusion by examining a database maintained by researchers for the Yellowstone Wolf Project. This recorded 55 encounters between wolves and adult male elk that had been observed by those researchers between 2005 and 2015. Helpfully, the entries noted whether the elk in an encounter had antlers. Individuals or groups that included at least one male without them were, Mr Metz found, 3.6 times more likely to be attacked than if all males present were endowed.
+
+The kills which Yellowstone’s wolves are making also suggest that antlers work as a deterrent. Mr Metz and his colleagues noted that, although only a quarter of the area’s male elk have shed their antlers by late March, these now-pointless animals make up half of the males killed by wolves. This suggests either that wolves are being fended off by animals with antlers or that they are selectively attacking those which do not have them.
+
+The effect that this predation pressure has on the animals is telling. Young males (those that are, in any case, least likely to mate) are almost always the last to shed their antlers, typically doing so in May. Their best evolutionary strategy is to survive until the following year, when they will be bigger, stronger and more likely to succeed in the mating game. Older males in good nutritional condition (those with the best shot at successful mating anyway) maximise their advantage by shedding their antlers as early as the beginning of March, in order to get a head start at growing their new ones. The increased risk of death that this entails is more than balanced by the reduced risk, which big antlers bring, of failing to contribute genetically to the next generation. Since such failure is the Darwinian equivalent of never having been alive in the first place, that is a trade worth making.

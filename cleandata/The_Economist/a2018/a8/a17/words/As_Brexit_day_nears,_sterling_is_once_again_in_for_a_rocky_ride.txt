@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.6 Minutes", "wordsset": 287, "keywords": "Brexit,Britain,currencies,data,economy,pound,referendum,sterling", "toughwords": 31, "allwords": 451}
+
+Inflation,Macroeconomic,Pantheon,Venezuelan,bass,consultancy,deficit,denominate,depreciate,depreciation,depress,drawback,fret,gyrate,lane,lira,looser,mere,packet,pessimistic,prompt,prospect,recession,reckon,referendum,reliant,rocky,sensible,shaky,stuck,tumble

@@ -1,0 +1,3 @@
+{"suggestedfocus": "12.0 Minutes", "wordsset": 335, "keywords": "Islamic,Muslim,civil,court,divorce,law,marriage,religious", "toughwords": 51, "allwords": 543}
+
+Dubai,Islamic,adjudicate,apparent,breakdown,certificate,chink,complement,compulsory,consult,contract,defective,dilemma,disadvantage,dissolution,dissolve,divorce,documentation,estrange,existent,fundamental,fundamentalist,imam,inappropriate,informal,invitation,marital,merit,nuptial,officialdom,opine,precedent,prerogative,procedure,proceed,propose,relevant,reluctant,rhetorical,secular,secularist,segment,sprung,tribunal,undermine,unilateral,validity,verdict,viewpoint,void

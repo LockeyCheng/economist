@@ -1,0 +1,17 @@
+The fire that destroyed Rio’s museum was waiting to happen
+
+A shock, but not exactly a surprise
+
+https://cdn.static-economist.com/sites/default/files/images/2018/09/articles/main/20180908_bkp002.jpg
+
+WHEN Mario Moscatelli was growing up in Rio de Janeiro in the 1970s, his father often took him to the National Museum, which is held in a spectacular palace built by the Portuguese. The boy would ogle the mummies and the reptiles. He became a biologist, married an entomologist and introduced his daughters to the collection. This eventually grew to 20m items, including a large dinosaur skeleton, Greek and Roman antiquities procured by adventurous emperors, thousands of pre-Colombian artefacts, rare books and the 11,500-year-old remains of a woman known as Luiza, possibly the oldest human fossil found in the Americas.
+
+On the evening of September 2nd, Luiza appears to have died a second death in a fire that destroyed the palace and much of its collection. The causes are still unknown, but what has enraged Brazilians is that the fire could have been avoided. In 2004 inspectors warned that exposed wires and poor safety standards could lead to a devastating blaze. Successive governments ignored curators’ pleas. They built new museums and universities rather than maintaining old ones, and even blocked private-sector efforts to help.
+
+Two decades ago, a project to modernise the museum with $80m from the World Bank was lost because the Federal University of Rio de Janeiro, which houses it, refused to turn it into an independent trust. In 2014 Congress budgeted 20m reais ($4.8m) for refurbishment, but the federal government never released the funds. The recession of 2015-16 made things worse. According to the newspaper  Folha de São Paulo , the National Museum received just 98,000 reais ($23,600) from the government between January and August. On the museum’s 200-year anniversary in June, its director moved his office to the former bedroom of Dom Pedro I, Brazil’s first emperor, to draw attention to the termites, mould and structural decay that has led him to close many exhibition rooms.
+
+As firefighters fought the flames at the National Museum palace late into the night (nearby hydrants lacked water, so they had to draw it from a lake) scientists saved what they could from adjacent buildings. The candidates in Brazil’s forthcoming presidential election lamented the loss and promised a stronger commitment to protecting Brazil’s cultural heritage. President Michel Temer said that the museum’s reconstruction would begin immediately.
+
+Mr Moscatelli predicts it will eventually be abandoned, just like a plan to clean up Rio’s rubbish-filled shoreline that he helped the state to develop in the lead-up to the 2016 Olympics. That was supposed to be one of the “positive legacies” that would help to justify the cost of the games, now estimated to be more than $13bn. Sadly, it never happened.
+
+Andrew Carnegie, an American businessman and philanthropist, called museums “wise extravagances”. If so, Brazil’s politicians lack wisdom as well as money. There have been other fires. One in 2010 destroyed a vast collection of tropical cobras at the Instituto Butantan; another in 2015 consumed a tower at the Portuguese Language Museum. All point to a “myopic vision that treats our national patrimony as if it were simply a perfume shop”, says Valeria Piccoli, chief curator of the Pinacoteca Museum in São Paulo.

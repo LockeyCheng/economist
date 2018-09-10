@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.6 Minutes", "wordsset": 304, "keywords": "Cup,European,FIFA,compensation,data,football,national,players", "toughwords": 35, "allwords": 536}
+
+Jake,Premier,Saint,blockbuster,commence,compel,compensation,consolation,consultancy,contract,couch,crest,crunch,debut,distribute,domestic,estimate,fairer,footballer,goalkeeper,grumble,insult,negotiate,palatable,paltry,reckon,sliver,splash,stranglehold,subsequent,substitute,tournament,underpaid,yield

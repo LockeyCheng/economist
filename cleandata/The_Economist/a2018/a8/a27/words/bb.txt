@@ -1,0 +1,3 @@
+{"suggestedfocus": "12.3 Minutes", "wordsset": 348, "keywords": "Australia,Dutton,Liberal,Morrison,Turnbull,coalition,election,leadership", "toughwords": 65, "allwords": 553}
+
+Abbott,Healer,Liberal,Morrison,Nauru,Shorten,agitator,ally,approval,asylum,ballot,bloodless,cabal,cabinet,coalition,comfortably,confusingly,conservative,constantly,decapitation,destructive,dizzy,ebb,endless,erase,euthanasia,fiasco,furious,gamble,immune,insurrection,liberal,madness,mainstay,moderate,occupant,offshore,oppose,parliament,parliamentary,populist,precipitate,reinstate,represent,retain,revere,rift,rivalry,staunchly,stitch,subsequent,suburb,succumb,supporter,sworn,tenure,topple,treasurer,trigger,turf,turmoil,unseat,voluntary

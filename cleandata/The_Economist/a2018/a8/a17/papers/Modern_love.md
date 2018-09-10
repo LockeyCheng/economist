@@ -1,0 +1,33 @@
+Modern love
+
+The internet has transformed the search for love and partnership
+
+https://cdn.static-economist.com/sites/default/files/images/print-edition/20180818_LDD001_0.jpg
+
+THE internet has transformed the way people work and communicate. It has upended industries, from entertainment to retailing. But its most profound effect may well be on the biggest decision that most people make—choosing a mate.
+
+In the early 1990s the notion of meeting a partner online seemed freakish, and not a little pathetic. Today, in many places, it is normal. Smartphones have put virtual bars in people’s pockets, where singletons can mingle free from the constraints of social or physical geography. Globally, at least 200m people use digital dating services every month. In America more than a third of marriages now start with an online match-up. The internet is the second-most-popular way for Americans to meet people of the opposite sex, and is fast catching up with real-world “friend of a friend” introductions.
+
+Digital dating is a massive social experiment, conducted on one of humanity’s most intimate and vital processes. Its effects are only just starting to become visible (see  Briefing ).
+
+When Harry clicked on Sally
+
+Meeting a mate over the internet is fundamentally different from meeting one offline. In the physical world, partners are found in family networks or among circles of friends and colleagues. Meeting a friend of a friend is the norm. People who meet online are overwhelmingly likely to be strangers. As a result, dating digitally offers much greater choice. A bar, choir or office might have a few tens of potential partners for any one person. Online there are tens of thousands.
+
+This greater choice—plus the fact that digital connections are made only with mutual consent—makes the digital dating market far more efficient than the offline kind. For some, that is bad news. Because of the gulf in pickiness between the sexes, a few straight men are doomed never to get any matches at all. On Tantan, a Chinese app, men express interest in 60% of women they see, but women are interested in just 6% of men; this dynamic means that 5% of men never receive a match. In offline dating, with a much smaller pool of men to fish from, straight women are more likely to couple up with men who would not get a look-in online.
+
+For most people, however, digital dating offers better outcomes. Research has found that marriages in America between people who meet online are likely to last longer; such couples profess to be happier than those who met offline. The whiff of moral panic surrounding dating apps is vastly overblown. Precious little evidence exists to show that opportunities online are encouraging infidelity. In America, divorce rates climbed until just before the advent of the internet, and have fallen since.
+
+Online dating is a particular boon for those with very particular requirements. Jdate allows daters to filter out matches who would not consider converting to Judaism, for instance. A vastly bigger market has had dramatic results for same-sex daters in particular. In America, 70% of gay people meet their partners online. This searchable spectrum of sexual diversity is a boon: more people can find the intimacy they seek.
+
+There are problems with the modern way of love, however. Many users complain of stress when confronted with the brutal realities of the digital meat market, and their place within it. Negative emotions about body image existed before the internet, but they are amplified when strangers can issue snap judgments on attractiveness. Digital dating has been linked to depression. The same problems that afflict other digital platforms recur in this realm, from scams to fake accounts: 10% of all newly created dating profiles do not belong to real people.
+
+This new world of romance may also have unintended consequences for society. The fact that online daters have so much more choice can break down barriers: evidence suggests that the internet is boosting interracial marriages by bypassing homogenous social groups. But daters are also more able to choose partners like themselves. Assortative mating, the process whereby people with similar education levels and incomes pair up, already shoulders some of the blame for income inequality. Online dating may make the effect more pronounced: education levels are displayed prominently on dating profiles in a way they would never be offline. It is not hard to imagine dating services of the future matching people by preferred traits, as determined by uploaded genomes. Dating firms also suffer from an inherent conflict of interest. Perfect matching would leave them bereft of paying customers.
+
+The domination of online dating by a handful of firms and their algorithms is another source of worry. Dating apps do not benefit from exactly the same sort of network effects as other tech platforms: a person’s friends do not need to be on a specific dating site, for example. But the feedback loop between large pools of data, generated by ever-growing numbers of users attracted to an ever-improving product, still exists. The entry into the market of Facebook, armed with data from its 2.2bn users, will provide clues as to whether online dating will inexorably consolidate into fewer, larger platforms.
+
+While you were swiping
+
+But even if the market does not become ever more concentrated, the process of coupling (or not) has unquestionably become more centralised. Romance used to be a distributed activity which took place in a profusion of bars, clubs, churches and offices; now enormous numbers of people rely on a few companies to meet their mate. That hands a small number of coders, tweaking the algorithms that determine who sees whom across the virtual bar, tremendous power to engineer mating outcomes. In authoritarian societies especially, the prospect of algorithmically arranged marriages ought to cause some disquiet. Competition offers some protection against such a possibility; so too might greater transparency over the principles used by dating apps to match people up.
+
+Yet such concerns should not obscure the good that comes from the modern way of romance. The right partners can elevate and nourish each other. The wrong ones can ruin both their lives. Digital dating offers millions of people a more efficient way to find a good mate. That is something to love.
