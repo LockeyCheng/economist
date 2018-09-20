@@ -1,0 +1,3 @@
+{"suggestedfocus": "11.5 Minutes", "wordsset": 310, "keywords": "Democratic,Democrats,candidate,ideological,liberal,primaries,primary,voters", "toughwords": 51, "allwords": 509}
+
+Alexandria,Coalition,Crowley,Democrat,Democratic,Lamb,Medicare,Pennsylvania,Wheres,atypically,banner,bigwig,coalition,collar,compromise,conservative,democratic,demographic,dismay,drift,electorate,endorse,exodus,fragile,heir,ideological,ideology,incline,incumbent,leftward,liberal,moderate,naked,nonwhite,partisan,pledge,pragmatist,progressive,reveal,scatter,socialism,socialist,spectrum,statistical,triumph,typically,unite,wedge

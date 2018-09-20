@@ -1,0 +1,3 @@
+{"suggestedfocus": "12.0 Minutes", "wordsset": 315, "keywords": "Idlib,Israel,Russia,Syria,Turkey,rebel", "toughwords": 63, "allwords": 484}
+
+Assad,HTS,Lebanese,RUSSIAN,Rebel,Sham,Vladimir,adversary,airbase,ambassador,assault,buffer,catastrophe,coast,conciliatory,consolidate,crush,defer,deputy,embroil,escalation,faction,fleet,hinge,humanitarian,imminent,initially,installation,intact,intentionally,interfere,intervention,loom,miscalculation,offensive,oppose,patrol,patron,perimeter,potent,rebel,rein,reinforce,retake,revival,revolt,routine,salvo,seal,stoke,strain,strike,strip,stronghold,summon,territory,tragic,trigger,underscore,warship,withdraw,withdrawal

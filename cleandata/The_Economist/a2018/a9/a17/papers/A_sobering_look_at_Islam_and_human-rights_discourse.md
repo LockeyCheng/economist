@@ -1,0 +1,23 @@
+A sobering look at Islam and human-rights discourse
+
+A group of Muslim scholars offer a view from the Islamic tradition
+
+https://cdn.static-economist.com/sites/default/files/20180915_BLP506.jpg
+
+MOHAMMAD FADEL, an associate law professor at the University of Toronto, is one of North America’s most thoughtful commentators on the interface between Islam, liberal democracy and Western understandings of the rule of law. He has made an elaborate case for the possibility of Muslims, including theologically conservative ones, finding a comfortable place in a diverse, noisy liberal democracy where many value systems co-exist. He draws on the ideas of John Rawls, perhaps the greatest American political philosopher of the late 20th century, to show that “public reason” can serve as a kind of common denominator between citizens with utterly different world views. 
+
+So it is sobering to find that in a  newly published set of essays  on Islam and the Western understanding of human rights, Mr Fadel puts more emphasis on difference than compatibility. His contribution is the sharpest of the essays, published by the Atlantic Council, an influential think-tank based in Washington, DC, under the title “The Islamic Tradition and the Human Rights Discourse”.  
+
+Mr Fadel artfully uses a Western source to show that basic concepts like freedom and happiness have one meaning for a liberal humanist and another for a theist idealist who sees the purpose of human life as devotion to God. For somebody in the latter camp, an addicted gambler is anything but free; but to the secular liberal, that way of life could simply be one way of exercising formal freedom.
+
+Islamic thought about the family, as Mr Fadel adds, is oriented not only to the short-term happiness of individuals, and also to other perceived desirables such as “a reasonably stable household that produces a new generation of Muslims.” So Muslim thinkers could not be expected to see religiously mixed marriages in the same light as a secular libertarian would. He concludes that:
+
+It is impossible to expect a complete convergence between human rights norms and Islamic norms: human rights norms are almost entirely concerned with securing the autonomy of individuals to make choices for themselves, while Islam is about influencing individuals’ choices about how to live their lives. 
+
+Asked if he had become more downbeat about Muslim communities finding a place in Western societies, Mr Fadel told Erasmus that he believed more passionately than ever in the need for such co-existence. But it was an observable fact that in Western societies, that effort was growing harder. Arguments, for example over female attire and the raising of children, suggest that in many Western countries, “liberals don’t trust Muslims, and therefore want to regulate their lives more closely, and Muslims don’t trust liberal society, which means they are less likely to have confidence in a neutral, rules-based political system and more likely to focus on their own communal life," he says.  
+
+All the contributors to the new volume are themselves Muslim, and they bring to the subject of human rights concepts and assumptions that would be unfamiliar to most non-Muslims. Perhaps the most upbeat note is struck by the volume’s editor, H.A. Hellyer, who argues that Islam must rediscover the virtue of “rejuvenation”—new thinking about old texts and concepts—which, contrary to what many people say, is “deeply held within the Islamic tradition”. The oft-repeated proposition that in Islam, the gates of  ijtihad  (theological reasoning) were slammed shut a millennium ago is simply false, in Mr Hellyer’s view. 
+
+Another contributor is Mustafa Ceric, the grand mufti emeritus of Sarajevo, who  makes a pointed rejoinder to Western critics of Islam. It takes the form of a riff on the word “dhimmitude”. Among contemporary Islamo-sceptics, that term has been used in two senses. It refers to the second-class but still protected status which traditional Muslim empires offered to non-Muslim, especially Christian and Jewish, subjects. Today’s sceptics also use the word to denounce Westerners who seem excessively deferential to Islam.
+
+As Mr Ceric notes, the “dhimmi” status in Ottoman times did at least allow religious minorities to remain alive, as long as they were loyal and law-abiding. His co-religionists who suffered genocide in Bosnia did not benefit from any such concession. That is a fair point. But if we are to judge any religion (Islam, Christianity, even Buddhism) or secular creed (Marxism, nationalism, fascism) by the respect shown by its adherents for the right to life over the last couple of centuries, then none fares too well.

@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.2 Minutes", "wordsset": 259, "keywords": "Britain,Britons,debt,financial,government,labour,squeezed,welfare", "toughwords": 29, "allwords": 378}
+
+Kane,absolute,accelerate,bereft,concentrate,contract,coroner,countenance,creditor,demise,depreciation,desperate,destitution,dipped,distress,erode,grim,inflation,insolvency,lender,measly,notorious,payday,propose,squeeze,statutory,unfreeze,welfare,worsen

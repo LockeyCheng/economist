@@ -1,0 +1,3 @@
+{"suggestedfocus": "7.60 Minutes", "wordsset": 58, "keywords": "Francis,Fukuyama,changing,coined,history,identity,phrase,politics", "toughwords": 5, "allwords": 78}
+
+Divider,Francs,ideological,midterm,phrase

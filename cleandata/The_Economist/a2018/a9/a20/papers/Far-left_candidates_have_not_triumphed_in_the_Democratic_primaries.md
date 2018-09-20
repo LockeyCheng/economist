@@ -1,0 +1,19 @@
+Far-left candidates have not triumphed in the Democratic primaries
+
+Both the party and its candidates have moved leftward. But the vast majority of democratic socialists lost
+
+https://cdn.static-economist.com/sites/default/files/images/2018/09/articles/main/20180922_usp503.jpg
+
+“CHANGE can’t wait,” repeated Ayanna Pressley (pictured) after defeating Michael Capuano, a ten-term incumbent, in her Democratic primary. Three months earlier, Alexandria Ocasio-Cortez pledged that her victory over Joseph Crowley, a 20-year incumbent, was “the beginning” of Medicare for All and other progressive policies in America. To the naked eye, months of left-wing victories in primary elections has placed the Democratic Party on a new path towards democratic socialism. This is misleading. The lesson of this year’s primaries is that Democratic voters are pragmatists who pick the candidate who seems most likely to win, rather than the candidate who seems the most likely heir to Marx.
+
+Ever since an exodus of white conservative southerners from the Democratic Party in the 1960s, objecting to the civil-rights movement, the party has maintained a fragile balance between a coalition of different demographic and social groups. Left-leaning college educated whites, blue-collar social conservatives and nonwhites—especially African Americans—unite under the Democratic banner to elect candidates who reflect a wide array of interests.
+
+Because the party is made up of a coalition of interests from diverse backgrounds, ideological debates have not typically become wedge issues for the Democrats. Whereas being pro-choice is nearly a death sentence for a Republican candidate, a Democrat can take a pro-gun position in 2018 and still find a friendly electorate (Conor Lamb in Pennsylvania is a good example). There is plenty of room for ideological disagreement inside the Democrats’ big tent. According to the Pew Research Centre, just under half of Democrats describe themselves as liberal (meaning leftish), compared with two-thirds of Republicans who say they are conservative. Democratic voters are far from being the no-compromise liberals that the victories of Ms Cortez and Ms Pressley might suggest.
+
+That said, the primary has moved leftward a bit. The same Pew Research Centre study found that 28% of partisans described themselves as liberal in 2000, against 46% in 2017. The candidates have moved, too.  The Economist ’s analysis of a measure of candidate ideology, developed by Adam Bonica of Stanford University, finds that the average Democratic primary-winner in 2018 is about nine points more liberal than in 2016 (see chart). Democratic candidates are also more scattered over the ideological spectrum than they have been in recent years. A higher share are either extremely liberal or atypically moderate compared with previous cycles.
+
+Data from Third Way, a centre-left think-tank, show that candidates endorsed by the progressive groups Our Revolution and Justice Democrats won their primaries no more than 37% of the time. Most of those victories came in places Republicans are almost certain to win. On the other hand, candidates belonging to the moderate New Democrat Coalition or those endorsed by the party establishment won 71 of their 78 primaries. Jim Kessler of Third Way says that voters were looking for fresh faces, not necessarily for liberal ones.
+
+A statistical analysis of Mr Bonica’s ideological scores reveals that the leftward drift of the Democratic Party has not resulted in primary voters placing much weight on left-wing ideology. Voters were more inclined to reward women, incumbents and candidates who seemed a good fit for their districts.
+
+Ms Pressley is right: change has not waited for Democrats. However, this change does not favour democratic-socialists. It favours women, non-whites and party bigwigs. Indeed, to the possible dismay of the left, the centre appears to be holding.

@@ -1,0 +1,13 @@
+What is the Waffle House Index?
+
+How sausages, eggs and waffles help American officials understand hurricane damage
+
+https://cdn.static-economist.com/sites/default/files/20180915_USP506.jpg
+
+WAFFLE HOUSE, a breakfast chain from the American South, is better known for reliability than quality. All its restaurants stay open every hour of every day. After extreme weather, like floods, tornados and hurricanes, Waffle Houses are quick to reopen, even if they can only serve a limited menu. That makes them a remarkably reliable if informal barometer for weather damage. In 2011, both of the restaurants near Joplin, Missouri stayed open during a devastating tornado that killed 158 people and caused $3bn in damage. Because of that, government officials preparing for Florence, a hurricane barrelling towards the Carolina coast, are keenly monitoring the so-called “Waffle House Index”. What is that?
+
+The index was invented by Craig Fugate, a former director of the Federal Emergency Management Agency (FEMA) in 2004 after a spate of hurricanes battered America’s east coast. “If a Waffle House is closed because there’s a disaster, it’s bad. We call it red. If they’re open but have a limited menu, that’s yellow,” he explained to NPR, America’s public radio network. Fully functioning restaurants mean that the Waffle House Index is shining green. The company is leaning into its reputation. On September 11th the company tweeted that the Waffle House Storm Centre “had been activated” and was monitoring Florence. 
+
+A blog post from FEMA, published in 2011, explained why the index is not merely endearing, but also informative: “The sooner restaurants, grocery and corner stores, or banks can reopen, the sooner local economies will start generating revenue again—signalling a stronger recovery for that community.” Though the first-order effect of hurricanes is through the destruction of homes and displacement of people, they can also prove devastating to local economies. New Orleans lost over half its population after Hurricane Katrina—and 40% of its jobs. 
+
+Climate-change scientists think that a warming planet makes for more frequent and more destructive hurricanes. Humanity’s unhelpful tendency to build homes and cities along coastlines also does not help matters. Swiss Re, an insurance firm, estimates that global disasters inflicted $306bn in economic losses last year—almost twice the losses seen in 2016. With countries shuffling their feet on emissions reductions, it is likely that these disasters will become only more costly—even if every business were to become as hardy as America’s indomitable waffle chain.

@@ -1,0 +1,63 @@
+The death of democracy and birth of an unknown beast
+
+A book excerpt and interview with David Runciman, author of “How Democracy Ends”
+
+https://cdn.static-economist.com/sites/default/files/20180915_OPP507.jpg
+
+History provides uncomfortable lessons. Among them is that systems of governance are not immortal and that democracies can devolve into autocracy. As institutions decay and social norms fray, democratic processes and practices are prone to apathy, demagoguery and disintegration. 
+
+One scholar ringing the loudest alarm bell—or perhaps death knell—is David Runciman. He is a professor of politics at Cambridge University and the author of “How Democracy Ends”. His replies are followed by an excerpt from the book. 
+
+*    *    *
+
+  The Economist: Some argue that liberals only worry that democracy is in crisis when people start voting for ideas and candidates that they don't like. Why are they wrong?  
+
+ David Runciman:  Liberals invariably think democracy is in crisis, given that there’s always something for liberals to dislike about a system where the majority decides. What’s different about now is not simply that the liberals are complaining because they are losing, but even the winners are behaving as though they are the victims. Democracy works best when we take it in turns to complain about the system. Now all sides—pro- and anti-Trump, pro- and anti-Brexit—feel like they are being conned. That kind of ecumenical distrust is something new.
+
+  The Economist: Democracy has always faced crises that hobbled it—and forced it to change. Why do you think things are so bad now that it may spell the end?  
+
+ Mr Runciman:  The crises are not the same today—in many ways their scale is wrong. Some are too big and too remote—systemic global economic risk, climate change, the coming of intelligent machines are all challenges that can make individual citizens feel relatively powerless. At the same time, our experience of crisis tends to be increasingly personalised. The crises that did most to galvanise democracy during the last century were wars and the threat of wars—the struggle for national survival meant we were all in it together. Twenty-first century crises too often reinforce our sense that we are all in it separately.
+
+  The Economist: Facebook both undermines and bolsters democracy. Where do you come out on it?  
+
+ Mr Runciman:  The digital revolution has been simultaneously good and bad for democracy, and Facebook is no exception. The good is in the breadth and the openness of the network. The bad is in the secrecy and opacity of the way the network is run. Facebook is a two-billion-strong democratic community and the personal plaything of an unaccountable thirty-something billionaire. If it comes down to a contest between the membership and the ownership of Facebook, Zuckerberg will probably win, as he gets to set the rules. In the end it is only the regulatory power of the state that can make Facebook safe for democracy. 
+
+  The Economist: Shouldn't the benefits of liberal democracy be sufficiently self-evident to voters to make it invincible?  
+
+ Mr Runciman:  The self-evidence is part of the problem. Democracy has become something we take for granted, and so we tend to assume that it will continue to function no matter what we throw at it. I suspect that one reason for Brexit and Trump is not that people have lost faith in democracy but that many have the kind of unthinking faith in it that allows them to believe it can survive anything. Far from making democracy invincible this sort of blithe confidence makes it vulnerable: it gives us licence to indulge our grievances regardless of the consequences.
+
+  The Economist: Democracy is only a means to an end. Can a positive alternative replace it?  
+
+ Mr Runciman:  Yes, there must be alternatives, because it would be absurd to think that the politics of the last hundred or so years is the way it’s meant to be forever. Digital technology, though it has changed so much, has barely changed the way we do politics. That is still to come, and we may just be at the beginning of it. The risks are huge but so too is the possible upside: technology could still set us free. The problem is how we get from here to there: the thing that stands in the way of a better politics is, as always, politics.
+
+*    *    *
+
+ Excerpt from “How Democracy Ends” (Profile Books, 2018), by David Runciman: 
+
+A dystopia is only a bad dream, just as a utopia is a good one—these are places that don’t actually exist. A world populated by immensely powerful, unthinking machines is not a dream. We already live in it. We have done for a long time. It is the modern world. The question of how to live with these machines has always been at the heart of modern politics. 
+
+Gandhi was far from alone in seeing Western democracy as dominated by the political machine. Max Weber, the great German sociologist who was Gandhi’s contemporary, thought the same. The difference was that Weber recognised there was little we could do about it. He accepted that modern democracy was bound to be thoroughly mechanical. Political parties were ‘machines’—soulless constructions designed to withstand the daily grind of winning and holding power. Bureaucracy was ‘an iron cage’. Unlike Gandhi, Weber could imagine no way for our societies to function without these vast, soulless structures. It made democratic politics a peculiarly alienating business. What gave us a voice was also what made us cogs in the machine. That, for Weber, was the modern condition. 
+
+Jeremy Bentham, the philosopher and democratic reformer who was writing a century before Weber and Gandhi, was mocked by his critics as a ‘calculating machine’. He seemed to have reduced politics to a search for the algorithm of human happiness. He wished to know which levers to pull. But Bentham was anything but heartless. He desperately wanted the politics of his time to work better: to be less cruel, less arbitrary and more tolerant of human difference. That meant democratising it. But it also meant making it more formulaic in order to free it from prejudice. Bentham accepted that to humanise politics you had to be willing to dehumanise it first. 
+
+Going even further back, the definitive image of modern politics is a picture of a robot. It comes from the middle of the seventeenth century: In Thomas Hobbes’s Leviathan (1651), the state is described as an ‘automaton’, brought to life through the principle of artificial motion. This robotic state does not think for itself. It has no thoughts apart from the ones that are given it by its component human parts. But if the structure is right, a modern state can turn human inputs into rational outcomes by stripping them of their capacity to feed violent mistrust. Hobbes’s robot is meant to be scary: scary enough that any individual would think twice before taking it on. But it is also meant to be reassuring. The modern world is full of all sorts of machines. This is the machine that was created to master them for our benefit. 
+
+Hobbes understood that the state needed to be built in the image of the things it was trying to control. It had to look human, since if it couldn’t control human beings it would be useless. But it also had to be machine-like: a robot with a human face. This robot was needed to rescue us from our natural instincts. Left to their own devices, human beings were liable to tear any political community to shreds. For Hobbes that was one of the lessons of the ancient world: when politics is based on unmediated human interaction it ends up as a violent free-for-all. All ancient states fell apart eventually. Nothing so purely human is built to last. But a modern machine can be. 
+
+However, there were two big risks with turning the state into a giant automaton. The first was that it wouldn’t be powerful enough. Other artificial creatures that were more ruthless, more efficient, more robotic – and, by implication, less human – might turn out to be stronger. The second was that it would too closely resemble the things it was designed to regulate. In a world of machines, the state might go native. It could become entirely artificial. This is the original fear of the modern age: not what happens when the machines become too much like us, but what happens if we become too much like machines. 
+
+The machines that most frightened Hobbes were corporations. We have grown so used to living with corporations that we have stopped noticing how strange and machine-like they are. For Hobbes, they were another species of robot. They exist for our convenience, but they can acquire a life of their own. A corporation is an unnatural assemblage of human beings, given artificial life in order to do their bidding. The danger was that the humans would end up doing the corporation’s bidding instead. 
+
+Many of the things that we fret about when we imagine a future world of AIs are the same worries that have been harboured about corporations for centuries. Corporations are man-made monsters. They have no conscience because they have no soul. They are able to live longer than people do. Some of them almost appear to be immortal. Corporations, like robots, can emerge unscathed from the wreckage of human affairs. During the first half of the twentieth century, German society underwent a near-death experience. The scale of the human destruction was mind-blowing. Yet some German corporations came through it all as if it had never happened. Some of the biggest German companies created in the nineteenth century are still among the biggest today—Allianz, Daimler, Deutsche Bank, Siemens. It is as though the madness of human beings is nothing to do with them. 
+
+At the same time, corporations are dispensable. Some might live forever, but most of them have a very short shelf life. Humans create them and wind them up in the blink of an eye. Because they have no souls and no feelings, it doesn’t matter. Some corporations are nothing but shells. We proliferate them unthinkingly. They also proliferate themselves. Corporations spew out further corporations—shells within shells—simply to make it hard for ordinary human beings to understand what they are up to. One of the nightmare scenarios for our robot future is what would happen if the robots could self-replicate. We already have some idea of what that would be like—it’s the corporate world. 
+
+Hobbes believed that the only way to control corporations was to empower the artificial state. He was right. Before the eighteenth century, states and corporations competed for territory and influence. And there was no guarantee that the state would come out on top. The East India Company outperformed and outmatched the state in many parts of the world. This corporation fought wars. It raised taxes. On the back of these activities, it became enormously powerful as well as very wealthy. But as the modern state has grown in power and authority, and particularly as it has democratised over the past two hundred years, it has asserted itself. The East India Company was nationalised by the British state in 1858. Roosevelt’s trust-busting at the start of the twentieth century, when he broke up the monopoly power of America’s largest corporations, was further testament to the new-found confidence of the democratic state. Yet it wasn’t really Roosevelt who did it. It was Roosevelt as the human face of the vast American political machine. This was the Leviathan in action. 
+
+Weber was right: modern democracy can’t escape the machine. What Gandhi sought in that regard was utopian. But the democratic machine can help to humanise the artificial modern world. This has long been a part of the promise of democratic politics. until now, the promise has been largely kept. 
+
+A common complaint against twenty-first century democracy is that it has lost control of corporate power. Big companies hoard wealth and influence. They fuel inequality. They despoil the planet. They don’t pay their taxes. For many corporations these kinds of complaints come with the territory—banks and oil companies have heard them all before. But banks and oil companies are no longer the world’s most powerful corporations. That mantle has passed to the technology giants: Facebook, Google, Amazon and Apple. These companies are young and fresh-faced. They believe that what they are doing is good. They are not used to being loathed. The state is not sure how to deal with monsters like these. 
+
+__________
+
+ Excerpted from “How Democracy Ends”. Copyright © 2018 by David Runciman. Used with permission of Profile Books. All rights reserved. 

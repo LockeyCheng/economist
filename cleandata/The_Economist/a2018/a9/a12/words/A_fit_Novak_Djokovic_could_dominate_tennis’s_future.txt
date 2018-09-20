@@ -1,0 +1,3 @@
+{"suggestedfocus": "12.1 Minutes", "wordsset": 464, "keywords": "Djokovic,Elo,Federer,Nadal,Serb,grand,level,tennis", "toughwords": 66, "allwords": 981}
+
+ATP,Borg,Cincinnati,Juan,Marian,Master,McEnroe,Melbourne,Pete,Serb,Spaniard,Swiz,ailment,booth,bulge,cabinet,clay,coach,coincide,comeback,commentary,conquer,considerably,credential,decrease,dominant,dominate,doubtful,elbow,elite,emerge,equivalent,exceed,haul,heap,indicate,junior,legendary,linger,manifest,master,mighty,narrow,opponent,otherworldly,pedestrian,prodigy,quartet,quiver,recurred,reunite,revise,slam,sneaker,solidify,sputter,subsequent,surpass,sustain,tally,tournament,triumvirate,trophy,zenith

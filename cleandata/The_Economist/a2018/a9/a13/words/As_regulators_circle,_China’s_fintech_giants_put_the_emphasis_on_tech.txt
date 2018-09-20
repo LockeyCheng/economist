@@ -1,0 +1,3 @@
+{"suggestedfocus": "14.0 Minutes", "wordsset": 507, "keywords": "Alipay,Ant,China,Tencent,financial,fintech,mobile,services", "toughwords": 71, "allwords": 865}
+
+Ant,Berkshire,Bernstein,Cliff,Epoch,Hathaway,Hold,MasterCard,Oliver,Regulator,Warren,affiliate,assault,backdrop,behemoth,capped,chortle,colossus,combat,consultancy,consumption,counsel,declaration,deflate,deposit,dominate,duo,dynamo,emphasis,estimate,executive,exodus,graft,hoover,humblest,idle,incipient,indicative,infrastructure,inject,launder,leftover,legion,merchant,mere,mutual,offline,ostensibly,portmanteau,profitable,recognition,regulator,remarkable,respectively,restrain,semantic,stall,stem,stuck,topple,transaction,trove,unchecked,ungainly,upstart,upward,valuable,withdraw,wrapped

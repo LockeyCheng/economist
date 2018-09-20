@@ -1,0 +1,3 @@
+{"suggestedfocus": "11.5 Minutes", "wordsset": 346, "keywords": "Court,Supreme,act,federal,laws,minority,pre,voting", "toughwords": 41, "allwords": 623}
+
+Hispanic,Senate,Texas,arguable,attorney,ballot,baseless,bipartisan,clearance,complex,debatable,demonstrate,discrimination,discriminatory,disenfranchise,dismantle,disproportionate,disproportionately,elector,enact,fraud,implementation,injunction,jurisdiction,location,mandate,operative,provision,purge,reduction,registration,reiterate,restriction,restrictive,revise,struck,suppression,turnout,voter

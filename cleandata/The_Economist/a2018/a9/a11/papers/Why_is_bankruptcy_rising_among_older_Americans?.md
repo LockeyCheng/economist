@@ -1,0 +1,19 @@
+Why is bankruptcy rising among older Americans?
+
+The bankruptcy filing rate has declined for younger people
+
+https://cdn.static-economist.com/sites/default/files/20180908_USP509.jpg
+
+AS AMERICA'S economy recovers, the wave of bankruptcies that broke after the financial crisis is receding. In 2010, there were 1.6m bankruptcy filings. In 2017, that had declined to 789,000, the second lowest number since 1990. But recent research suggests that this overall decline masks divergent trends among age groups. Bankruptcy rates amongst those over 55 have been rising. There are a number policy factors behind this trend, but one additional element might be that the generation now reaching retirement —baby boomers—have always been particularly prone to going bust.
+
+Deborah Thorne, a sociologist at the University of Idaho and colleagues  found  that the proportion of all bankruptcy filings made by people over the age of 65 has climbed from 2% in 1991 to 12% between 2013 and 2016. While the bankruptcy filing rate had declined over these two decades for those aged 54 or younger it had risen dramatically for the over-55s.
+
+Why? Across all age groups, breakups, job losses, and income declines alongside medical expenses have long been leading reasons for bankruptcy. To explain the recent rise amongst older populations, the researchers blame less generous Social Security, riskier pension plans and higher out-of-pocket spending on medical care.
+
+Social Security payments have certainly failed to keep up with average wages. Alicia Munnell of Boston College has estimated the value of Social Security payments as compared to medium earnings before retirement. She nets out payments to the Medicare health insurance programme and taxes to generate an income “replacement rate.” For someone who retires at 65, she suggests the replacement rate has fallen from 48% of pre-retirement earnings in 1980 to 38% in 2010. 
+
+Many Americans have no way of supplementing Social Security through savings or private pensions. In 2014 47% of all workers were in a pension plan, according to the Employee Benefit Research Institute—a figure only 2% higher than in 1979. And even those who are enrolled have worse plans than their forebears. The Institute suggests that, in 1979, 84% of private sector employees with a pension scheme had at least some element of guaranteed retirement payment (a defined benefit) in their pension plan. By 2014, just 28% had any level of defined benefit while the rest were completely reliant on plans that contributed to investment funds with payouts dependent on fund returns. This change significantly shifted investment risks from employer to employee as well as leaving retirees with complex decisions about how rapidly to spend down their retirement accounts, both of which increased the risk of financial misfortune.
+
+As well as smaller and less reliable income flows, older people are facing rising costs for health care. Despite public support from the Medicare program, the Centres for Medicare and Medicaid spending report that out of pocket spending for health averaged $2,938 a year in 2012 for those over 65 –that compares to an all-age average of $1,016 and is 20% higher than the figure in 2002.
+
+But while tougher circumstances may play the major role in the greying of American bankruptcy, the data also points to a generational effect at work. In 1991, data from the Consumer Bankruptcy Project suggest the highest bankruptcy rates were among those aged between 25 and 44. In 2001, the highest rates involved the same generation of Americans, now aged 35 to 54. In the period between 2013 and 2016, a little more than ten years later again, the highest rates of bankruptcy were amongst those aged 45 to 64. This cohort, born between the mid-1940s and the mid-1960s, are better known as Baby Boomers. Perhaps another name for them would be the profligate generation.

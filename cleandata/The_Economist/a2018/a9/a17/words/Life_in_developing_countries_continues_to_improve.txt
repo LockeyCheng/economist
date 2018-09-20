@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.62 Minutes", "wordsset": 234, "keywords": "HDI,countries,developing,education,index,measure,outcomes,prosperity", "toughwords": 28, "allwords": 377}
+
+Encouragingly,Inequality,assassinate,assume,coefficient,component,comprehensive,decrease,demonstrate,educational,expectancy,famine,geometric,handy,incorporate,inequality,magnitude,metric,mortality,narrow,persist,presidential,prosperity,unequal,variable,variation,worthwhile

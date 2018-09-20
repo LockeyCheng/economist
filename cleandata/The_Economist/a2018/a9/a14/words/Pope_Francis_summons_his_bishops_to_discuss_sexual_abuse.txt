@@ -1,0 +1,3 @@
+{"suggestedfocus": "11.2 Minutes", "wordsset": 277, "keywords": "Archbishop,Catholic,Francis,Vigan\u00f2,abuse,action,pope,sexual", "toughwords": 62, "allwords": 443}
+
+ARCHBISHOP,Archbishop,Cardinal,Catholic,Chilean,Francs,Pennsylvania,Pope,Theodore,allegation,allege,ambassador,archbishop,boil,cardinal,chronicle,clergymen,clerical,conservative,convention,decisive,discredit,dismay,flip,flop,hierarchy,horrific,initially,intervention,jury,liberal,messenger,minor,misdeed,mishandle,nuncio,papal,pope,predator,prelate,priest,radical,resignation,scald,scandal,secular,seminarian,shield,spite,stretch,summon,superior,suspect,sway,tacitly,theologically,uncover,urgently,vigorously,wrap

@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.8 Minutes", "wordsset": 233, "keywords": "America,Index,Waffle,damage,hurricane,officials,restaurants", "toughwords": 44, "allwords": 341}
+
+Emergency,Florence,Humanity,Hurricane,Joplin,Missouri,NPR,Orleans,Swiz,WAFFLE,Waffle,activate,barometer,batter,coast,coastline,destruction,destructive,devastate,emission,endear,estimate,grocery,hardy,hurricane,indomitable,inflict,informal,informative,recovery,reduction,reliability,reliable,remarkably,reopen,sausage,shuffle,spate,tendency,tornado,unhelpful,waffle

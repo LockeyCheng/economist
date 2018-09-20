@@ -1,0 +1,3 @@
+{"suggestedfocus": "7.15 Minutes", "wordsset": 70, "keywords": "GDP,OECD,countries,education,increasingly,private,sector,total", "toughwords": 4, "allwords": 99}
+
+Scandinavia,household,reliant,tertiary

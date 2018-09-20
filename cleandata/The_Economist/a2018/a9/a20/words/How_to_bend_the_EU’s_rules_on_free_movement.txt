@@ -1,0 +1,3 @@
+{"suggestedfocus": "11.0 Minutes", "wordsset": 280, "keywords": "Britain,European,citizens,countries,free,migration,movement,principle", "toughwords": 35, "allwords": 465}
+
+Advisory,Belgium,Blair,Brussels,Commentary,Denmark,Liechtenstein,MAC,Redgrave,Swiz,THERESA,compromise,concession,constrain,constraint,deliberately,directive,emergency,enforce,hostility,implicit,interpret,invoke,irony,lax,loosely,pointedly,preferential,principality,quota,referendum,registration,tougher,welfare

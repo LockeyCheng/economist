@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.52 Minutes", "wordsset": 154, "keywords": "Europe,European,Sweden,anti,countries,immigrant,parties,vote", "toughwords": 20, "allwords": 208}
+
+PARLIAMENTARY,Swedish,buck,charismatic,coalition,concentrate,conservative,continent,grabbed,holder,kingmaker,liberal,oppose,optimism,parliamentary,populist,sentiment,supremacist,surge

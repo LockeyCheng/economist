@@ -1,0 +1,3 @@
+{"suggestedfocus": "18.6 Minutes", "wordsset": 389, "keywords": "America,Economist,University,competition,correspondent,editor,essay,video", "toughwords": 62, "allwords": 594}
+
+Alexandra,Amber,Ana,Bass,Bulgaria,Cato,Chad,Chung,Computational,Dawson,External,Faisal,Foundation,Grace,Hal,Hayden,Heston,Jasmine,Jay,Joel,Juan,Juliana,Keenan,Lena,Liz,Madeline,Mathematical,Nee,Reynolds,Roxanne,Sawyer,Senior,Seoul,Shapiro,Sinclair,Sofia,Tabitha,Venezuela,anonymity,artificial,assistance,bureau,camps,capitalism,category,correspondent,criteria,deputy,disclose,entail,finalist,implementation,ineligible,mathematics,originality,presentation,propose,shortlist,submission,tolerance,undermine

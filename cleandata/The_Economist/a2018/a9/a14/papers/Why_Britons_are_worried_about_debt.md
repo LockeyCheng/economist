@@ -1,0 +1,13 @@
+Why Britons are worried about debt
+
+They are being squeezed by both the labour market and the welfare state
+
+https://cdn.static-economist.com/sites/default/files/20180915_BLP505.jpg
+
+THE collapse last month of Wonga, a payday lender, was cheered by many Britons. The company, which was the best-known lender in the so-called “short-term, high-cost credit” market, lent money to people who needed something to tide them over until their next paycheque. It was a notorious firm. A coroner’s report in 2014 noted that on the day Kane Sparham-Price, an 18-year-old, hanged himself, Wonga had taken from him part-payment for a debt, emptying his bank account and leaving him in “absolute destitution”. The demise of Wonga may stop some Britons finding themselves in such desperate financial situations. Yet the underlying causes of Britain’s debt troubles are worsening.
+
+In the past two years Britons have been squeezed by both the labour market and the welfare state. Real wages have not grown. Since April 2016 the government has frozen, in cash terms, most working-age welfare benefits. Higher inflation, caused by the Brexit-related depreciation of the pound, has eroded Britons’ purchasing power. The number of zero-hours contracts, under which people do not know in advance how many hours they will work in a given week, remain extremely high by historical standards. Britons have thus dipped into their savings in order to keep spending.
+
+Though there is no perfect measure, it appears that financial distress has risen. A survey from the Bank of England points to a rising share of Britons who are “very concerned about debt”. The number of people turning for help to StepChange, a debt charity, fell after the financial crisis of 2008-09, but has since increased again. Last year 620,000 people contacted the charity, more than ever before. The rate of personal insolvencies started going up in 2016, and accelerated in the second quarter of 2018. The increase in insolvencies has been concentrated in Britain’s poorest parts. Those in financial distress are likely to cut back sharply on spending, which is bad for the economy. They are also more likely to fall into physical or mental ill-health.
+
+The government has promised to help “just-about-managing” families. Yet its measures to aid people in debt are limited. Ministers have proposed a statutory “breathing space” that would grant a person with debt troubles legal protection from creditors for six weeks. It seems unwilling to countenance a bigger step—unfreezing welfare benefits. And it seems bereft of ideas to improve Britain’s measly wage growth. Wonga’s passing marks the end of a grim chapter in British economic history, but it is far from the end of the country’s personal-debt troubles.
