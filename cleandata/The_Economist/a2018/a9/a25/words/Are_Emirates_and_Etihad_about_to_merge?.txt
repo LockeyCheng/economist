@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.9 Minutes", "wordsset": 302, "keywords": "Abu,Dhabi,Dubai,Emirates,Etihad,airline,carrier,tie", "toughwords": 47, "allwords": 485}
+
+Dubai,Emirate,Fitch,Gulliver,Istanbul,aviation,bail,bust,carrier,cautious,churn,delicate,dividend,dominant,dual,emirate,emulate,entail,flagship,flutter,geopolitical,implode,impressive,instability,liability,locate,logistical,merge,merger,minnow,motto,negotiation,overlap,prospect,reasonable,respective,retain,sensitive,spite,strike,takeover,touchy,tougher,turbulence,undergo,unprecedented

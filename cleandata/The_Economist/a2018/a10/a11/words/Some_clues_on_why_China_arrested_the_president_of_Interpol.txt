@@ -1,0 +1,3 @@
+{"suggestedfocus": "11.3 Minutes", "wordsset": 351, "keywords": "Beijing,China,Chinese,Interpol,Zhou,gathering,political,president", "toughwords": 45, "allwords": 608}
+
+Associate,Await,Comrade,Grace,Interpol,absolute,affirmation,allege,attendee,awash,bribe,clue,condemn,conformity,conspiracy,cop,corrupt,corruption,dagger,dawn,declaration,eliminate,err,graft,imprisonment,interpret,lenient,loosely,loyalty,murky,participant,pernicious,plague,popped,presumably,pursuit,quot,reference,resolute,sender,senior,speculation,stance,suspect,suspicion

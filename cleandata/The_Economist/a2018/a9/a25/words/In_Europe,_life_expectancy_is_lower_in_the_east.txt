@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.63 Minutes", "wordsset": 144, "keywords": "Europe,chronic,citizens,east,environments,habits,health,unhealthy", "toughwords": 24, "allwords": 202}
+
+Adriatic,Baltic,Bulgarian,Cyprus,Denmark,Hungarian,Latvian,Lithuanian,Slovakia,Slovenia,Spaniard,Trieste,chronic,continent,contributory,convergence,descend,diabetes,expectancy,fraction,mortality,reduction,scrape,spectrum

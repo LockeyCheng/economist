@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.6 Minutes", "wordsset": 304, "keywords": "Arctic,China,NSR,Russia,Sea,Suez,route,shipping", "toughwords": 46, "allwords": 489}
+
+Arctic,Barents,Canal,Malacca,Siberia,Siberian,Suez,Vladivostok,artery,clime,coast,congestion,corridor,dramatically,drawback,economically,escort,essential,extract,feasible,fossil,icebreaker,inaccessible,infrastructure,interpret,intervene,lane,maritime,navigation,piracy,populate,prospect,senior,sparsely,strategically,territorial,tout,trafficked,transit,unfeasible,venture,vessel,viable,voyage

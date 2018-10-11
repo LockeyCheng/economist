@@ -1,0 +1,3 @@
+{"suggestedfocus": "11.4 Minutes", "wordsset": 295, "keywords": "Berlin,CSU,Germany,Green,affluent,parties,radical", "toughwords": 51, "allwords": 465}
+
+Anton,Bavaria,Bavarian,Berg,Bundestag,Conservative,Economically,affluent,bicker,bohemian,booth,bourgeois,capitalist,centrist,coalition,collar,conscious,conservative,constituency,credibility,fearful,feminism,flown,gentrify,haven,hipster,hype,ideological,itch,liberal,palatable,parliament,populist,pragmatic,pragmatist,pricey,purist,radical,remarkably,sacrifice,shabby,squabble,strife,surge,torn,trendy,undermine,vanish,versus,wiser,youngster

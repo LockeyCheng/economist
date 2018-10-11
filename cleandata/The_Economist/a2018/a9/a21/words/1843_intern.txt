@@ -1,0 +1,3 @@
+{"suggestedfocus": "8.36 Minutes", "wordsset": 96, "keywords": "article,culture,economist,editorial,intern,original,publication,suitable", "toughwords": 9, "allwords": 128}
+
+Applicant,applicant,dispatches,indicate,intern,slot,stipend,suitable,unpublished

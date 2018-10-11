@@ -1,0 +1,3 @@
+{"suggestedfocus": "8.89 Minutes", "wordsset": 149, "keywords": "China,Chinese,Europe,European,FDI,investment,quarter,region", "toughwords": 11, "allwords": 200}
+
+Brussels,Inward,Rhodium,gainsay,influx,innovative,notably,outflow,prompt,superpower,ultimately

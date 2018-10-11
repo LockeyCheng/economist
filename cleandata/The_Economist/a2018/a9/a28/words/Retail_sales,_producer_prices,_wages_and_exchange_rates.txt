@@ -1,0 +1,2 @@
+{"suggestedfocus": "7.57 Minutes", "wordsset": 20, "keywords": "Retail,cdn,default,economist,https,producer,static,wages", "toughwords": 0, "allwords": 20}
+

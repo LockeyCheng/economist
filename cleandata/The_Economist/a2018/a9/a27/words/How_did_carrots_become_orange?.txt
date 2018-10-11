@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.4 Minutes", "wordsset": 238, "keywords": "Dutch,breeding,carotene,carrot,modern,orange,varieties,vivid", "toughwords": 42, "allwords": 367}
+
+Selective,Subterranean,Vitamin,accuracy,assist,associate,beta,bred,carotene,compound,conspicuous,consumption,contempt,coriander,deem,descend,differentiate,emerge,fortuitous,monarch,monarchy,myth,nutritious,originate,parsley,parsnip,photosynthesis,preference,provocative,purposefully,radar,recessive,revolt,selective,spurred,swathe,triumph,turnip,unintentionally,variety,vivid

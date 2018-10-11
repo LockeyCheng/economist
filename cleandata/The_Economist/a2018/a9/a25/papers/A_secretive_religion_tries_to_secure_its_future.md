@@ -1,0 +1,19 @@
+A secretive religion tries to secure its future
+
+The small Middle Eastern community is losing its young to secularism
+
+https://cdn.static-economist.com/sites/default/files/20180922_BLP505_0.jpg
+
+WHEN the Druze make news it is usually for reasons that have nothing to do with their beliefs. This summer tens of thousands of Israeli Druze demonstrated against a new law that emphasised the Jewish character of the Israeli state. They called the law a poor reward for the fact that the country’s 120,000 Druze are loyal citizens who have contributed much to the national army. This month a group of Israeli Druze leaders made more waves by travelling to meet co-religionists in Syria and to offer moral support to those affected by Islamic State terror.
+
+That may be because the Druze, an ethno-religious group whose 1m adherents are spread across Lebanon, Syria and Israel, are the most mysterious of all the spiritual communities that emerged from the geographical heart of monotheism. The precise details of the creed’s traditions and practices are kept secret even from ordinary believers.
+
+When representatives of the Druze speak of their faith, they give the impression that secrecy is an indispensable tactic for a community that has always needed to dodge between rival powers and creeds. This has held true not only in modern times but over the millennium or so since the faith branched off from the Ismaili form of Shia Islam. Kasem Badr, a religious sheikh from Hurfeish, a Druze village in Israel’s Galilee region, says the community has not been truly free to practise its beliefs since it began life in Egypt in the 11th century. “Since the very establishment of our faith, we already began being persecuted,” he says. “That’s why God chose to make it a secretive religion, not us.”
+
+The Druze make no effort to convert outsiders, and they only accept as one of their own a person whose parents were both Druze. Within the Druze community there is one all-important distinction. First, there are men and women known as  uqqal  who have undergone the necessary training and discipline to read and understand the faith’s holy writ. Men in this category dress in dark black robes, women wear white veils. Then there are the  juhhal , literally “ignorant” followers of the creed, who broadly respect its teachings but are content to leave deeper matters of interpretation to others.
+
+The problem, says Mr Badr, is that like almost every other religion in the world, the Druze tradition is affected by the rising tide of secularism. Among the younger generations, fewer pay attention to the wisdom offered by the religion’s spiritual teachers. He worries that if this trend continues, the faith’s survival could be jeopardised.
+
+A similar point is made by Amir Asad, a young Druze activist. In the past, he says, even if a young person “did not know the ‘mystery’ of the Druze religion, he would still follow the rules and limitations imposed by the sheikhs. However, with the penetration of knowledge, information, and education into our villages, young Druze are believing less... They challenge all the prejudices that were imposed on us as kids.”
+
+But Mowafaq Tarif, the spiritual and acting political leader of Israeli Druze, is determinedly optimistic. He thinks the religious community will be galvanised through being at the heart of political storms. He says the fact that the community’s sheikhs or religious teachers took part in the protests this summer has boosted their standing in the eyes of young people; and that in turn has prompted some youngsters to return to their roots. “Common beliefs and problems keep us united,” he says. “Religious people are needed to secure the rights of future generations, without spreading violence.” In other words, the Druze community and its arcane traditions have thrived on adversity for a millennium or so, and that is how they will continue.

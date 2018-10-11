@@ -1,0 +1,17 @@
+Germany’s Greens are older, wiser and doing well
+
+The weak Social Democrats are helping them
+
+https://cdn.static-economist.com/sites/default/files/images/2018/09/articles/main/20180929_eup502.jpg
+
+AT AN outdoor organic market in Berlin trendy students, affluent young professionals and shabby grey-haired academic types queue up for pricey local potatoes. There’s not an out-of-season vegetable, flown-in fruit or plastic bag in sight. This is the only constituency in Germany with a directly appointed Green member of parliament in the Bundestag. The district—which includes the hipster havens of Kreuzberg, Friedrichshain and East Prenzlauer Berg—has a radical past and a bourgeois-bohemian present, popular with alternative oldies and hip youngsters.
+
+The Green Party, which is surging in the polls, is just as gentrified. The students of the 1970s and 1980s who founded the party have stayed loyal and are now often affluent and middle-class. As the Greens have gone grey, their anti-capitalist wing has all but vanished. Economically the party is now firmly centrist, making it palatable to property-owning professionals. But on social issues, the environment and feminism, the Greens have stayed on the radical left. So they appeal to younger voters, students and non-political urban types, who see voting Green as part of a socially-conscious life-style.
+
+The Greens are polling at an average of 15% nationwide, only just behind the right-wing populist Alternative for Germany (AfD), at 16%. In Bavaria, which holds state elections on October 14th, the Greens are in second place, with a record for them in the state of 18%.
+
+“We are profiting from the weaknesses of the other parties,” says Anton Hofreiter, co-leader of the Greens in parliament. A series of undignified coalition squabbles in Berlin has undermined the credibility of the main governing parties, the centre-left SPD, the Bavarian conservative CSU and Angela Merkel’s centre-right CDU, hitting the support of all three. After years of strife between its radical and pragmatic wings, the Green Party’s leadership is suddenly remarkably unified and has managed to rise above the bickering.
+
+All mainstream parties are split internally over migration. Conservative parties are torn between pro-refugee church-goers and right-wingers who want more border controls. Left-wing parties are divided between open-border liberals and blue-collar workers fearful of migrants undercutting their wages. Only the pro-refugee Greens and the anti-migrant AfD are clear on the issue, each standing for opposite sides of the open-versus-closed debate. The Greens have been helped by summer droughts in Germany, reminding voters of the dangers of climate change.
+
+But there is a danger of Green hype. “The Greens tend to do better in polls than in the voting booth,” says Oskar Niedermayer, a political scientist. They are seen as a “nice” party, that people like to say they will support. In reality, at October’s Bavarian elections, many may again opt for the CSU, which is campaigning as the safe choice. As the summer heat fades, so too will some of the attention on climate change. Green leaders may present a united front, but there are still deep ideological divisions between purists, unwilling to sacrifice ideals, and pragmatists, itching to share in government. In Bavaria the Greens might have a chance to enter into coalition talks with the CSU. If so, expect more Green conflict.

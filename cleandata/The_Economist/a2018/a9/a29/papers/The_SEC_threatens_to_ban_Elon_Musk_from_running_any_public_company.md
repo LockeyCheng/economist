@@ -1,0 +1,25 @@
+The SEC threatens to ban Elon Musk from running any public company
+
+Half of Tesla’s value could disappear with him
+
+https://cdn.static-economist.com/sites/default/files/images/2018/09/articles/main/20180929_blp512.jpg
+
+ELON MUSK has probably played a greater role in the success of his company than any chief executive in recent memory apart from Steve Jobs, who led Apple to greatness. It is hard to imagine the rise of Tesla, a pioneering electric-vehicle (EV) manufacturer, from obscure startup to world leader without the technical genius, showmanship and sheer audacity of Mr Musk.
+
+So it comes as a shock that the Securities and Exchange Commission (SEC), the main regulator of America’s stockmarkets, now wants to ban Mr Musk from serving as a director or senior officer at any publicly listed company, including Tesla. After the close of trading on September 27th, the SEC filed a civil lawsuit against Tesla’s boss (but not against Tesla) alleging that he misled shareholders about his plan to take the company private. The mercurial Mr Musk had tweeted on August 7th, “Am considering taking Tesla private at $420. Funding secured.”
+
+In one of the most significant civil prosecutions of alleged securities fraud in many years, the SEC is now seeking to prove in court that Mr Musk defrauded investors through his bizarre and ill-considered actions. The nub of its argument, as laid out in its official filing document, is that Mr Musk “knew that he had never discussed a going-private transaction at $420 per share with any potential funding source.”
+
+That conclusion rests heavily on the figure of $420. Mr Musk had certainly discussed such a transaction with a potential funding source. The SEC acknowledges Mr Musk’s description of his conversations with a sovereign-investment fund from the Middle East, widely reported to be Saudi Arabia’s Public Investment Fund (PIF), one of the world’s richest funds (and already a shareholder in Tesla). Mr Musk is believed to have told the SEC that its representatives had told him simply to inform it of how he wanted to do a transaction and that as long as the terms were reasonable, the fund would accept them.
+
+Yet the agency’s investigation confirmed that no specific terms had been agreed with the fund, including a price. Mr Musk had also not won the approval of his board, nor had he discussed the potential transaction with bankers or other leading investors.
+
+If this case is not settled quickly, precedent suggests that Tesla could have a legal cloud hanging over it for several years. That would make it hard for the cash-strapped firm, which has struggled to ramp up production of its mass-market vehicle, to raise additional funds. This is why companies typically settle such cases, often without the need to admit guilt. News reports suggest that a tentative settlement was reached that would have required him to step down from his post for two years, but that he walked away at the last minute.
+
+What happens next? One possibility is that Mr Musk loses the case and is banned from serving as Tesla’s boss. Some suggest that, on balance, this would be good for a company that requires a CEO who can make it operationally efficient as it seeks to churn out lots more cars rather than an impetuous tech visionary. “Tearing up the deal at the last minute both reflects his erratic manner and explains why the SEC is right to seek the public company bar,” argues Lawrence Cunningham of George Washington University Law School. But this would come at a heavy price for a firm with a brand inextricably linked to its founder. That is why Tesla’s shares dropped by over a tenth on the news of the SEC action, and could collapse if Mr Musk is ousted. Brian Johnson of Barclays, an investment bank, reckons that perhaps half of Tesla’s value would be wiped out were he to leave.
+
+The SEC is clearly incensed by Mr Musk’s oft-stated desire to “burn” short sellers, for whom Tesla has been a favourite target. Among the colourful tweets cited by regulators is this one: “Will be way smoother & less disruptive as a private company. Ends negative propaganda from shorts.” The SEC has presented no evidence that Mr Musk sought to profit personally from his tweet.
+
+A separate criminal inquiry by the Department of Justice is investigating Mr Musk’s actions, but Michael Liftik of Quinn Emanuel Urquhart & Sullivan, a former lawyer at the SEC, explains that the criminal investigators would need to prove Mr Musk’s “knowing and wilful” intent to deceive and defraud the public. The SEC’s civil case uses a lower standard, so misconduct resulting from ignorance or incompetence might still mean he is found guilty.
+
+A less drastic and more likely possibility is that a high-stakes game of poker is underway. The SEC’s lawyers, annoyed by Mr Musk’s last-minute rejection of a deal, may have asked for a ban in court in an effort to get Mr Musk (and his supportive board of directors) to settle for something less draconian. After all, the SEC’s mandate is to protect investors. Whatever Mr Musk’s bumbling misdeeds, crushing Tesla’s valuation and future prospects by ousting him seems like overkill. 

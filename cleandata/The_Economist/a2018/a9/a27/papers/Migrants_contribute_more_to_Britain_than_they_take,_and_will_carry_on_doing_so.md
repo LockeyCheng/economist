@@ -1,0 +1,13 @@
+Migrants contribute more to Britain than they take, and will carry on doing so
+
+Reducing immigration will hurt now, and in the future
+
+https://cdn.static-economist.com/sites/default/files/20180929_WOC424.png
+
+BRITAIN’S Conservative Party has put reducing immigration at the core of its policies. Stopping “uncontrolled immigration from the EU”, as Theresa May, the prime minister, put it in a speech on September 20th, appears to be the reddest of her red lines in the negotiations over Brexit. Any deal that maintains free movement of people, she says, would fail to respect the result of the Brexit referendum.
+
+In her “Chequers” proposal, Mrs May outlined her vision of Britain’s future relationship with the block, which would have placed restrictions on immigration from the EU. But the block rejected it as unworkable, and the stalemate makes the spectre of a chaotic Brexit next March without any agreement far more likely. 
+
+Even if she were to manage to reduce migration significantly, however, Mrs May’s successors might come to regret it. According to the government’s latest review on immigration, by the Migration Advisory Committee (MAC), immigrants contribute more to the public purse on average than native-born Britons do. Moreover, European newcomers are the most lucrative group among them. The MAC reckons that each additional migrant from the European Economic Area (EEA) will make a total contribution to the public purse of approximately £78,000 over his or her lifetime (in 2017 prices). Last year, the average adult migrant from the EEA yielded £2,370 ($3,000) more for the Treasury than the average British-born adult did. Even so, the MAC recommended refining the current immigration system to remove the cap on high-skilled migrants and also said that no special treatment should be given to EU citizens.
+
+With Britain’s population ageing, the country could do with an influx of younger members to its labour force. If net migration were reduced to the Tories’ target of fewer than 100,000 people per year by 2030, every 1,000 people of prime working age (20-64) in Britain would have to support 405 people over the age of 65.  At the present level of net migration, however, those 1,000 people would have to support only 389. This gap of 16 more pension-aged people rises to 44 by 2050. The middle-aged voters who tend to support the Conservatives today are the exact cohort whose pensions are at risk of shrinking if their desired immigration policies were put into practice.

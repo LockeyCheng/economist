@@ -1,0 +1,3 @@
+{"suggestedfocus": "11.0 Minutes", "wordsset": 301, "keywords": "Britain,England,MPs,boundaries,constituency,electoral,parliament,voters", "toughwords": 55, "allwords": 474}
+
+Cameron,Cornish,Cornwall,Demographic,Devon,Hebrides,Impassioned,Isle,Theresa,Tory,Wales,Wight,amend,bis,blast,boundary,coast,constituency,constituent,consultation,crunch,discrepancy,dominant,drift,electorate,execution,fracture,geographical,irregularity,legislature,lengthy,marginal,merge,mixture,nationalist,notably,parliament,parliamentary,plea,pluck,proposal,propose,quirk,recommendation,redrawn,rekindle,represent,senior,suburb,swallow,swell,tout,tricky

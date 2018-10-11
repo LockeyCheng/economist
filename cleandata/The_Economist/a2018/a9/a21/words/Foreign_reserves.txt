@@ -1,0 +1,2 @@
+{"suggestedfocus": "7.51 Minutes", "wordsset": 14, "keywords": "Foreign,cdn,default,economist,files,https,reserves,static", "toughwords": 0, "allwords": 14}
+

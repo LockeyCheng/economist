@@ -1,0 +1,3 @@
+{"suggestedfocus": "8.49 Minutes", "wordsset": 57, "keywords": "Bannon,Steve,cdn,https,interview,populism,protectionism,strategist", "toughwords": 7, "allwords": 70}
+
+Divider,Steve,disagreement,populism,protectionism,senior,strategist

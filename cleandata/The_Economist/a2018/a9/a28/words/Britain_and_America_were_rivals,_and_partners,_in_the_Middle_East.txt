@@ -1,0 +1,3 @@
+{"suggestedfocus": "7.79 Minutes", "wordsset": 50, "keywords": "America,Britain,Desert,East,Lords,Pax,partners,rivals", "toughwords": 5, "allwords": 69}
+
+Americana,Britannica,Dominate,Supremacy,transition

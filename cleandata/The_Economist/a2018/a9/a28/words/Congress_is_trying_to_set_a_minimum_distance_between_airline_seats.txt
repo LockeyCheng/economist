@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.57 Minutes", "wordsset": 251, "keywords": "FAA,airline,bill,low,minimum,passengers,pitch,rows", "toughwords": 26, "allwords": 434}
+
+Aviation,Delta,Elliott,Frontier,Gary,Legacy,Senate,backfire,cramp,equation,frill,indicate,legacy,legislation,legroom,mandate,overrule,persuasively,pitch,pitches,reasonable,regulator,senator,tighter,ultra,weary

@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.6 Minutes", "wordsset": 302, "keywords": "Britain,France,century,employees,holiday,members,shift,weekend", "toughwords": 43, "allwords": 474}
+
+Advocate,Depression,GRADY,Grady,Industrialist,Keynes,Maynard,Reformation,abundance,achievable,angle,apparently,bass,capitulate,cement,concession,deride,embolden,equivalent,feasibility,federation,gauntlet,gig,happier,leap,leisure,lengthen,mandate,metalworker,nudge,pessimistic,productivity,reluctant,seize,skip,sober,symbolic,tellingly,threshold,threw,timescale,toil,unprecedented

@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.3 Minutes", "wordsset": 298, "keywords": "basic,education,figures,global,healthcare,index,opportunities,released", "toughwords": 32, "allwords": 485}
+
+Gallup,Imperative,category,comprise,correlate,decrease,distinction,divergence,downward,dye,elaborate,enlighten,erosion,expectancy,foundation,gloomier,inception,inclusiveness,infrastructure,lag,negative,pollster,proportion,provision,rudimentary,sanitation,shelter,societal,stark,sufficient,tertiary,variable

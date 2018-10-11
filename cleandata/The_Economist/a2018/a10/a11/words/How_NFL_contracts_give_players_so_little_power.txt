@@ -1,0 +1,3 @@
+{"suggestedfocus": "9.49 Minutes", "wordsset": 285, "keywords": "NFL,National,contract,owners,players,salary,signed,team", "toughwords": 31, "allwords": 522}
+
+Donovan,Hockey,Kirk,NHL,Pittsburgh,Rams,Redskin,Russell,Todd,activate,anomaly,consent,contract,escrow,estimate,expire,fraction,fulfill,harbinger,hesitate,incentive,length,portion,rarity,renegotiation,retain,rewrite,strike,trad,underwhelm

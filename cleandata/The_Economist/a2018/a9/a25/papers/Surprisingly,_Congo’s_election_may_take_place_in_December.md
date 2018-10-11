@@ -1,0 +1,17 @@
+Surprisingly, Congo’s election may take place in December
+
+President Kabila’s anointed successor has the advantage that his biggest rivals are out of the race
+
+https://cdn.static-economist.com/sites/default/files/images/2018/09/articles/main/20180922_map503.jpg
+
+A GENERAL election in the Democratic Republic of Congo scheduled for December 23rd looks, surprisingly, as if it may actually take place. That in itself would be a break from the recent past. The vote should have been held before the expiry of Joseph Kabila’s final term as president in December 2016. But he repeatedly delayed it. Now, however, his main rivals have been excluded from running, which may just have cleared the path for his handpicked successor.
+
+The candidate in question, Emmanuel Ramazani Shadary, is described on the ruling party’s website as “the man for difficult situations”. It compliments his brains and experience. Others are less lavish in their praise. The European Union has imposed a travel ban and financial sanctions on him in his role as interior and security minister, for the hand he played in delaying the election and brutally suppressing anti-government protests last year. Mr Shadary is among 21 candidates who registered with the electoral commission last month and has been authorised by the court to run.
+
+Five people were excluded, most notably Jean-Pierre Bemba, a former vice president. Mr Bemba was released from prison in The Hague after an appeal court overturned his earlier convictions by the International Criminal Court (ICC) on charges of war crimes. He arrived back in Congo just in time to put his name forward as a presidential candidate. But on September 17th he was handed a new sentence by the ICC, this time for witness-tampering. He was fined €300,000 ($352,000) and sentenced to a year in prison. He does not have to serve that, as he has already been locked up for longer. But this conviction disqualifies him from running for president.
+
+With Mr Bemba out the race, as well as Moïse Katumbi (a popular former provincial governor who was barred from entering the country to declare his candidacy), the only candidates who pose a threat to Mr Kabila’s plans are Felix Tshisekedi and Vital Kamerhe. They, along with other opposition leaders, recently said that they would unite behind a single candidate—that is, if they manage to agree on somebody. Given their quarrelsome history, that is a tall order.
+
+Campaigning will also be difficult for the opposition; Congo’s police continue to terrorise anyone who takes to the streets to rally against the government. Earlier this week a coalition of civil-society groups decided to protest against what they call an unfair electoral process. Looking nervous but determined, a group of young men in matching white shirts crossed the road to a government building, blowing whistles and waving banners. “Say no to a non-inclusive election” read one placard. “Activism is not a crime” said another. As soon as they had assembled, a group of policemen turned up, tore the banners out of their hands and hit them with the butts of their rifles. One activist ended up in hospital with a bleeding head.
+
+The election is gearing up to be neither free nor fair. But perhaps that it might happen at all counts as progress.

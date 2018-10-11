@@ -1,0 +1,21 @@
+An election upset in the Maldives
+
+Abdulla Yameen, the strongman president, lost to a diminished opposition
+
+https://cdn.static-economist.com/sites/default/files/images/2018/09/articles/main/20180929_blp502.jpg
+
+THE last time Abdulla Yameen looked on the verge of losing power, in February, he declared a state of emergency and locked up two Supreme Court justices, members of parliament and even his own half-brother. His preparations for the presidential election on September 23rd appeared just as thorough. The most prominent leaders of the opposition remained in jail or in exile. The government had showered voters with pre-election goodies, such as waiving rent fines and trimming prison sentences. The police went as far as to raid the opposition alliance’s headquarters the day before the vote.
+
+And yet, when the results came in, to general astonishment, Mr Yameen was declared to have lost, with only 42% of the vote. The winner was the unassuming but unjailed Ibrahim Mohamed Solih (pictured), the leader of the diminished opposition in parliament. Mr Yameen, who had appeared determined to cling to power just six months before, conceded without protest.
+
+Mr Solih, who is known by his nickname, Ibu, has pledged to overturn the dubious convictions of his fellow opposition leaders, most notably the country’s first democratically elected president, Mohamed Nasheed, who is the leader of the Maldivian Democratic Party, to which Mr Solih belongs. “For many of us this has been a difficult journey, a journey that has led to prison cells or exile,” Mr Solih said as he claimed victory. “It’s been a journey that has ended at the ballot box.”
+
+Maldivians can only hope that the journey is indeed at an end. Their country, a string of atolls amid the Indian Ocean with a population of just 430,000, was a dictatorship for 30 years under Maumoon Abdul Gayoom, Mr Yameen’s half brother. He allowed a competitive election to be held in 2008, which he duly lost to Mr Nasheed. But Mr Nasheed was forced from office in murky circumstances in 2012 and Mr Yameen beat him in a disputed election the following year by just 6,000 votes. His government soon began to show an authoritarian streak, prosecuting Mr Nasheed, among others, for supposedly plotting to overthrow it. Most observers—including  The Economist —had assumed he had no intention of letting voters’ preferences get in the way of his re-election.
+
+Conducting a proper vote across the archipelago’s 187 inhabited islands is an arduous business in the best of circumstances. The Election Commission extended voting until well after the sweltering tropical sun had set on determined voters; turnout was 89%. Results soon came trickling in, first from the small polling stations for staff at the luxury resorts for which the Maldives is famous, and later from the cities. They all pointed to an opposition upset.
+
+In the capital, Malé, the recently expanded road leading to the newly completed China-Maldives Friendship Bridge was scarcely wide enough for the hundreds of opposition supporters who thronged around the victorious Ibu just after midnight. Motorcyclists brandishing the opposition’s yellow flags honked their way around the otherwise eerily quiet island capital.
+
+Mr Yameen has offered Maldivians a steady diet of nationalism and religiosity, spiced with Chinese and Saudi-funded development projects. Mr Solih and the opposition are seen as being closer to India. Many of Mr Yameen’s big schemes will doubtless receive the scrutiny parliament was unable to give them previously. Some of his strongman policies, such as the re-introduction of the death penalty and the re-criminalisation of defamation, may be rolled back. And the corruption scandals and unexplained murders of critics that marred his rule are likely to be investigated more thoroughly.
+
+Speaking from nearby Sri Lanka, an exultant Mr Nasheed declared that Maldivians had “taken back their country from the brink”. On Twitter, he declared, “Democracy is a historical inevitablility.” In the Maldives at least, until this week it had seemed anything but. 

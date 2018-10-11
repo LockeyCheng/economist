@@ -1,0 +1,3 @@
+{"suggestedfocus": "11.3 Minutes", "wordsset": 326, "keywords": "IDF,Israel,exercises,forces,ground,military,war", "toughwords": 62, "allwords": 518}
+
+Grunt,Lebanese,Lebanon,Palestinian,acquisition,anecdotal,arsenal,attrition,auditor,battlefield,bras,brigade,cite,commando,compile,comprise,conscript,constant,contingent,corp,covert,criticism,cum,depot,dispute,disrupt,elite,emergency,equipped,erode,external,formation,grumble,haul,incursion,inquiry,inspect,militia,mundane,nightmare,occupation,ombudsman,operational,outsider,overhead,patrol,precedence,readiness,reservist,resourceful,simultaneously,squadron,stint,strenuously,suck,tempo,unaware,undertake,unprepared,unwieldy,warfare,warrior

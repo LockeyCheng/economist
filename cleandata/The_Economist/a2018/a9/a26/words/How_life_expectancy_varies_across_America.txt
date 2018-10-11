@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.6 Minutes", "wordsset": 293, "keywords": "America,Fearrington,Stilwell,census,data,estimated,expectancy,income", "toughwords": 44, "allwords": 555}
+
+Census,Cherokee,County,Evaluation,Median,Medicare,Metric,Somalia,affluent,agrarian,analyses,census,component,concentrate,county,dairy,diabetes,discrimination,eligible,estimate,expectancy,expenditure,forcibly,geographical,household,hypertension,inequality,insure,locate,luxury,median,metabolic,notably,obesity,poverty,preventive,proportion,relocate,shorten,territory,tract,variation

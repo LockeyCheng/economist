@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.1 Minutes", "wordsset": 214, "keywords": "American,Democratic,Democrats,Republicans,candidates,election,female,share", "toughwords": 41, "allwords": 330}
+
+Democratic,Ferraro,Geraldine,JULY,Mondale,Walter,aisle,antidote,ballot,concentration,constant,contraception,disadvantage,discrepancy,disproportionately,electorate,grope,harassment,hinge,incline,inclusion,incumbent,linger,maternity,nominate,nomination,nominee,paltry,predictor,presidential,propensity,proportion,pundit,respondent,sexism,stem,stretch,surge

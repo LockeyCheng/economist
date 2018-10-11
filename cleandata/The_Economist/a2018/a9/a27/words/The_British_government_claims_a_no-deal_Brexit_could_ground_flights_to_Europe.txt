@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.2 Minutes", "wordsset": 319, "keywords": "Brexit,Britain,British,European,diplomats,flights,fly,government", "toughwords": 31, "allwords": 572}
+
+Aviation,Gulliver,Leary,Lufthansa,bilateral,bloc,carrier,credible,departure,detriment,diplomat,expose,forge,hotelier,howl,implication,influential,lobby,muddle,notably,ownership,resort,ridiculous,scaremonger,scenario,slot,subsidiary,suspect,underscore,valuable,vital

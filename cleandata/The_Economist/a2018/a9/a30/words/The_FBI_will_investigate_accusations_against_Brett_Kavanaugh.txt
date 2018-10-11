@@ -1,0 +1,3 @@
+{"suggestedfocus": "12.3 Minutes", "wordsset": 394, "keywords": "Blasey,Court,FBI,Flake,Kavanaugh,Senate,Supreme,senators", "toughwords": 69, "allwords": 721}
+
+Ana,Brett,Capitol,Christine,Collin,Flake,Gallagher,Judiciary,Leland,SENATOR,Senate,Senator,accusation,allegation,allege,antithetical,anxious,artificial,assault,bass,cease,chamber,conferred,confirmation,contemporary,credible,defector,diligence,dismiss,downcast,elevator,furious,furiously,harsh,horizon,imperil,inquiry,interrupt,investigate,location,moderate,narrow,narrowly,nomination,nominee,prompt,proposal,reasonable,recommendation,recruit,reopen,ripped,senator,sensible,stifle,stuck,sway,testimony,threw,transcript,uncover,violate,wrapped,wrench,yell

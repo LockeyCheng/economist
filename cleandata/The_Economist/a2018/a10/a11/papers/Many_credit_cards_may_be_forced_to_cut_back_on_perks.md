@@ -1,0 +1,17 @@
+Many credit cards may be forced to cut back on perks
+
+One more benefit of business travel could bite the dust
+
+https://cdn.static-economist.com/sites/default/files/20181006_WBP501.jpg
+
+ONE of the not-so-secret perks of business travel is frequent-flyer points. A trip may end with business unresolved, aches and pains from hours on a plane and a large dose of jet lag. But at least some points will be earned. With some credit cards, like Chase Bank’s premium Sapphire Reserve, users earn three points for every dollar spent on travel or dining, each of which can be redeemed for benefits worth 1.5 cents. So a trip with $3,000 in reimbursed expenses, no matter how fruitless, will still net the traveller $135 worth of points, or potentially more if they are spent on flights.
+
+In America, that may be changing. Some of the country’s largest retailers, including giants like Amazon and Target, are pushing credit card companies for a policy change that could have huge implications for premium rewards cards. Currently, under the so-called “honour all cards” rule, if a merchant accepts payment by Visa or Mastercard, it must accept all cards branded as Visa or Mastercard. The problem for merchants is that from their perspective, not all of these cards are equal. Many premium rewards cards—the ones that offer all those bonus points—charge merchants a fee of 2.1% or more on each transaction, compared with an average of 1.2 to 1.7% on non-premium cards, according to the 
+
+, a newspaper. And so they want to be able to pick and choose, to accept certain Visa or Mastercard or American Express cards with lower fees but not others.
+
+If retailers like Amazon and Target succeed in breaking the “honour all cards” rule, it might not immediately have a big effect on business travellers, who do not spend much time on trips shopping at out-of-town shopping malls or online. But it could herald a much bigger change. The precedent set by these retailers would surely entice others to follow. Given the choice, why should a restaurant settle for paying an extra twice as much to accept credit-card fees when it too can block premium cards and accept only basic ones? Airlines and hotels might be slower to follow suit, given the competition among them for business travellers. But eventually the fees charged by premium cards—$450 annually for the Chase Sapphire Reserve for example—would be hard to justify when more and more places stop accepting them.
+
+In Europe, this change has already largely taken place. In December 2015, the European Commission imposed the Interchange Fee Regulation, which capped the transaction fee paid by retailers to credit card companies at just 0.3%. (Previously, retailers were paying an average of 0.8%.) A number of banks and credit-card companies quickly cut perks for customers. 
+
+However in America victory for the retailers today is far from certain, especially after the Supreme Court this year upheld an American Express policy banning them from offering customers incentives to pay with lower-fee cards. But as future agreements are negotiated between merchants and credit-card companies, the former appear increasingly likely to fight for an unbundling that could put a dent in the premium rewards cards that have become a major perk of business travel.

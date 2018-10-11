@@ -1,0 +1,3 @@
+{"suggestedfocus": "12.5 Minutes", "wordsset": 309, "keywords": "China,Chinese,Holy,Vatican,authorities,bishops,diplomatic,step", "toughwords": 52, "allwords": 510}
+
+Cardinal,Catholic,Catholicism,Francs,Lithuania,Pope,Protestant,Zen,albeit,answerable,approve,authoritarian,betrayal,breakthrough,clerical,closure,compromise,constructive,courageous,demolition,diplomatic,essential,fathom,flock,inevitable,intensify,internment,irony,legitimacy,naive,negotiate,outline,outright,persecution,populous,poverty,predicate,prelate,prerequisite,provisional,realism,repression,secular,steppe,stone,superpower,swallow,traditionalist,veto,welfare,wolves
