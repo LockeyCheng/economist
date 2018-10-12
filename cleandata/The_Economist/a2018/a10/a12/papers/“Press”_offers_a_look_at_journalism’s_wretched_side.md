@@ -1,0 +1,19 @@
+“Press” offers a look at journalism’s wretched side
+
+The BBC One drama’s portrayal of newspaper journalism gets the small stuff wrong but the big things right
+
+https://cdn.static-economist.com/sites/default/files/20181013_BKP504.jpg
+
+CONSIDERING their job is to take an interest in the world around them, journalists have an unlikely favourite topic: themselves. “Press”, a BBC One drama on the travails of two newspapers that aired its final episode on October 11th, provided the perfect opportunity for industry navel-gazing.
+
+The show follows the  Herald , a liberal, overly-earnest broadsheet, and the  Post , a hard-nosed tabloid. While the  Herald  is struggling with the decline of print, the  Post  is going strong. It is serious journalism versus tabloid tittle-tattle. Scruffy northern hacks at the  Herald  investigate dodgy practices by retailers, while besuited Oxford-educated journalists at the  Post  use their charm and brain power to screw over children’s TV presenters.
+
+Whenever journalism is fictionalised, hacks delight in pointing out mistakes. Journalists earn a living blithely summarising other people’s work. But they are surprisingly tetchy when others do it to them. “Press” is littered with inaccuracies, which viewing journalists revelled in. Recording people without consent is a legal rat’s nest, yet happens with alacrity on the show. Real-world sub-editors guffawed at duff headlines and dreadful intros. (Although lousy copy from a star reporter is a surprisingly common occurrence.) 
+
+ 
+
+There are bigger problems, too. In one episode, a billionaire takes out an injunction against the  Herald , which leads to an edition being pulped. Rather than being used as a fabulous advert for the newspaper’s journalistic derring-do and an indictment of free speech in Britain, the editor apologises for missing an edition. Likewise, even the most cavalier tabloid editor would blink at calling someone a paedophile on their front page, based on one person’s allegation, as the  Post  did one day. Although set today, characters speak about the internet as if it is niche pursuit rather than an asteroid that has already smashed the newspaper industry apart. At times, the show feels more 1998 than 2018.
+
+But “Press” gets lots of things right. There is the low-level sociopathy required of journalism. Turning up on a stranger’s doorstep because their relative dropped dead in a newsworthy way is not normal behaviour. The depiction of the top brass rings true. The editor of the  Post , played by Ben Chaplin, has a slithering charm and menace. Journalism requires winning people over and, occasionally, shafting them. Editors are among the last of the managerial silverbacks. Newspapers are not democracies but (usually benign) dictatorships. Even if it has been decades since they earned anything approaching a typical salary or attended an event without canapes, the best editors still have a supernatural instinct for what their readers want.
+
+Where “Press” hits closest to home is in the deranged self-importance of many reporters. “Fucking news!” screams the wife of the  Post ’s editor in one exchange. “More important than your son?” “No, more important than you,” he replies. There is a tendency among journalists to believe that their work is uniquely significant and stressful. That because they are cursed with late-night calls from news desks or furious, highly paid spin doctors, the job exacts an incomparable toll compared with other professions. Some journalists do risk their lives to report on corruption or from a frontline. Most do not, yet still try to bask in the glow of braver colleagues, even if all they do is write snarky TV reviews. “Our job is the truth!” shouts one character. But with polls showing   that journalists are about as popular as politicians and estate agents, it seems that not everyone agrees.

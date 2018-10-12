@@ -1,0 +1,3 @@
+{"suggestedfocus": "10.0 Minutes", "wordsset": 130, "keywords": "Airlines,Singapore,engine,flight,fuel,haul,longest,routes", "toughwords": 24, "allwords": 163}
+
+Qantas,THURSDAY,booze,cabin,cattle,domestic,efficiency,endurance,fashionable,flier,gulp,handy,haul,profitable,ration,recoil,reinstate,sardine,schlep,snaffle,squish,thinkable,unthinkable,wretches
